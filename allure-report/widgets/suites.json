@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "710c0e72e4abb01a183be02cb0186bfc",
+    "name" : "Test the page title: Check weather forecast for specific city",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

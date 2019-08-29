@@ -1,0 +1,165 @@
+{
+  "uid" : "97abdf2fd971aaaf",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I click on a 5 to hide the wethere forecast",
+  "historyId" : "85e5bb7b030b0473a5ad1950d135698f",
+  "time" : {
+    "start" : 1567115584527,
+    "stop" : 1567115590603,
+    "duration" : 6076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567115587532,
+        "stop" : 1567115587545,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "77d4d248999ea91b",
+        "name" : "Request",
+        "source" : "77d4d248999ea91b.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "4447ea3b838f1e5b",
+        "name" : "Response",
+        "source" : "4447ea3b838f1e5b.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.4657508308872178-6/click",
+      "time" : {
+        "start" : 1567115587547,
+        "stop" : 1567115587599,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to hide the wethere forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d4844ab9a66a908",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115552235,
+        "stop" : 1567115552235,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ad8d55ff64eb3878",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115480403,
+        "stop" : 1567115480403,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd263fede920057e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113762557,
+        "stop" : 1567113768646,
+        "duration" : 6089
+      }
+    }, {
+      "uid" : "23404155dcaa940c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113719998,
+        "stop" : 1567113726086,
+        "duration" : 6088
+      }
+    }, {
+      "uid" : "b79d1e558a670ca4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113650524,
+        "stop" : 1567113656606,
+        "duration" : 6082
+      }
+    }, {
+      "uid" : "fd95273c446cb018",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112986356,
+        "stop" : 1567112992438,
+        "duration" : 6082
+      }
+    }, {
+      "uid" : "9bb00a95a73c2e59",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567112915369,
+        "stop" : 1567112915369,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97abdf2fd971aaaf.json",
+  "parameterValues" : [ "chrome" ]
+}

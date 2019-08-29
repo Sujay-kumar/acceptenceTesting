@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given I open the site \"/\"",
+    "uid" : "4b71b7e074f1fd21",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115574190,
+      "stop" : 1567115574192,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "336036bb8848b890",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115574193,
+      "stop" : 1567115575472,
+      "duration" : 1279
+    },
+    "flaky" : true,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "And I enter edinburgh name",
+    "uid" : "268b42448650b4d7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115575472,
+      "stop" : 1567115584369,
+      "duration" : 8897
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "And I verify five days weather is displayed",
+    "uid" : "794c004168f60071",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115584369,
+      "stop" : 1567115584400,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "And I click on a 5 to check hourly forecast",
+    "uid" : "83949cec6ebacf99",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115584400,
+      "stop" : 1567115584527,
+      "duration" : 127
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "And I click on a 5 to hide the wethere forecast",
+    "uid" : "97abdf2fd971aaaf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1567115584527,
+      "stop" : 1567115590603,
+      "duration" : 6076
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

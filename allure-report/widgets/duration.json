@@ -1,0 +1,61 @@
+[ {
+  "uid" : "97abdf2fd971aaaf",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567115584527,
+    "stop" : 1567115590603,
+    "duration" : 6076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "268b42448650b4d7",
+  "name" : "And I enter edinburgh name",
+  "time" : {
+    "start" : 1567115575472,
+    "stop" : 1567115584369,
+    "duration" : 8897
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83949cec6ebacf99",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567115584400,
+    "stop" : 1567115584527,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "794c004168f60071",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567115584369,
+    "stop" : 1567115584400,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b71b7e074f1fd21",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567115574190,
+    "stop" : 1567115574192,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "336036bb8848b890",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567115574193,
+    "stop" : 1567115575472,
+    "duration" : 1279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

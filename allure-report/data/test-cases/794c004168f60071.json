@@ -1,0 +1,150 @@
+{
+  "uid" : "794c004168f60071",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I verify five days weather is displayed",
+  "historyId" : "afe12acda58d5900bf20193886352523",
+  "time" : {
+    "start" : 1567115584369,
+    "stop" : 1567115584400,
+    "duration" : 31
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567115584370,
+        "stop" : 1567115584387,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a899e8f30635b264",
+        "name" : "Request",
+        "source" : "a899e8f30635b264.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "f649314560cad956",
+        "name" : "Response",
+        "source" : "f649314560cad956.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b8d6884c3b745f7c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115552234,
+        "stop" : 1567115552234,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f5bff23f7d67982f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115480402,
+        "stop" : 1567115480402,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "98f1dafcfe31ea4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113762397,
+        "stop" : 1567113762430,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "6b51ff9deed128ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113719825,
+        "stop" : 1567113719855,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "b443e34cef4aa9a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113650364,
+        "stop" : 1567113650390,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "f9a7236ac6f635e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112986196,
+        "stop" : 1567112986227,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "cb9f2ecae20f1107",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567112915368,
+        "stop" : 1567112915369,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "794c004168f60071.json",
+  "parameterValues" : [ "chrome" ]
+}
