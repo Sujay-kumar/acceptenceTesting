@@ -16,9 +16,9 @@ Given(/^I verify five days weather is displayed$/, function () {
     var results = $$("//div[@data-reactroot]/div/div/span[1]/span[1]");
     let text = results.length;
     if(text===5){
-        console.log("five days weather is displayed");
+        console.log("****** five days weather is displayed **********" );
     }else {
-        console.log("Displaying less or more than 5 days");
+        console.log("****** Displaying less or more than 5 days ********");
     }
 });
 Given(/^I click on a (.*) to check hourly forecast$/, function (val) {
