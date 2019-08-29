@@ -24,3 +24,13 @@ To run test scenarios:
     $ npm run test
 
 ### Both application and test scenario runs with one same cammand
+
+Reporting : Used Allure Reporter
+
+command to generate report after test execution.
+
+     $ npx allure generate --clean
+
+command to open report.
+
+     $ npx allure open
