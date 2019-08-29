@@ -23,4 +23,4 @@ To run test scenarios:
 
     $ npm run test
 
-### Both application and test scenario runs with one cammand
+### Both application and test scenario runs with one same cammand
