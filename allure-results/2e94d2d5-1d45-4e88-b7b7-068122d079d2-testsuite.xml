@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1567160041163' stop='1567160046710'>
+    <name>Test the page title: Error scenarios</name>
+    <title>Test the page title: Error scenarios</title>
+    <test-cases>
+        <test-case start='1567160041164' status='passed' stop='1567160041165'>
+            <name>Given I open the site "/"</name>
+            <title>Given I open the site "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1567160041166' status='passed' stop='1567160042258'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567160041169' status='passed' stop='1567160042257'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='d8adb87a-5842-4e49-9729-1b16e64adbfb-attachment.json' type='application/json' size='37'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567160042258' status='broken' stop='1567160046709'>
+            <name>And I verify blank value for city display error Error retrieving the forecast</name>
+            <title>And I verify blank value for city display error Error retrieving the forecast</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567160042260' status='passed' stop='1567160042279'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='eb3feef5-13c4-4f6e-afd8-cd7e1b051b9d-attachment.json' type='application/json' size='49'/>
+                        <attachment title='Response' source='866faecd-7e6a-4b95-974e-cb383caf1455-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567160042284' status='passed' stop='1567160042308'>
+                    <name>POST /session/:sessionId/element/0.9355185586473851-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.9355185586473851-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567160046310' status='passed' stop='1567160046326'>
+                    <name>POST /session/:sessionId/element/0.9355185586473851-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.9355185586473851-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567160046326' status='passed' stop='1567160046678'>
+                    <name>POST /session/:sessionId/element/0.9355185586473851-1/value</name>
+                    <title>POST /session/:sessionId/element/0.9355185586473851-1/value</title>
+                    <attachments>
+                        <attachment title='Request' source='247c3f3a-a51a-4ae5-a1f6-5224aa1615a1-attachment.json' type='application/json' size='28'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567160046678' status='passed' stop='1567160046693'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='0e876062-4e97-44c0-b75b-26466fc1106b-attachment.json' type='application/json' size='82'/>
+                        <attachment title='Response' source='eb55fcac-6e63-46f6-845a-db2b2859df2a-attachment.json' type='application/json' size='306'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567160046695' status='passed' stop='1567160046705'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='f699f56c-a43f-4e83-84b0-10a87513972c-attachment.json' type='application/json' size='82'/>
+                        <attachment title='Response' source='9e8ec855-d5e5-4d2f-a5e6-c557e000de24-attachment.json' type='application/json' size='306'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Errormsg.isDisplayed(...).then is not a function</message>
+                <stack-trace>TypeError: Errormsg.isDisplayed(...).then is not a function
+                    at World.&lt;anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:52:28)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

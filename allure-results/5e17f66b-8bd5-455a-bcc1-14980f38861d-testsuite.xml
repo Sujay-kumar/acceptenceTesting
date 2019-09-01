@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1567286965172' stop='1567286975307'>
+    <name>Test the page title: Error scenarios</name>
+    <title>Test the page title: Error scenarios</title>
+    <test-cases>
+        <test-case start='1567286965173' status='passed' stop='1567286965175'>
+            <name>Given I open the site "/"</name>
+            <title>Given I open the site "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1567286965175' status='passed' stop='1567286966220'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567286965178' status='passed' stop='1567286966219'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='c3d0a0d0-c193-49b3-94e2-de13a9035d7e-attachment.json' type='application/json' size='37'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567286966220' status='broken' stop='1567286975306'>
+            <name>And I verify blank value for city display error Error retrieving the forecast</name>
+            <title>And I verify blank value for city display error Error retrieving the forecast</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567286966222' status='passed' stop='1567286966240'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='dcd359b6-2d90-4e22-a6d2-e2dc49334800-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='a38f11ff-08d9-4584-8fad-bcd6fb9ea0c6-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567286966245' status='passed' stop='1567286966271'>
+                    <name>POST /session/:sessionId/element/0.3972050401761893-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.3972050401761893-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567286966271' status='passed' stop='1567286966282'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='e987be9e-5cc9-4952-84ba-1f199af557da-attachment.json' type='application/json' size='52'/>
+                        <attachment title='Response' source='69254672-fc51-4246-855e-f13e3d952cfd-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567286966285' status='passed' stop='1567286966293'>
+                    <name>POST /session/:sessionId/keys</name>
+                    <title>POST /session/:sessionId/keys</title>
+                    <attachments>
+                        <attachment title='Request' source='6ba1dd00-1560-4ef5-b4c8-f0f1fb74bb3f-attachment.json' type='application/json' size='28'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>city is not defined</message>
+                <stack-trace>ReferenceError: city is not defined
+                    at World.&lt;anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:53:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,107 @@
+{
+  "uid" : "962ffba596a51ee0",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I click on a 5 to hide the wethere forecast",
+  "historyId" : "85e5bb7b030b0473a5ad1950d135698f",
+  "time" : {
+    "start" : 1567330000808,
+    "stop" : 1567330006896,
+    "duration" : 6088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567330003809,
+        "stop" : 1567330003824,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8aa825b8ea4d54d4",
+        "name" : "Request",
+        "source" : "8aa825b8ea4d54d4.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "ef41c8d2da29fe1c",
+        "name" : "Response",
+        "source" : "ef41c8d2da29fe1c.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8878671275602741-6/click",
+      "time" : {
+        "start" : 1567330003827,
+        "stop" : 1567330003892,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to hide the wethere forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "962ffba596a51ee0.json",
+  "parameterValues" : [ "chrome" ]
+}

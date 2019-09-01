@@ -1,0 +1,179 @@
+{
+  "uid" : "c530c5a25bc345e2",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "Test the page title: Error scenarios.And I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "dc2e0533a6abfe5bc8a43c3f4e8456f",
+  "time" : {
+    "start" : 1567178503864,
+    "stop" : 1567178513499,
+    "duration" : 9635
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567178503866,
+        "stop" : 1567178503883,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "15e0e75043b1d5ce",
+        "name" : "Request",
+        "source" : "15e0e75043b1d5ce.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "403e099308128a2f",
+        "name" : "Response",
+        "source" : "403e099308128a2f.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28775769807377616-1/clear",
+      "time" : {
+        "start" : 1567178503888,
+        "stop" : 1567178503914,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28775769807377616-1/clear",
+      "time" : {
+        "start" : 1567178503914,
+        "stop" : 1567178503927,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28775769807377616-1/value",
+      "time" : {
+        "start" : 1567178503928,
+        "stop" : 1567178504255,
+        "duration" : 327
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e9389fa0c698ecab",
+        "name" : "Request",
+        "source" : "e9389fa0c698ecab.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28775769807377616-1/clear",
+      "time" : {
+        "start" : 1567178513253,
+        "stop" : 1567178513289,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28775769807377616-1/value",
+      "time" : {
+        "start" : 1567178513289,
+        "stop" : 1567178513499,
+        "duration" : 210
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "31522c586527c6b",
+        "name" : "Request",
+        "source" : "31522c586527c6b.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c530c5a25bc345e2.json",
+  "parameterValues" : [ "chrome" ]
+}

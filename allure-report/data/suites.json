@@ -2,80 +2,692 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "Test the page title: Check weather forecast for specific city",
+    "name" : "Test the page title: Error scenarios",
     "children" : [ {
-      "name" : "Given I open the site \"/\"",
-      "uid" : "4b71b7e074f1fd21",
-      "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
+      "name" : "And I get value",
+      "uid" : "99770eba35cf78cf",
+      "parentUid" : "cfab8dbceee99b364f478ce7b369cec9",
       "status" : "passed",
       "time" : {
-        "start" : 1567115574190,
-        "stop" : 1567115574192,
-        "duration" : 2
+        "start" : 1567373788546,
+        "stop" : 1567373788579,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I open the site \"/\"",
+      "uid" : "bf65ab60fb5ea656",
+      "parentUid" : "cfab8dbceee99b364f478ce7b369cec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376719130,
+        "stop" : 1567376719131,
+        "duration" : 1
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "336036bb8848b890",
+      "uid" : "e3bf097ff2def686",
+      "parentUid" : "cfab8dbceee99b364f478ce7b369cec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376719131,
+        "stop" : 1567376719426,
+        "duration" : 295
+      },
+      "flaky" : true,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter invalidcity name",
+      "uid" : "d68345b8b9864b3e",
+      "parentUid" : "cfab8dbceee99b364f478ce7b369cec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376719426,
+        "stop" : 1567376728134,
+        "duration" : 8708
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I verify blank value for city display error Error retrieving the forecast",
+      "uid" : "48d7250ab2eef23d",
+      "parentUid" : "cfab8dbceee99b364f478ce7b369cec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376728135,
+        "stop" : 1567376728167,
+        "duration" : 32
+      },
+      "flaky" : true,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "cfab8dbceee99b364f478ce7b369cec9"
+  }, {
+    "name" : "Test the page title: Check weather forecast for specific city",
+    "children" : [ {
+      "name" : "Given I open the site \"/\"",
+      "uid" : "6cfbeaaad3a7c9f6",
       "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
       "status" : "passed",
       "time" : {
-        "start" : 1567115574193,
-        "stop" : 1567115575472,
-        "duration" : 1279
+        "start" : 1567376703170,
+        "stop" : 1567376703171,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "58164538bf61bac2",
+      "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376703171,
+        "stop" : 1567376703855,
+        "duration" : 684
       },
       "flaky" : true,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I enter edinburgh name",
-      "uid" : "268b42448650b4d7",
+      "uid" : "432e84159006ce48",
       "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
       "status" : "passed",
       "time" : {
-        "start" : 1567115575472,
-        "stop" : 1567115584369,
-        "duration" : 8897
+        "start" : 1567376703855,
+        "stop" : 1567376712737,
+        "duration" : 8882
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I verify five days weather is displayed",
-      "uid" : "794c004168f60071",
+      "uid" : "4c6d4676be6f15f7",
       "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
       "status" : "passed",
       "time" : {
-        "start" : 1567115584369,
-        "stop" : 1567115584400,
-        "duration" : 31
+        "start" : 1567376712737,
+        "stop" : 1567376712771,
+        "duration" : 34
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I click on a 5 to check hourly forecast",
-      "uid" : "83949cec6ebacf99",
+      "uid" : "a368e9cbd378ebab",
       "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
       "status" : "passed",
       "time" : {
-        "start" : 1567115584400,
-        "stop" : 1567115584527,
-        "duration" : 127
+        "start" : 1567376712771,
+        "stop" : 1567376712899,
+        "duration" : 128
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I click on a 5 to hide the wethere forecast",
-      "uid" : "97abdf2fd971aaaf",
+      "uid" : "d893511130f44202",
       "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
       "status" : "passed",
       "time" : {
-        "start" : 1567115584527,
-        "stop" : 1567115590603,
-        "duration" : 6076
+        "start" : 1567376712899,
+        "stop" : 1567376719017,
+        "duration" : 6118
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 5",
+      "uid" : "9c46d674e80a5956",
+      "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376719017,
+        "stop" : 1567376719079,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 5",
+      "uid" : "afaa959c6e3ce6ba",
+      "parentUid" : "710c0e72e4abb01a183be02cb0186bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376719079,
+        "stop" : 1567376719112,
+        "duration" : 33
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     } ],
     "uid" : "710c0e72e4abb01a183be02cb0186bfc"
+  }, {
+    "name" : "To test the weather application.: Check weather forecast for specific city",
+    "children" : [ {
+      "name" : "And I enter edinburgh name",
+      "uid" : "86aa58a4c96232da",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379253414,
+        "stop" : 1567379262306,
+        "duration" : 8892
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter aberdeen name",
+      "uid" : "fafdc6f4202163a",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379269080,
+        "stop" : 1567379277794,
+        "duration" : 8714
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 1 to check hourly forecast",
+      "uid" : "cf3cdd555cb40988",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379277814,
+        "stop" : 1567379277943,
+        "duration" : 129
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 1 to hide the wethere forecast",
+      "uid" : "97bbfc7378bb7479",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379277943,
+        "stop" : 1567379284059,
+        "duration" : 6116
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the current climate of selected 1",
+      "uid" : "db10a778d130f388",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284059,
+        "stop" : 1567379284083,
+        "duration" : 24
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 1",
+      "uid" : "53316f3df14e8d16",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284083,
+        "stop" : 1567379284145,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 1",
+      "uid" : "854ff879dea1162",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284145,
+        "stop" : 1567379284181,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the aggregate rainfall of selected 1",
+      "uid" : "a1d902b9cda22adf",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284182,
+        "stop" : 1567379284219,
+        "duration" : 37
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter dundee name",
+      "uid" : "35ec8a349cce5aad",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284538,
+        "stop" : 1567379293213,
+        "duration" : 8675
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 3 to check hourly forecast",
+      "uid" : "fb0da34af34b8ea0",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379293240,
+        "stop" : 1567379293394,
+        "duration" : 154
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 3 to hide the wethere forecast",
+      "uid" : "16ae0764055ddafb",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379293394,
+        "stop" : 1567379299512,
+        "duration" : 6118
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the current climate of selected 3",
+      "uid" : "a72a2cf7a5910309",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299512,
+        "stop" : 1567379299538,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 3",
+      "uid" : "f6f02a0088dc1157",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299538,
+        "stop" : 1567379299601,
+        "duration" : 63
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 3",
+      "uid" : "cb0cda3f3eb459b7",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299601,
+        "stop" : 1567379299634,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the aggregate rainfall of selected 3",
+      "uid" : "5e2bf671b543aef1",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299634,
+        "stop" : 1567379299675,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter perth name",
+      "uid" : "d3cb55911e336cc6",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299969,
+        "stop" : 1567379308587,
+        "duration" : 8618
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 4 to check hourly forecast",
+      "uid" : "dcf1691dff74fc75",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379308606,
+        "stop" : 1567379308745,
+        "duration" : 139
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 4 to hide the wethere forecast",
+      "uid" : "2e1c3b9f68e50b6",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379308745,
+        "stop" : 1567379314879,
+        "duration" : 6134
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the current climate of selected 4",
+      "uid" : "af039badac1382d5",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379314879,
+        "stop" : 1567379314904,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 4",
+      "uid" : "1e2c7f280ab3216f",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379314904,
+        "stop" : 1567379314966,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 4",
+      "uid" : "a5dce9cc1ea74ca1",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379314966,
+        "stop" : 1567379314998,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the aggregate rainfall of selected 4",
+      "uid" : "f76d3efa6c1db4b9",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379314998,
+        "stop" : 1567379315034,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter stirling name",
+      "uid" : "747a946c3c777e44",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379315334,
+        "stop" : 1567379324045,
+        "duration" : 8711
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 5 to check hourly forecast",
+      "uid" : "75c42ad7e7b278aa",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379324066,
+        "stop" : 1567379324200,
+        "duration" : 134
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 5 to hide the wethere forecast",
+      "uid" : "cec3708188420602",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379324200,
+        "stop" : 1567379330313,
+        "duration" : 6113
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the current climate of selected 5",
+      "uid" : "a40ba338c53170b3",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330313,
+        "stop" : 1567379330338,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 5",
+      "uid" : "d749fdbcd9388fff",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330338,
+        "stop" : 1567379330412,
+        "duration" : 74
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 5",
+      "uid" : "5d96629b87a30cd4",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330412,
+        "stop" : 1567379330450,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the aggregate rainfall of selected 5",
+      "uid" : "52fd3944bddec03e",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330450,
+        "stop" : 1567379330481,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I open the site \"/\"",
+      "uid" : "69a02827695f7c17",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330496,
+        "stop" : 1567379330497,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a490730621cd32ff",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330497,
+        "stop" : 1567379330774,
+        "duration" : 277
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter glasgow name",
+      "uid" : "96247e11a0ef0637",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330774,
+        "stop" : 1567379339424,
+        "duration" : 8650
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I verify five days weather is displayed",
+      "uid" : "ca9d85f1c1d05c2c",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379339425,
+        "stop" : 1567379339443,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 2 to check hourly forecast",
+      "uid" : "1a45d39e6c1ae1ff",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379339443,
+        "stop" : 1567379339571,
+        "duration" : 128
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on a 2 to hide the wethere forecast",
+      "uid" : "1361b55abde835ec",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379339571,
+        "stop" : 1567379345690,
+        "duration" : 6119
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the current climate of selected 2",
+      "uid" : "2420b34080309b3",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345690,
+        "stop" : 1567379345715,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display min and max temperature of selected 2",
+      "uid" : "7a4bdcc357073be6",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345715,
+        "stop" : 1567379345780,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display dominant wind speed of selected 2",
+      "uid" : "e9d306bd5e724a23",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345780,
+        "stop" : 1567379345811,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I display the aggregate rainfall of selected 2",
+      "uid" : "792851482a2b459",
+      "parentUid" : "0c146ebae1bde39a9dc9d840f43d7719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345811,
+        "stop" : 1567379345854,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "0c146ebae1bde39a9dc9d840f43d7719"
+  }, {
+    "name" : "To test the weather application.: Error scenarios",
+    "children" : [ {
+      "name" : "Given I open the site \"/\"",
+      "uid" : "51989ee957016de7",
+      "parentUid" : "e6724020fd137edaf7afd58afd99f617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345864,
+        "stop" : 1567379345864,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "1f81ff65a07b8e27",
+      "parentUid" : "e6724020fd137edaf7afd58afd99f617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345864,
+        "stop" : 1567379346133,
+        "duration" : 269
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enter invalidcity name",
+      "uid" : "adb023593025ab1",
+      "parentUid" : "e6724020fd137edaf7afd58afd99f617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379346134,
+        "stop" : 1567379354846,
+        "duration" : 8712
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I verify blank value for city display error Error retrieving the forecast",
+      "uid" : "8537f375e82e896d",
+      "parentUid" : "e6724020fd137edaf7afd58afd99f617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379354846,
+        "stop" : 1567379354877,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "e6724020fd137edaf7afd58afd99f617"
   } ]
 }

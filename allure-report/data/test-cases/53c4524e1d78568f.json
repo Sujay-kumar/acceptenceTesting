@@ -1,0 +1,96 @@
+{
+  "uid" : "53c4524e1d78568f",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "Test the page title: Error scenarios.And I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "dc2e0533a6abfe5bc8a43c3f4e8456f",
+  "time" : {
+    "start" : 1567176971138,
+    "stop" : 1567176971165,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "elem.clear is not a function",
+  "statusTrace" : "TypeError: elem.clear is not a function\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:47:10)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "elem.clear is not a function",
+    "statusTrace" : "TypeError: elem.clear is not a function\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:47:10)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567176971140,
+        "stop" : 1567176971159,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bc5efbd2907a8ea0",
+        "name" : "Request",
+        "source" : "bc5efbd2907a8ea0.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "95ce08eec8a5ddfe",
+        "name" : "Response",
+        "source" : "95ce08eec8a5ddfe.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53c4524e1d78568f.json",
+  "parameterValues" : [ "chrome" ]
+}

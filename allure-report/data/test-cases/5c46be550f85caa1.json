@@ -1,0 +1,92 @@
+{
+  "uid" : "5c46be550f85caa1",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I verify five days weather is displayed",
+  "historyId" : "702b1298c61f6a9cf011f01ccf5c2c51",
+  "time" : {
+    "start" : 1567379262306,
+    "stop" : 1567379262343,
+    "duration" : 37
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567379262307,
+        "stop" : 1567379262328,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2630d34292efde83",
+        "name" : "Request",
+        "source" : "2630d34292efde83.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "6bf3b76f1f8c06c8",
+        "name" : "Response",
+        "source" : "6bf3b76f1f8c06c8.json",
+        "type" : "application/json",
+        "size" : 232
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c46be550f85caa1.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1567376458710' stop='1567376467737'>
+    <name>Test the page title: Error scenarios</name>
+    <title>Test the page title: Error scenarios</title>
+    <test-cases>
+        <test-case start='1567376458710' status='passed' stop='1567376458710'>
+            <name>Given I open the site "/"</name>
+            <title>Given I open the site "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1567376458711' status='passed' stop='1567376459015'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567376458711' status='passed' stop='1567376459014'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='3bf41bd2-7caa-48dc-8904-f88028f7fb0a-attachment.json' type='application/json' size='37'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567376459015' status='passed' stop='1567376467732'>
+            <name>And I enter invalidcity name</name>
+            <title>And I enter invalidcity name</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567376459016' status='passed' stop='1567376459028'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='c6d522bd-f281-4c5c-8ebd-2ecb930f6100-attachment.json' type='application/json' size='49'/>
+                        <attachment title='Response' source='06a235f1-7cb3-4a72-91d1-b000a0d0ab9e-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567376459029' status='passed' stop='1567376459055'>
+                    <name>POST /session/:sessionId/element/0.8144093308658058-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.8144093308658058-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567376459055' status='passed' stop='1567376459069'>
+                    <name>POST /session/:sessionId/element/0.8144093308658058-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.8144093308658058-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567376459070' status='passed' stop='1567376459600'>
+                    <name>POST /session/:sessionId/element/0.8144093308658058-1/value</name>
+                    <title>POST /session/:sessionId/element/0.8144093308658058-1/value</title>
+                    <attachments>
+                        <attachment title='Request' source='8922f647-fccc-40da-8a11-235b736e115c-attachment.json' type='application/json' size='118'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567376463605' status='passed' stop='1567376463637'>
+                    <name>POST /session/:sessionId/element/0.8144093308658058-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.8144093308658058-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567376463637' status='passed' stop='1567376463728'>
+                    <name>POST /session/:sessionId/element/0.8144093308658058-1/value</name>
+                    <title>POST /session/:sessionId/element/0.8144093308658058-1/value</title>
+                    <attachments>
+                        <attachment title='Request' source='f0364082-8fff-472a-81d6-8ef4123cbca0-attachment.json' type='application/json' size='28'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567376467732' status='broken' stop='1567376467736'>
+            <name>And I verify blank value for city display error Error retrieving the forecast</name>
+            <title>And I verify blank value for city display error Error retrieving the forecast</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>val is not defined</message>
+                <stack-trace>ReferenceError: val is not defined
+                    at World.&lt;anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:48:44)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

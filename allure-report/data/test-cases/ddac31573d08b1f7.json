@@ -1,0 +1,159 @@
+{
+  "uid" : "ddac31573d08b1f7",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "Test the page title: Error scenarios.And I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "dc2e0533a6abfe5bc8a43c3f4e8456f",
+  "time" : {
+    "start" : 1567286966220,
+    "stop" : 1567286975306,
+    "duration" : 9086
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "city is not defined",
+  "statusTrace" : "ReferenceError: city is not defined\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:53:5)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "city is not defined",
+    "statusTrace" : "ReferenceError: city is not defined\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:53:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567286966222,
+        "stop" : 1567286966240,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8637420f9cebcc18",
+        "name" : "Request",
+        "source" : "8637420f9cebcc18.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "731732e5c55b6c9d",
+        "name" : "Response",
+        "source" : "731732e5c55b6c9d.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.3972050401761893-1/clear",
+      "time" : {
+        "start" : 1567286966245,
+        "stop" : 1567286966271,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567286966271,
+        "stop" : 1567286966282,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "975c6ac5966acfd4",
+        "name" : "Request",
+        "source" : "975c6ac5966acfd4.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "10f5820e83e16879",
+        "name" : "Response",
+        "source" : "10f5820e83e16879.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/keys",
+      "time" : {
+        "start" : 1567286966285,
+        "stop" : 1567286966293,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b84065fb05b166a6",
+        "name" : "Request",
+        "source" : "b84065fb05b166a6.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddac31573d08b1f7.json",
+  "parameterValues" : [ "chrome" ]
+}

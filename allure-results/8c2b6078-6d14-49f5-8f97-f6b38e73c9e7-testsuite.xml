@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1567161261986' stop='1567161271227'>
+    <name>Test the page title: Error scenarios</name>
+    <title>Test the page title: Error scenarios</title>
+    <test-cases>
+        <test-case start='1567161261987' status='passed' stop='1567161261988'>
+            <name>Given I open the site "/"</name>
+            <title>Given I open the site "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1567161261989' status='passed' stop='1567161262793'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567161261991' status='passed' stop='1567161262792'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='e0afc37c-d7c5-485d-8dd7-e3365257c5cd-attachment.json' type='application/json' size='37'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567161262793' status='passed' stop='1567161271225'>
+            <name>And I verify blank value for city display error Error retrieving the forecast</name>
+            <title>And I verify blank value for city display error Error retrieving the forecast</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567161262795' status='passed' stop='1567161262816'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='a5ba4989-aaf6-473d-98e1-3269a8d5e966-attachment.json' type='application/json' size='49'/>
+                        <attachment title='Response' source='32fb5ca2-047d-484e-996e-8667466f798b-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567161262821' status='passed' stop='1567161262845'>
+                    <name>POST /session/:sessionId/element/0.7677502711662367-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.7677502711662367-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567161266851' status='passed' stop='1567161266867'>
+                    <name>POST /session/:sessionId/element/0.7677502711662367-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.7677502711662367-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567161266867' status='passed' stop='1567161267191'>
+                    <name>POST /session/:sessionId/element/0.7677502711662367-1/value</name>
+                    <title>POST /session/:sessionId/element/0.7677502711662367-1/value</title>
+                    <attachments>
+                        <attachment title='Request' source='d7817d64-c61f-4f01-9e59-c0011667a6b1-attachment.json' type='application/json' size='28'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567161267191' status='passed' stop='1567161267205'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='9af402b1-5fa3-4402-8267-223ebf163542-attachment.json' type='application/json' size='82'/>
+                        <attachment title='Response' source='addfae25-078c-483a-a5b5-018c80428b27-attachment.json' type='application/json' size='306'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567161267208' status='passed' stop='1567161267219'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='40cc4200-1768-40f1-9823-a1ffc8dc512a-attachment.json' type='application/json' size='82'/>
+                        <attachment title='Response' source='37bb3094-0570-4bd7-b25e-4b3b66ef380a-attachment.json' type='application/json' size='306'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

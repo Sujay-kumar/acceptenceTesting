@@ -1,0 +1,201 @@
+{
+  "uid" : "3c72dd47e514db59",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "Test the page title: Error scenarios.And I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "dc2e0533a6abfe5bc8a43c3f4e8456f",
+  "time" : {
+    "start" : 1567160042258,
+    "stop" : 1567160046709,
+    "duration" : 4451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Errormsg.isDisplayed(...).then is not a function",
+  "statusTrace" : "TypeError: Errormsg.isDisplayed(...).then is not a function\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:52:28)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Errormsg.isDisplayed(...).then is not a function",
+    "statusTrace" : "TypeError: Errormsg.isDisplayed(...).then is not a function\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:52:28)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567160042260,
+        "stop" : 1567160042279,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9e05a7d3eec53ea1",
+        "name" : "Request",
+        "source" : "9e05a7d3eec53ea1.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "675a10a439136986",
+        "name" : "Response",
+        "source" : "675a10a439136986.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9355185586473851-1/clear",
+      "time" : {
+        "start" : 1567160042284,
+        "stop" : 1567160042308,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9355185586473851-1/clear",
+      "time" : {
+        "start" : 1567160046310,
+        "stop" : 1567160046326,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9355185586473851-1/value",
+      "time" : {
+        "start" : 1567160046326,
+        "stop" : 1567160046678,
+        "duration" : 352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7006fee3d22c273d",
+        "name" : "Request",
+        "source" : "7006fee3d22c273d.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567160046678,
+        "stop" : 1567160046693,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a2ebd16548ba922",
+        "name" : "Request",
+        "source" : "7a2ebd16548ba922.json",
+        "type" : "application/json",
+        "size" : 82
+      }, {
+        "uid" : "39969fa4d9435662",
+        "name" : "Response",
+        "source" : "39969fa4d9435662.json",
+        "type" : "application/json",
+        "size" : 306
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567160046695,
+        "stop" : 1567160046705,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ad5e5e5518f4d457",
+        "name" : "Request",
+        "source" : "ad5e5e5518f4d457.json",
+        "type" : "application/json",
+        "size" : 82
+      }, {
+        "uid" : "8a01fc85a9596262",
+        "name" : "Response",
+        "source" : "8a01fc85a9596262.json",
+        "type" : "application/json",
+        "size" : 306
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c72dd47e514db59.json",
+  "parameterValues" : [ "chrome" ]
+}

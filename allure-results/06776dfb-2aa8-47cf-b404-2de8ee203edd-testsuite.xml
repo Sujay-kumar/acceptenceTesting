@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1567149890424' stop='1567149891465'>
+    <name>Test the page title: Error scenarios</name>
+    <title>Test the page title: Error scenarios</title>
+    <test-cases>
+        <test-case start='1567149890425' status='passed' stop='1567149890427'>
+            <name>Given I open the site "/"</name>
+            <title>Given I open the site "/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1567149890427' status='passed' stop='1567149891110'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567149890430' status='passed' stop='1567149891109'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='9ba39f0a-ec70-4c3e-9f14-48bf5a538b56-attachment.json' type='application/json' size='37'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1567149891111' status='broken' stop='1567149891464'>
+            <name>And I verify blank value for city display error Error retrieving the forecast</name>
+            <title>And I verify blank value for city display error Error retrieving the forecast</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps>
+                <step start='1567149891113' status='passed' stop='1567149891129'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='1886252c-51ba-4e98-9410-747f0e08aa7f-attachment.json' type='application/json' size='49'/>
+                        <attachment title='Response' source='af9162e2-9364-4cc1-a894-efdfd922d664-attachment.json' type='application/json' size='39'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1567149891134' status='passed' stop='1567149891160'>
+                    <name>POST /session/:sessionId/element/0.5835561530385083-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.5835561530385083-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567149891161' status='passed' stop='1567149891173'>
+                    <name>POST /session/:sessionId/element/0.5835561530385083-1/clear</name>
+                    <title>POST /session/:sessionId/element/0.5835561530385083-1/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1567149891174' status='passed' stop='1567149891462'>
+                    <name>POST /session/:sessionId/element/0.5835561530385083-1/value</name>
+                    <title>POST /session/:sessionId/element/0.5835561530385083-1/value</title>
+                    <attachments>
+                        <attachment title='Request' source='c80ea2fd-d5d6-4acd-8d62-b71a3f43a05f-attachment.json' type='application/json' size='28'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>msg.isDisplayed is not a function</message>
+                <stack-trace>TypeError: msg.isDisplayed is not a function
+                    at World.&lt;anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:49:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

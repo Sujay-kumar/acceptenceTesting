@@ -1,0 +1,169 @@
+{
+  "uid" : "6cfbeaaad3a7c9f6",
+  "name" : "Given I open the site \"/\"",
+  "fullName" : "Test the page title: Check weather forecast for specific city.Given I open the site \"/\"",
+  "historyId" : "b58410109ea94a91a2b9d0089bcc863d",
+  "time" : {
+    "start" : 1567376703170,
+    "stop" : 1567376703171,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the site \"/\""
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9182e57c806f98f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376620644,
+        "stop" : 1567376620646,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "878e8bb38f936a6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376442651,
+        "stop" : 1567376442653,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1be3e88f20502096",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567375175305,
+        "stop" : 1567375175307,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b4c84eb8adc089c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567329988425,
+        "stop" : 1567329988427,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a4dd069557b1d35c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567149009704,
+        "stop" : 1567149009706,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a0c6d34afe5c8034",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567148936146,
+        "stop" : 1567148936147,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "aa760889fa6b6912",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567115574190,
+        "stop" : 1567115574192,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4fd1f2b9c492fb2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567115532225,
+        "stop" : 1567115532227,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ccd375a302030a6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567115460391,
+        "stop" : 1567115460393,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "25643c49d12058cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113752624,
+        "stop" : 1567113752626,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d588dcf921e27a07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113710216,
+        "stop" : 1567113710218,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "520026cd641495c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113640557,
+        "stop" : 1567113640558,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "33e2cc43c9fec18f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112976586,
+        "stop" : 1567112976588,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f0e33ac21a2c485",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112895362,
+        "stop" : 1567112895364,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cfbeaaad3a7c9f6.json",
+  "parameterValues" : [ "chrome" ]
+}

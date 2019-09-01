@@ -1,0 +1,115 @@
+{
+  "uid" : "cb0cda3f3eb459b7",
+  "name" : "And I display dominant wind speed of selected 3",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I display dominant wind speed of selected 3",
+  "historyId" : "ed96a72bd5bddf9bb47b9fca7edd8a56",
+  "time" : {
+    "start" : 1567379299601,
+    "stop" : 1567379299634,
+    "duration" : 33
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379299601,
+        "stop" : 1567379299616,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3fa16c1d7430b197",
+        "name" : "Request",
+        "source" : "3fa16c1d7430b197.json",
+        "type" : "application/json",
+        "size" : 62
+      }, {
+        "uid" : "66cd222d73fb12d",
+        "name" : "Response",
+        "source" : "66cd222d73fb12d.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.1408807294183967-11/text",
+      "time" : {
+        "start" : 1567379299619,
+        "stop" : 1567379299634,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8df6d747f1b6145",
+        "name" : "Response",
+        "source" : "8df6d747f1b6145.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display dominant wind speed of selected 3"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb0cda3f3eb459b7.json",
+  "parameterValues" : [ "chrome" ]
+}

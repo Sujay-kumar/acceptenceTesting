@@ -1,0 +1,206 @@
+{
+  "uid" : "4c6d4676be6f15f7",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I verify five days weather is displayed",
+  "historyId" : "afe12acda58d5900bf20193886352523",
+  "time" : {
+    "start" : 1567376712737,
+    "stop" : 1567376712771,
+    "duration" : 34
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567376712738,
+        "stop" : 1567376712757,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5db9b0f491755b1e",
+        "name" : "Request",
+        "source" : "5db9b0f491755b1e.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "ca7a8b9378ca3e62",
+        "name" : "Response",
+        "source" : "ca7a8b9378ca3e62.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "738adbc29b683add",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376630194,
+        "stop" : 1567376630229,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "9275e6d69875f8f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376452309,
+        "stop" : 1567376452346,
+        "duration" : 37
+      }
+    }, {
+      "uid" : "a1eded3d4a0c81a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567375184861,
+        "stop" : 1567375184895,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "bd0ff58d7ab0c6ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567330000638,
+        "stop" : 1567330000673,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "6b0ceb5f844134c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567149015899,
+        "stop" : 1567149015927,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "27305fd7e5cc1f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567148941648,
+        "stop" : 1567148941678,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "edf16b6f9fa00f1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567115584369,
+        "stop" : 1567115584400,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "6bbd37a5b622f3f6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115552234,
+        "stop" : 1567115552234,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4c041c8f115cf4a6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115480402,
+        "stop" : 1567115480402,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8fbc0a31fe6f455a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113762397,
+        "stop" : 1567113762430,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "b7de23e913c0118b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113719825,
+        "stop" : 1567113719855,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "7a9ca9d340becce5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113650364,
+        "stop" : 1567113650390,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "4d5d4fc15b8cd2e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112986196,
+        "stop" : 1567112986227,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "fb7716f6f69d73f4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567112915368,
+        "stop" : 1567112915369,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c6d4676be6f15f7.json",
+  "parameterValues" : [ "chrome" ]
+}

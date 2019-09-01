@@ -1,8 +1,7 @@
 var {Given} = require('cucumber');
 const chai = require('chai');
 const Webdriver = require('selenium-webdriver');
-const By = Webdriver.By;
-var map = Webdriver.promise.map;
+var assert = require('assert');
 
 Given(/^I open the site "\/"$/, function () {
     const url = browser.options.baseUrl;
@@ -31,13 +30,42 @@ Given(/^I click on a (.*) to hide the wethere forecast$/, function (val) {
     browser.pause(3000);
     let elem = $("//*[@data-test='day-"+val+"']").click();
     browser.pause(3000);
+    let maxtemp = $("//*[@data-test='maximum-"+val+"']").getText();
+    console.log(maxtemp);
 });
 Given(/^I enter (.*) name$/, function (city) {
     elem = $('#city');
     clearExixtingValue = elem.clearValue();
-    console.log('after');
     EnterCiry = elem.setValue(city);
     browser.pause(4000);
     elem.setValue(Webdriver.Key.ENTER);
     browser.pause(4000);
+});
+
+Given(/^I verify blank value for city display error (.*)$/, function (msg) {
+    let getErr = $("//*[@data-test='error']").getText();
+    assert.equal(msg,getErr);
+});
+Given(/^I get value$/, function () {
+    elem = $("//div[@data-reactroot]/div[1]/div/span[2]");
+    val = elem.getAttribute('aria-label');
+    console.log(val);
+});
+Given(/^I display min and max temperature of selected (.*)$/, function (val) {
+    let maxtemp = $("//*[@data-test='maximum-"+val+"']").getText();
+    let maitemp = $("//*[@data-test='minimum-"+val+"']").getText();
+    console.log("The maximum temperature of selected day is:"+maxtemp);
+    console.log("The minimum temperature of selected day is:"+maitemp);
+});
+Given(/^I display dominant wind speed of selected (.*)$/, function (val) {
+    let windSpeed = $("//*[@data-test='speed-"+val+"']").getText();
+    console.log("The current wind speed of selected day is:"+windSpeed);
+});
+Given(/^I display the current climate of selected (.*)$/, function (val) {
+    let currentWeather = $("//*[@data-test='description-"+val+"']").getAttribute('aria-label');
+    console.log("The current weather condition of selected day is:"+currentWeather);
+});
+Given(/^I display the aggregate rainfall of selected (.*)$/, function (val) {
+    let aggregateRainfall = $("//*[@data-test='rainfall-"+val+"']").getText();
+    console.log("Aggregate raisfall of selected day:"+aggregateRainfall);
 });

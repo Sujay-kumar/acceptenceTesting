@@ -1,15 +1,48 @@
 {
-  "total" : 1,
+  "total" : 4,
   "items" : [ {
+    "uid" : "0c146ebae1bde39a9dc9d840f43d7719",
+    "name" : "To test the weather application.: Check weather forecast for specific city",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 39,
+      "unknown" : 0,
+      "total" : 39
+    }
+  }, {
     "uid" : "710c0e72e4abb01a183be02cb0186bfc",
     "name" : "Test the page title: Check weather forecast for specific city",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 6
+      "total" : 8
+    }
+  }, {
+    "uid" : "cfab8dbceee99b364f478ce7b369cec9",
+    "name" : "Test the page title: Error scenarios",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "e6724020fd137edaf7afd58afd99f617",
+    "name" : "To test the weather application.: Error scenarios",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
     }
   } ]
 }
