@@ -30,7 +30,8 @@ Given(/^I enter (.*) name$/, function (city) {
     elem = $('#city');
     clearExixtingValue = elem.clearValue();
     browser.pause(4000);
-    elem.setValue(city ,Webdriver.Key.ENTER);
+    elem.setValue(city);
+    elem.setValue(Webdriver.Key.ENTER);
 });
 
 Given(/^I verify blank value for city display error (.*)$/, function (msg) {
