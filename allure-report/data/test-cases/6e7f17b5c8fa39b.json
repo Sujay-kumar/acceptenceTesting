@@ -1,0 +1,73 @@
+{
+  "uid" : "6e7f17b5c8fa39b",
+  "name" : "Then I display min and max temperature of selected 2",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.Then I display min and max temperature of selected 2",
+  "historyId" : "6d9cbb869720b6dfd85385a049b91fe0",
+  "time" : {
+    "start" : 1567443991377,
+    "stop" : 1567443991378,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display min and max temperature of selected 2"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fae81e8ac56f0ee7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735339,
+        "stop" : 1567443735339,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c442f51816868362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427509679,
+        "stop" : 1567427509736,
+        "duration" : 57
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e7f17b5c8fa39b.json",
+  "parameterValues" : [ "chrome" ]
+}

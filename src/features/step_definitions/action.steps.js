@@ -7,11 +7,7 @@ Given(/^I open the site "\/"$/, function () {
     const url = browser.options.baseUrl;
     browser.url(url);
 });
-Given(/^I wait (\d+) seconds$/, function (time) {
- browser.pause(3000)
-});
 Given(/^I verify five days weather is displayed$/, function () {
-   //let elem = $("//div[@data-reactroot]/div/div/span[1]/span[1]");
     var results = $$("//div[@data-reactroot]/div/div/span[1]/span[1]");
     let text = results.length;
     if(text===5){
@@ -24,8 +20,6 @@ Given(/^I click on a (.*) to check hourly forecast$/, function (val) {
     let elem = $("//*[@data-test='day-"+val+"']").click();
     let horlyForcast = $("//span[contains(@data-test, 'hour-')]").isDisplayed();
     browser.pause(3000);
-
-
 });
 Given(/^I click on a (.*) to hide the wethere forecast$/, function (val) {
     browser.pause(3000);
@@ -35,9 +29,8 @@ Given(/^I click on a (.*) to hide the wethere forecast$/, function (val) {
 Given(/^I enter (.*) name$/, function (city) {
     elem = $('#city');
     clearExixtingValue = elem.clearValue();
-    EnterCiry = elem.setValue(city);
     browser.pause(4000);
-    elem.setValue(Webdriver.Key.ENTER);
+    elem.setValue(city ,Webdriver.Key.ENTER);
 });
 
 Given(/^I verify blank value for city display error (.*)$/, function (msg) {
@@ -52,13 +45,13 @@ Given(/^I get value$/, function () {
 });
 Given(/^I display min and max temperature of selected (.*)$/, function (val) {
     let maxtemp = $("//*[@data-test='maximum-"+val+"']").getText();
-    let maitemp = $("//*[@data-test='minimum-"+val+"']").getText();
-    console.log("The maximum temperature of selected day is:"+maxtemp);
-    console.log("The minimum temperature of selected day is:"+maitemp);
+    let mintemp = $("//*[@data-test='minimum-"+val+"']").getText();
+    console.log("The maximum temperature of selected day is:"+Math.round(parseInt(maxtemp))+" degrees");
+    console.log("The minimum temperature of selected day is:"+Math.round(parseInt(mintemp))+" degrees");
 });
 Given(/^I display dominant wind speed of selected (.*)$/, function (val) {
     let windSpeed = $("//*[@data-test='speed-"+val+"']").getText();
-    console.log("The current wind speed of selected day is:"+windSpeed);
+    console.log("The current wind speed of selected day is:"+Math.round(parseInt(windSpeed))+"kph");
 });
 Given(/^I display the current climate of selected (.*)$/, function (val) {
     let currentWeather = $("//*[@data-test='description-"+val+"']").getAttribute('aria-label');
@@ -66,5 +59,5 @@ Given(/^I display the current climate of selected (.*)$/, function (val) {
 });
 Given(/^I display the aggregate rainfall of selected (.*)$/, function (val) {
     let aggregateRainfall = $("//*[@data-test='rainfall-"+val+"']").getText();
-    console.log("Aggregate raisfall of selected day:"+aggregateRainfall);
+    console.log("Aggregate raisfall of selected day:"+Math.round(parseInt(aggregateRainfall))+"mm");
 });

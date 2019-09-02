@@ -60,7 +60,7 @@ Feature: To test the weather forecast application.
       | stirling  |  5  |
       | glasgow   |  2  |
 
-  Scenario Outline: Display Most dominant (or current) wind speed and direction of specific day
+  Scenario Outline: Display Most dominant (or current) wind speed and direction of specific day with the value rounded down
     When I enter <city> name
     And I verify five days weather is displayed
     And I click on a <day> to check hourly forecast
@@ -75,7 +75,7 @@ Feature: To test the weather forecast application.
       | stirling  |  5  |
       | glasgow   |  2  |
 
-  Scenario Outline: Display Aggregate rainfall of specific day
+  Scenario Outline: Display Aggregate rainfall of specific day with the values rounded down
     When I enter <city> name
     And I verify five days weather is displayed
     And I click on a <day> to check hourly forecast
@@ -90,7 +90,7 @@ Feature: To test the weather forecast application.
       | stirling  |  5  |
       | glasgow   |  2  |
 
-  Scenario Outline: Display Minimum and maximum temperatures of specific day
+  Scenario Outline: Display Minimum and maximum temperatures of specific day with the values rounded down
     When I enter <city> name
     And I verify five days weather is displayed
     And I click on a <day> to check hourly forecast

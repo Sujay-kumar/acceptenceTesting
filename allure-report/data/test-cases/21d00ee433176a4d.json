@@ -1,0 +1,97 @@
+{
+  "uid" : "21d00ee433176a4d",
+  "name" : "Then I display the current climate of selected 5",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.Then I display the current climate of selected 5",
+  "historyId" : "74f4f9c323b7b75f3598de4999fe3d21",
+  "time" : {
+    "start" : 1567443990904,
+    "stop" : 1567443990904,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the current climate of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6e882fc2bfc082e2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443990800,
+        "stop" : 1567443990800,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "39b9247b9594e1ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734834,
+        "stop" : 1567443734834,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "db5fa8306b3e0419",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734724,
+        "stop" : 1567443734724,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2fa0809d482262a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427353684,
+        "stop" : 1567427353709,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "86ea3d42f63cc91d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427320451,
+        "stop" : 1567427320477,
+        "duration" : 26
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21d00ee433176a4d.json",
+  "parameterValues" : [ "chrome" ]
+}

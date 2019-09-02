@@ -1,0 +1,55 @@
+{
+  "uid" : "a06329ab4f3f26ff",
+  "name" : "When I enter perth name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.When I enter perth name",
+  "historyId" : "14aac58c2ae85883fca01baf42fe074",
+  "time" : {
+    "start" : 1567443735130,
+    "stop" : 1567443735131,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter perth name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a06329ab4f3f26ff.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,113 @@
+{
+  "uid" : "3d6ae992b5cee77d",
+  "name" : "Then I display the current climate of selected 2",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.Then I display the current climate of selected 2",
+  "historyId" : "5c4c42539c727e4d35006c6dd7c369a6",
+  "time" : {
+    "start" : 1567427361867,
+    "stop" : 1567427361892,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427361867,
+        "stop" : 1567427361882,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7ee415a467a1a3f3",
+        "name" : "Request",
+        "source" : "7ee415a467a1a3f3.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "223e36ffdaa7db75",
+        "name" : "Response",
+        "source" : "223e36ffdaa7db75.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.995051996997032-8/attribute/aria-label",
+      "time" : {
+        "start" : 1567427361885,
+        "stop" : 1567427361891,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e0812fb807687ee4",
+        "name" : "Response",
+        "source" : "e0812fb807687ee4.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the current climate of selected 2"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d6ae992b5cee77d.json",
+  "parameterValues" : [ "chrome" ]
+}

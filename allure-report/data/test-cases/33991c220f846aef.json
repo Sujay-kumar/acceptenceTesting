@@ -1,0 +1,73 @@
+{
+  "uid" : "33991c220f846aef",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.When I enter aberdeen name",
+  "historyId" : "e841413cd3008617e58d614777b15a44",
+  "time" : {
+    "start" : 1567443991126,
+    "stop" : 1567443991126,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "18d89ee5e1ab007",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735068,
+        "stop" : 1567443735068,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "37bd8d0b47bcb32c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427419669,
+        "stop" : 1567427424437,
+        "duration" : 4768
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33991c220f846aef.json",
+  "parameterValues" : [ "chrome" ]
+}

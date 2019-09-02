@@ -1,0 +1,55 @@
+{
+  "uid" : "59d973c00771ebe0",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter dundee name",
+  "historyId" : "1a24a526d519ddf28ca78587ff124eec",
+  "time" : {
+    "start" : 1567443734449,
+    "stop" : 1567443734449,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59d973c00771ebe0.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,159 @@
+{
+  "uid" : "5bb64e3b6b810787",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down.And I click on a 5 to check hourly forecast",
+  "historyId" : "97ccc115c01f20e2f1635e7ec5230e0d",
+  "time" : {
+    "start" : 1567445685615,
+    "stop" : 1567445688741,
+    "duration" : 3126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445685615,
+        "stop" : 1567445685629,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2996bfcee3f3d2c1",
+        "name" : "Request",
+        "source" : "2996bfcee3f3d2c1.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "38000facafbd8402",
+        "name" : "Response",
+        "source" : "38000facafbd8402.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-6/click",
+      "time" : {
+        "start" : 1567445685630,
+        "stop" : 1567445685714,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445685714,
+        "stop" : 1567445685726,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b31202d88948c45",
+        "name" : "Request",
+        "source" : "b31202d88948c45.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "fe8f5deffc829d4f",
+        "name" : "Response",
+        "source" : "fe8f5deffc829d4f.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.23254571068276952-7/displayed",
+      "time" : {
+        "start" : 1567445685728,
+        "stop" : 1567445685740,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "721b278b11766644",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567445503194,
+        "stop" : 1567445506338,
+        "duration" : 3144
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bb64e3b6b810787.json",
+  "parameterValues" : [ "chrome" ]
+}

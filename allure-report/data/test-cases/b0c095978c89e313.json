@@ -1,0 +1,73 @@
+{
+  "uid" : "b0c095978c89e313",
+  "name" : "When I enter glasgow name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter glasgow name",
+  "historyId" : "dada4f7b036d7a3b26a739cb87f84f81",
+  "time" : {
+    "start" : 1567443991377,
+    "stop" : 1567443991377,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter glasgow name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2c7b7995b5a4c2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735338,
+        "stop" : 1567443735338,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5acbac6cc84e492a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427501858,
+        "stop" : 1567427506528,
+        "duration" : 4670
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0c095978c89e313.json",
+  "parameterValues" : [ "chrome" ]
+}

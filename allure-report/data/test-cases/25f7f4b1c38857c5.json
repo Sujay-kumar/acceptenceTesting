@@ -1,0 +1,179 @@
+{
+  "uid" : "25f7f4b1c38857c5",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter aberdeen name",
+  "historyId" : "6585a93cf0e6201f95635fc524a2fb73",
+  "time" : {
+    "start" : 1567442986196,
+    "stop" : 1567442990925,
+    "duration" : 4729
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567442986196,
+        "stop" : 1567442986206,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8d386ee1ef5364c0",
+        "name" : "Request",
+        "source" : "8d386ee1ef5364c0.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "b6485734df68364f",
+        "name" : "Response",
+        "source" : "b6485734df68364f.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-1/clear",
+      "time" : {
+        "start" : 1567442986208,
+        "stop" : 1567442986234,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-1/clear",
+      "time" : {
+        "start" : 1567442986234,
+        "stop" : 1567442986248,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-1/value",
+      "time" : {
+        "start" : 1567442986248,
+        "stop" : 1567442986669,
+        "duration" : 421
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fb9a46d2bcbd098b",
+        "name" : "Request",
+        "source" : "fb9a46d2bcbd098b.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-1/clear",
+      "time" : {
+        "start" : 1567442990673,
+        "stop" : 1567442990705,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-1/value",
+      "time" : {
+        "start" : 1567442990706,
+        "stop" : 1567442990925,
+        "duration" : 219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f144b04a39962430",
+        "name" : "Request",
+        "source" : "f144b04a39962430.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25f7f4b1c38857c5.json",
+  "parameterValues" : [ "chrome" ]
+}

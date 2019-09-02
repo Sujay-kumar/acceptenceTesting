@@ -1,0 +1,149 @@
+{
+  "uid" : "b03d7942a565c8e9",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.And I click on a 5 to check hourly forecast",
+  "historyId" : "2405018238af327f80ecede9830a7228",
+  "time" : {
+    "start" : 1567427399777,
+    "stop" : 1567427402911,
+    "duration" : 3134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427399777,
+        "stop" : 1567427399793,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2df7e304e4cdc66c",
+        "name" : "Request",
+        "source" : "2df7e304e4cdc66c.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "15f6147914b3228d",
+        "name" : "Response",
+        "source" : "15f6147914b3228d.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-6/click",
+      "time" : {
+        "start" : 1567427399794,
+        "stop" : 1567427399882,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427399882,
+        "stop" : 1567427399893,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9bc569d3843b253b",
+        "name" : "Request",
+        "source" : "9bc569d3843b253b.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "ee1f92e86037a99",
+        "name" : "Response",
+        "source" : "ee1f92e86037a99.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.05733850417090203-7/displayed",
+      "time" : {
+        "start" : 1567427399894,
+        "stop" : 1567427399906,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b03d7942a565c8e9.json",
+  "parameterValues" : [ "chrome" ]
+}

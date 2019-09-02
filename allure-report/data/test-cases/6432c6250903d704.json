@@ -1,0 +1,73 @@
+{
+  "uid" : "6432c6250903d704",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.When I enter edinburgh name",
+  "historyId" : "1236e5a6120372c94ed35214d2f3ed6d",
+  "time" : {
+    "start" : 1567443991103,
+    "stop" : 1567443991103,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "630eba5e297fc24a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735036,
+        "stop" : 1567443735036,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "519c8f00ebece034",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427411407,
+        "stop" : 1567427416197,
+        "duration" : 4790
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6432c6250903d704.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,73 @@
+{
+  "uid" : "f15d5525e767b34b",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.When I enter stirling name",
+  "historyId" : "3d50cc266af7e98c33e9683e8e512315",
+  "time" : {
+    "start" : 1567443991054,
+    "stop" : 1567443991055,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8355666cfc163a3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734988,
+        "stop" : 1567443734988,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "51005196f942f6d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427394995,
+        "stop" : 1567427399760,
+        "duration" : 4765
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f15d5525e767b34b.json",
+  "parameterValues" : [ "chrome" ]
+}

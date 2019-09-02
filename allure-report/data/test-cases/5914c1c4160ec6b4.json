@@ -1,0 +1,92 @@
+{
+  "uid" : "5914c1c4160ec6b4",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.And I verify five days weather is displayed",
+  "historyId" : "5a8d4d572af5b418908b2db81e59e5e0",
+  "time" : {
+    "start" : 1567427440701,
+    "stop" : 1567427440717,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567427440701,
+        "stop" : 1567427440709,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "40b0ff7c799400a2",
+        "name" : "Request",
+        "source" : "40b0ff7c799400a2.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "8e698cacfe84d6c2",
+        "name" : "Response",
+        "source" : "8e698cacfe84d6c2.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5914c1c4160ec6b4.json",
+  "parameterValues" : [ "chrome" ]
+}

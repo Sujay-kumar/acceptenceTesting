@@ -1,0 +1,73 @@
+{
+  "uid" : "2ce5b62e001fa185",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.And I click on a 3 to check hourly forecast",
+  "historyId" : "8921fc6e07febba7a17e7c35fbbe1b9",
+  "time" : {
+    "start" : 1567443990687,
+    "stop" : 1567443990687,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "208491b7ccd595cc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734612,
+        "stop" : 1567443734612,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e402f929cd3a736",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427260256,
+        "stop" : 1567427263395,
+        "duration" : 3139
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ce5b62e001fa185.json",
+  "parameterValues" : [ "chrome" ]
+}

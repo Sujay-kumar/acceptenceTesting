@@ -1,0 +1,73 @@
+{
+  "uid" : "dd2ce43ccd89c6b0",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.When I enter edinburgh name",
+  "historyId" : "a14f3b14019bc7d6452a9a7e52689bf3",
+  "time" : {
+    "start" : 1567443990799,
+    "stop" : 1567443990799,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25120b7e39b16833",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734723,
+        "stop" : 1567443734723,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a3974c4f09bebc7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427312494,
+        "stop" : 1567427317298,
+        "duration" : 4804
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd2ce43ccd89c6b0.json",
+  "parameterValues" : [ "chrome" ]
+}

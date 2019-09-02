@@ -1,0 +1,179 @@
+{
+  "uid" : "51005196f942f6d3",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.When I enter stirling name",
+  "historyId" : "3d50cc266af7e98c33e9683e8e512315",
+  "time" : {
+    "start" : 1567427394995,
+    "stop" : 1567427399760,
+    "duration" : 4765
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427394995,
+        "stop" : 1567427395007,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "720bbc0bc27a43aa",
+        "name" : "Request",
+        "source" : "720bbc0bc27a43aa.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "89b957204a04e1d",
+        "name" : "Response",
+        "source" : "89b957204a04e1d.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-1/clear",
+      "time" : {
+        "start" : 1567427395008,
+        "stop" : 1567427395036,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-1/clear",
+      "time" : {
+        "start" : 1567427395036,
+        "stop" : 1567427395048,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-1/value",
+      "time" : {
+        "start" : 1567427395048,
+        "stop" : 1567427395519,
+        "duration" : 471
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4c804c2e09c79bc7",
+        "name" : "Request",
+        "source" : "4c804c2e09c79bc7.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-1/clear",
+      "time" : {
+        "start" : 1567427399524,
+        "stop" : 1567427399541,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.05733850417090203-1/value",
+      "time" : {
+        "start" : 1567427399541,
+        "stop" : 1567427399759,
+        "duration" : 218
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d87fe2dc1ef09393",
+        "name" : "Request",
+        "source" : "d87fe2dc1ef09393.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51005196f942f6d3.json",
+  "parameterValues" : [ "chrome" ]
+}

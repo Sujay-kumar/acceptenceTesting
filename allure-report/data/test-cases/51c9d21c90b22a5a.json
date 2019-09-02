@@ -1,0 +1,55 @@
+{
+  "uid" : "51c9d21c90b22a5a",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.And I click on a 4 to check hourly forecast",
+  "historyId" : "c0ec13b37ac49c5a1d5176e29fdcd416",
+  "time" : {
+    "start" : 1567443735290,
+    "stop" : 1567443735290,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 4 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51c9d21c90b22a5a.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,151 @@
+{
+  "uid" : "f5a23d0e4f204bcd",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day with the values rounded down.And I click on a 5 to check hourly forecast",
+  "historyId" : "34be71594269d701cb26199783bec0a4",
+  "time" : {
+    "start" : 1567445927790,
+    "stop" : 1567445930922,
+    "duration" : 3132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445927790,
+        "stop" : 1567445927803,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "579732b91c70d1e6",
+        "name" : "Request",
+        "source" : "579732b91c70d1e6.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "94c65080543ff7db",
+        "name" : "Response",
+        "source" : "94c65080543ff7db.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8924590205088578-6/click",
+      "time" : {
+        "start" : 1567445927805,
+        "stop" : 1567445927889,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445927890,
+        "stop" : 1567445927903,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ae64deb65079c234",
+        "name" : "Request",
+        "source" : "ae64deb65079c234.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "c9bd321a87b12a91",
+        "name" : "Response",
+        "source" : "c9bd321a87b12a91.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.8924590205088578-7/displayed",
+      "time" : {
+        "start" : 1567445927904,
+        "stop" : 1567445927916,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day with the values rounded down"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day with the values rounded down"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day with the values rounded down"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5a23d0e4f204bcd.json",
+  "parameterValues" : [ "chrome" ]
+}

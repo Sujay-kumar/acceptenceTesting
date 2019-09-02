@@ -1,0 +1,73 @@
+{
+  "uid" : "1966f2cdb100e07a",
+  "name" : "Then I display the current climate of selected 2",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.Then I display the current climate of selected 2",
+  "historyId" : "5c4c42539c727e4d35006c6dd7c369a6",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990931,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the current climate of selected 2"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e5e6de1fe182c903",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734861,
+        "stop" : 1567443734861,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3d6ae992b5cee77d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427361867,
+        "stop" : 1567427361892,
+        "duration" : 25
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1966f2cdb100e07a.json",
+  "parameterValues" : [ "chrome" ]
+}

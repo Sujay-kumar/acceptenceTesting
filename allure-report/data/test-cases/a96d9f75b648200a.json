@@ -1,0 +1,97 @@
+{
+  "uid" : "a96d9f75b648200a",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.And I click on a 5 to check hourly forecast",
+  "historyId" : "4d0581859102d734184cc0555c1dae0f",
+  "time" : {
+    "start" : 1567443991202,
+    "stop" : 1567443991202,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6f93003f0e428aa8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991103,
+        "stop" : 1567443991103,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e6bb96d0374e3125",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735164,
+        "stop" : 1567443735164,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7a5faec2fc95d848",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735036,
+        "stop" : 1567443735037,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a3ea4975fb7c6de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427448967,
+        "stop" : 1567427452101,
+        "duration" : 3134
+      }
+    }, {
+      "uid" : "81379aab187ccaa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427416216,
+        "stop" : 1567427419339,
+        "duration" : 3123
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a96d9f75b648200a.json",
+  "parameterValues" : [ "chrome" ]
+}

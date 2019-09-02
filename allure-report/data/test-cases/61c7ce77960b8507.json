@@ -1,0 +1,179 @@
+{
+  "uid" : "61c7ce77960b8507",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter stirling name",
+  "historyId" : "28edb47a6d4d232339e73e6a5f15a579",
+  "time" : {
+    "start" : 1567427283989,
+    "stop" : 1567427288770,
+    "duration" : 4781
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427283989,
+        "stop" : 1567427283999,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "54d0609bd41c81f4",
+        "name" : "Request",
+        "source" : "54d0609bd41c81f4.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "7293f74a9fa68926",
+        "name" : "Response",
+        "source" : "7293f74a9fa68926.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5507799845496779-1/clear",
+      "time" : {
+        "start" : 1567427284001,
+        "stop" : 1567427284028,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5507799845496779-1/clear",
+      "time" : {
+        "start" : 1567427284028,
+        "stop" : 1567427284040,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5507799845496779-1/value",
+      "time" : {
+        "start" : 1567427284056,
+        "stop" : 1567427284538,
+        "duration" : 482
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bea0bae1377cf2c5",
+        "name" : "Request",
+        "source" : "bea0bae1377cf2c5.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5507799845496779-1/clear",
+      "time" : {
+        "start" : 1567427288540,
+        "stop" : 1567427288556,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5507799845496779-1/value",
+      "time" : {
+        "start" : 1567427288556,
+        "stop" : 1567427288770,
+        "duration" : 214
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db93adac2c040b4f",
+        "name" : "Request",
+        "source" : "db93adac2c040b4f.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61c7ce77960b8507.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,89 @@
+{
+  "uid" : "dda3d9710607a773",
+  "name" : "Then I click on a 1 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 1 to check hourly forecast",
+  "historyId" : "7b3887a16b1e56ad1def0118b84cf18b",
+  "time" : {
+    "start" : 1567443990496,
+    "stop" : 1567443990496,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 1 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fd0ba4058fd16b71",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734421,
+        "stop" : 1567443734421,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3438833dd273db73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567442990943,
+        "stop" : 1567442994079,
+        "duration" : 3136
+      }
+    }, {
+      "uid" : "9c344e2ec596ab9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427190892,
+        "stop" : 1567427194027,
+        "duration" : 3135
+      }
+    }, {
+      "uid" : "c949dea668d96a49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427059326,
+        "stop" : 1567427059461,
+        "duration" : 135
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda3d9710607a773.json",
+  "parameterValues" : [ "chrome" ]
+}

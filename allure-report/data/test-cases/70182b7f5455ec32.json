@@ -1,0 +1,73 @@
+{
+  "uid" : "70182b7f5455ec32",
+  "name" : "When I enter perth name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter perth name",
+  "historyId" : "5d35033d0770d1952d859a25cde115b8",
+  "time" : {
+    "start" : 1567443990715,
+    "stop" : 1567443990715,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter perth name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85a0c2985ca58306",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734639,
+        "stop" : 1567443734639,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8070fd2acdce3b46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427269789,
+        "stop" : 1567427274449,
+        "duration" : 4660
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70182b7f5455ec32.json",
+  "parameterValues" : [ "chrome" ]
+}

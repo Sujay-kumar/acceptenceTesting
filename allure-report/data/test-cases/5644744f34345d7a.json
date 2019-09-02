@@ -1,0 +1,155 @@
+{
+  "uid" : "5644744f34345d7a",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "fullName" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same..Then I display the aggregate rainfall of selected 5",
+  "historyId" : "a5c333c40ff5eef301d9de9c97e07f1a",
+  "time" : {
+    "start" : 1567411005884,
+    "stop" : 1567411005921,
+    "duration" : 37
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567411005884,
+        "stop" : 1567411005903,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5bd571611930b5ea",
+        "name" : "Request",
+        "source" : "5bd571611930b5ea.json",
+        "type" : "application/json",
+        "size" : 65
+      }, {
+        "uid" : "25b700874101d0b8",
+        "name" : "Response",
+        "source" : "25b700874101d0b8.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.9665024422819701-12/text",
+      "time" : {
+        "start" : 1567411005905,
+        "stop" : 1567411005920,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8f50ac21d156e9a3",
+        "name" : "Response",
+        "source" : "8f50ac21d156e9a3.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the aggregate rainfall of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6dcbe64be7e98af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410938999,
+        "stop" : 1567410939035,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "9ef7884eb69d7d24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410742220,
+        "stop" : 1567410742255,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "b86060fd43bdb822",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410680579,
+        "stop" : 1567410680617,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "3e568aa7e0b55d75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380376045,
+        "stop" : 1567380376080,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "bf5f216a50e0d61a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380314425,
+        "stop" : 1567380314460,
+        "duration" : 35
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5644744f34345d7a.json",
+  "parameterValues" : [ "chrome" ]
+}

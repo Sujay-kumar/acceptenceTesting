@@ -1,0 +1,55 @@
+{
+  "uid" : "a51cb43298dd02ec",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter stirling name",
+  "historyId" : "ddc8fb2687e3790516902058c1002de9",
+  "time" : {
+    "start" : 1567443734504,
+    "stop" : 1567443734504,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a51cb43298dd02ec.json",
+  "parameterValues" : [ "chrome" ]
+}

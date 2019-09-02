@@ -1,0 +1,92 @@
+{
+  "uid" : "72cd38c8e908c885",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.And I verify five days weather is displayed",
+  "historyId" : "caa50353044bd37979d3b0d8e9af7d1",
+  "time" : {
+    "start" : 1567427064477,
+    "stop" : 1567427064494,
+    "duration" : 17
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567427064477,
+        "stop" : 1567427064488,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d97b994c8b2557a8",
+        "name" : "Request",
+        "source" : "d97b994c8b2557a8.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "b0346e24d33bf825",
+        "name" : "Response",
+        "source" : "b0346e24d33bf825.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72cd38c8e908c885.json",
+  "parameterValues" : [ "chrome" ]
+}

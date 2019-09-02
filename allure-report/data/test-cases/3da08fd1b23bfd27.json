@@ -1,0 +1,73 @@
+{
+  "uid" : "3da08fd1b23bfd27",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.And I click on a 3 to check hourly forecast",
+  "historyId" : "b21cb768d402388137d8692772d31b4d",
+  "time" : {
+    "start" : 1567443991304,
+    "stop" : 1567443991304,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "737ba052d0954826",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735266,
+        "stop" : 1567443735266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "17868c15f36a3ed0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427481904,
+        "stop" : 1567427485045,
+        "duration" : 3141
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3da08fd1b23bfd27.json",
+  "parameterValues" : [ "chrome" ]
+}

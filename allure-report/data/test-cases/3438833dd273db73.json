@@ -1,0 +1,155 @@
+{
+  "uid" : "3438833dd273db73",
+  "name" : "Then I click on a 1 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 1 to check hourly forecast",
+  "historyId" : "7b3887a16b1e56ad1def0118b84cf18b",
+  "time" : {
+    "start" : 1567442990943,
+    "stop" : 1567442994079,
+    "duration" : 3136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567442990943,
+        "stop" : 1567442990958,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3f67a8f151f47066",
+        "name" : "Request",
+        "source" : "3f67a8f151f47066.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "113affd2f7c2575e",
+        "name" : "Response",
+        "source" : "113affd2f7c2575e.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.5873270860965771-2/click",
+      "time" : {
+        "start" : 1567442990960,
+        "stop" : 1567442991050,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567442991051,
+        "stop" : 1567442991061,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eeca8bc753222197",
+        "name" : "Request",
+        "source" : "eeca8bc753222197.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "d90a9c285d5fd7f0",
+        "name" : "Response",
+        "source" : "d90a9c285d5fd7f0.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5873270860965771-7/displayed",
+      "time" : {
+        "start" : 1567442991063,
+        "stop" : 1567442991076,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e56d1bad630f79c6",
+        "name" : "Response",
+        "source" : "e56d1bad630f79c6.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 1 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3438833dd273db73.json",
+  "parameterValues" : [ "chrome" ]
+}

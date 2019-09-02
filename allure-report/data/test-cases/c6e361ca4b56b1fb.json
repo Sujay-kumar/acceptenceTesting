@@ -1,0 +1,221 @@
+{
+  "uid" : "c6e361ca4b56b1fb",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast.When I enter edinburgh name",
+  "historyId" : "5643e8160765ae26c6a9c1f323197e28",
+  "time" : {
+    "start" : 1567444037600,
+    "stop" : 1567444042507,
+    "duration" : 4907
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567444037601,
+        "stop" : 1567444037619,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2703c2376c860ed6",
+        "name" : "Request",
+        "source" : "2703c2376c860ed6.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "85acd27f96e13823",
+        "name" : "Response",
+        "source" : "85acd27f96e13823.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.38609429214866897-1/clear",
+      "time" : {
+        "start" : 1567444037624,
+        "stop" : 1567444037653,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.38609429214866897-1/clear",
+      "time" : {
+        "start" : 1567444037653,
+        "stop" : 1567444037666,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.38609429214866897-1/value",
+      "time" : {
+        "start" : 1567444037670,
+        "stop" : 1567444038261,
+        "duration" : 591
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ba06fcd3afdd83d1",
+        "name" : "Request",
+        "source" : "ba06fcd3afdd83d1.json",
+        "type" : "application/json",
+        "size" : 100
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.38609429214866897-1/clear",
+      "time" : {
+        "start" : 1567444042265,
+        "stop" : 1567444042280,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.38609429214866897-1/value",
+      "time" : {
+        "start" : 1567444042281,
+        "stop" : 1567444042507,
+        "duration" : 226
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "441f974fbd0898d6",
+        "name" : "Request",
+        "source" : "441f974fbd0898d6.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1fd7c6072e36c396",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567443977332,
+        "stop" : 1567443982211,
+        "duration" : 4879
+      }
+    }, {
+      "uid" : "9c057a4057adebba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567443721180,
+        "stop" : 1567443726120,
+        "duration" : 4940
+      }
+    }, {
+      "uid" : "cf2fecc6836d4e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567442972758,
+        "stop" : 1567442977657,
+        "duration" : 4899
+      }
+    }, {
+      "uid" : "8f9ccf16375354a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427147229,
+        "stop" : 1567427152183,
+        "duration" : 4954
+      }
+    }, {
+      "uid" : "e1cbb88e257de891",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427018435,
+        "stop" : 1567427023404,
+        "duration" : 4969
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6e361ca4b56b1fb.json",
+  "parameterValues" : [ "chrome" ]
+}

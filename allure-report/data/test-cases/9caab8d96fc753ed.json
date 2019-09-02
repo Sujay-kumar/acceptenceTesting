@@ -1,0 +1,73 @@
+{
+  "uid" : "9caab8d96fc753ed",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.And I click on a 3 to check hourly forecast",
+  "historyId" : "e11791f1646f4459783806c0a28170da",
+  "time" : {
+    "start" : 1567443990853,
+    "stop" : 1567443990853,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67d3fc54f3afc0f1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734782,
+        "stop" : 1567443734782,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eee619569511d5c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427333864,
+        "stop" : 1567427337001,
+        "duration" : 3137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9caab8d96fc753ed.json",
+  "parameterValues" : [ "chrome" ]
+}

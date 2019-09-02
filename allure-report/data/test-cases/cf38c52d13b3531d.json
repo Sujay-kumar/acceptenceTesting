@@ -1,0 +1,215 @@
+{
+  "uid" : "cf38c52d13b3531d",
+  "name" : "Then I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 5 to check hourly forecast",
+  "historyId" : "668a4bb7d1b065124f1e626a6677b3a5",
+  "time" : {
+    "start" : 1567444047611,
+    "stop" : 1567444050738,
+    "duration" : 3127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567444047611,
+        "stop" : 1567444047625,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "25cb6336498197eb",
+        "name" : "Request",
+        "source" : "25cb6336498197eb.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "28414b2dacf369ab",
+        "name" : "Response",
+        "source" : "28414b2dacf369ab.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.09561087864750051-6/click",
+      "time" : {
+        "start" : 1567444047627,
+        "stop" : 1567444047706,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567444047706,
+        "stop" : 1567444047721,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9a8704d405e8f16a",
+        "name" : "Request",
+        "source" : "9a8704d405e8f16a.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "8992af982bf4de73",
+        "name" : "Response",
+        "source" : "8992af982bf4de73.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.09561087864750051-7/displayed",
+      "time" : {
+        "start" : 1567444047723,
+        "stop" : 1567444047736,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae2f91014a588242",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443990582,
+        "stop" : 1567443990582,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6fd99837708b178c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567443987328,
+        "stop" : 1567443990460,
+        "duration" : 3132
+      }
+    }, {
+      "uid" : "a74217ed51207347",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734504,
+        "stop" : 1567443734505,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "825c65d7729fb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567443731252,
+        "stop" : 1567443734385,
+        "duration" : 3133
+      }
+    }, {
+      "uid" : "5bd8de5eac73a9d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567442982771,
+        "stop" : 1567442985905,
+        "duration" : 3134
+      }
+    }, {
+      "uid" : "3b365214373846b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427215387,
+        "stop" : 1567427218529,
+        "duration" : 3142
+      }
+    }, {
+      "uid" : "9d768818a6b357c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427182644,
+        "stop" : 1567427185786,
+        "duration" : 3142
+      }
+    }, {
+      "uid" : "a779336c5eae4e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427054070,
+        "stop" : 1567427054219,
+        "duration" : 149
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf38c52d13b3531d.json",
+  "parameterValues" : [ "chrome" ]
+}

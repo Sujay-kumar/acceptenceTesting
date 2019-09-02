@@ -1,0 +1,189 @@
+{
+  "uid" : "52e71bf4b4bf916d",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down.When I enter edinburgh name",
+  "historyId" : "8e7d5437f9f3ae40c163bbcf5412a14a",
+  "time" : {
+    "start" : 1567445680712,
+    "stop" : 1567445685589,
+    "duration" : 4877
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445680713,
+        "stop" : 1567445680727,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "aee1686be66ddc93",
+        "name" : "Request",
+        "source" : "aee1686be66ddc93.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "115fa3a6019f2750",
+        "name" : "Response",
+        "source" : "115fa3a6019f2750.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-1/clear",
+      "time" : {
+        "start" : 1567445680732,
+        "stop" : 1567445680755,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-1/clear",
+      "time" : {
+        "start" : 1567445680756,
+        "stop" : 1567445680768,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-1/value",
+      "time" : {
+        "start" : 1567445680771,
+        "stop" : 1567445681346,
+        "duration" : 575
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3cf8b64b3d024ac0",
+        "name" : "Request",
+        "source" : "3cf8b64b3d024ac0.json",
+        "type" : "application/json",
+        "size" : 100
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-1/clear",
+      "time" : {
+        "start" : 1567445685348,
+        "stop" : 1567445685383,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.23254571068276952-1/value",
+      "time" : {
+        "start" : 1567445685383,
+        "stop" : 1567445685588,
+        "duration" : 205
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2dcc593a64a82c78",
+        "name" : "Request",
+        "source" : "2dcc593a64a82c78.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day with the values rounded down"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "275fd579439880f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567445498077,
+        "stop" : 1567445503169,
+        "duration" : 5092
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52e71bf4b4bf916d.json",
+  "parameterValues" : [ "chrome" ]
+}

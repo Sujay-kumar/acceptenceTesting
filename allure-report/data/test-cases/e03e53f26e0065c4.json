@@ -1,0 +1,73 @@
+{
+  "uid" : "e03e53f26e0065c4",
+  "name" : "When I enter glasgow name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter glasgow name",
+  "historyId" : "aba8f47daad1b79aa95d4b4d687cb515",
+  "time" : {
+    "start" : 1567443990608,
+    "stop" : 1567443990608,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter glasgow name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "98443785411078cc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734530,
+        "stop" : 1567443734530,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "837c9b86604034d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427218857,
+        "stop" : 1567427223542,
+        "duration" : 4685
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e03e53f26e0065c4.json",
+  "parameterValues" : [ "chrome" ]
+}

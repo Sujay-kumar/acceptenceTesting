@@ -1,1665 +1,5 @@
 [ {
-  "uid" : "77cfa8edc6e6d5d2",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567376719131,
-    "stop" : 1567376719426,
-    "duration" : 295
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "881cef499d9fa1cb",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427302975,
-    "stop" : 1567427302992,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "25478c526962fe35",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427448967,
-    "stop" : 1567427452101,
-    "duration" : 3134
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "faf8ebe1e21ee02b",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427498350,
-    "stop" : 1567427501502,
-    "duration" : 3152
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ce99d68d489a6b46",
-  "name" : "Then I click on a 4 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567427277597,
-    "stop" : 1567427283684,
-    "duration" : 6087
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fc6440b7f7cb4910",
-  "name" : "And I display the current climate of selected 4",
-  "time" : {
-    "start" : 1567410985761,
-    "stop" : 1567410985782,
-    "duration" : 21
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9e6ac486e19628f5",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427457125,
-    "stop" : 1567427460262,
-    "duration" : 3137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e757c76768901fd3",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427354010,
-    "stop" : 1567427358724,
-    "duration" : 4714
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e8722c355db57f01",
-  "name" : "Then I display the aggregate rainfall of selected 2",
-  "time" : {
-    "start" : 1567427460262,
-    "stop" : 1567427460290,
-    "duration" : 28
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7b413828d4565438",
-  "name" : "Then I display the aggregate rainfall of selected 3",
-  "time" : {
-    "start" : 1567379604276,
-    "stop" : 1567379604309,
-    "duration" : 33
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "65f8f3b2e7a142c7",
-  "name" : "Then I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427223559,
-    "stop" : 1567427226686,
-    "duration" : 3127
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bdc2affb9c1e8928",
-  "name" : "Then I display min and max temperature of selected 4",
-  "time" : {
-    "start" : 1567427493199,
-    "stop" : 1567427493253,
-    "duration" : 54
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e2307a93b495e12a",
-  "name" : "And I display the current climate of selected 4",
-  "time" : {
-    "start" : 1567379619526,
-    "stop" : 1567379619550,
-    "duration" : 24
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e507cf1fe54eda72",
-  "name" : "Then I click on a 1 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567427249202,
-    "stop" : 1567427255289,
-    "duration" : 6087
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e53a54ccd9d0f699",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427298016,
-    "stop" : 1567427298017,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d666b878f9f392a6",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567410966385,
-    "stop" : 1567410970993,
-    "duration" : 4608
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "689244ecabbf3267",
-  "name" : "And I display dominant wind speed of selected 5",
-  "time" : {
-    "start" : 1567376719079,
-    "stop" : 1567376719112,
-    "duration" : 33
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cbaf0597e1696260",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567376712737,
-    "stop" : 1567376712771,
-    "duration" : 34
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "85a78dd89f276913",
-  "name" : "And I display dominant wind speed of selected 3",
-  "time" : {
-    "start" : 1567410966002,
-    "stop" : 1567410966033,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c2d829cdd6119e32",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567427490060,
-    "stop" : 1567427493199,
-    "duration" : 3139
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "620c3634cdae91ec",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427298289,
-    "stop" : 1567427302975,
-    "duration" : 4686
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "319ab9b7dec73e9",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427427898,
-    "stop" : 1567427432575,
-    "duration" : 4677
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5792ce61b1da3494",
-  "name" : "And I display the aggregate rainfall of selected 1",
-  "time" : {
-    "start" : 1567379284182,
-    "stop" : 1567379284219,
-    "duration" : 37
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "41b40a91d3a4613d",
-  "name" : "Then I display the current climate of selected 5",
-  "time" : {
-    "start" : 1567427353684,
-    "stop" : 1567427353709,
-    "duration" : 25
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c0be96632a4f4229",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427432590,
-    "stop" : 1567427435727,
-    "duration" : 3137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f53e21555e70096",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567411010914,
-    "stop" : 1567411010932,
-    "duration" : 18
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "557c8af602d4f0c4",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567410939350,
-    "stop" : 1567410944071,
-    "duration" : 4721
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "99ac83f145a9b47e",
-  "name" : "And I display dominant wind speed of selected 1",
-  "time" : {
-    "start" : 1567427378384,
-    "stop" : 1567427378415,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bfae24c2d16b4a9b",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427162700,
-    "stop" : 1567427167339,
-    "duration" : 4639
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c45c65fae885aa66",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427383410,
-    "stop" : 1567427386547,
-    "duration" : 3137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c87f66337caad8df",
-  "name" : "And I display min and max temperature of selected 1",
-  "time" : {
-    "start" : 1567410947317,
-    "stop" : 1567410947378,
-    "duration" : 61
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4693f53c03a46e50",
-  "name" : "And I verify blank value for city display error Error retrieving the forecast",
-  "time" : {
-    "start" : 1567376728135,
-    "stop" : 1567376728167,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5abd7adc3aea8373",
-  "name" : "And I display dominant wind speed of selected 5",
-  "time" : {
-    "start" : 1567411005847,
-    "stop" : 1567411005884,
-    "duration" : 37
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "155f5bd3eecd1047",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427460584,
-    "stop" : 1567427465470,
-    "duration" : 4886
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "303d3945079e30de",
-  "name" : "And I enter edinburgh name",
-  "time" : {
-    "start" : 1567379253414,
-    "stop" : 1567379262306,
-    "duration" : 8892
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1bf63bafae534835",
-  "name" : "And I display the current climate of selected 2",
-  "time" : {
-    "start" : 1567411026254,
-    "stop" : 1567411026275,
-    "duration" : 21
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d0ac093dca1a3612",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567427440717,
-    "stop" : 1567427443862,
-    "duration" : 3145
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "73e2ea917c3a7cba",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427506528,
-    "stop" : 1567427506544,
-    "duration" : 16
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b22f4eeac0bfeaf3",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427260256,
-    "stop" : 1567427263395,
-    "duration" : 3139
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d9e0e9026690a0e4",
-  "name" : "Then I display the aggregate rainfall of selected 5",
-  "time" : {
-    "start" : 1567379635126,
-    "stop" : 1567379635162,
-    "duration" : 36
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bbdc6bc4d35daa71",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427147229,
-    "stop" : 1567427152183,
-    "duration" : 4954
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eed9b0442a792831",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427419669,
-    "stop" : 1567427424437,
-    "duration" : 4768
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aa5b997ff1f352fa",
-  "name" : "And I enter dundee name",
-  "time" : {
-    "start" : 1567379284538,
-    "stop" : 1567379293213,
-    "duration" : 8675
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "21725e5ed55ce9c6",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567379635467,
-    "stop" : 1567379644123,
-    "duration" : 8656
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "20e04393c42dd5a0",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567376703170,
-    "stop" : 1567376703171,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "790b7e6059c3e695",
-  "name" : "And I display min and max temperature of selected 2",
-  "time" : {
-    "start" : 1567411026275,
-    "stop" : 1567411026347,
-    "duration" : 72
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c1e2b82a17ae7096",
-  "name" : "Then I click on a 3 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567427263395,
-    "stop" : 1567427269502,
-    "duration" : 6107
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "94cc24a9780e5619",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427350547,
-    "stop" : 1567427353684,
-    "duration" : 3137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "495e765bdc28fa81",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567376712771,
-    "stop" : 1567376712899,
-    "duration" : 128
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3ea455c113c83ba7",
-  "name" : "And I display the aggregate rainfall of selected 5",
-  "time" : {
-    "start" : 1567379330450,
-    "stop" : 1567379330481,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2334e94f421dbe40",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427402950,
-    "stop" : 1567427403242,
-    "duration" : 292
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8172481a0953a83c",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427457110,
-    "stop" : 1567427457125,
-    "duration" : 15
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f74d65ebf0ee563b",
-  "name" : "Then I display the current climate of selected 3",
-  "time" : {
-    "start" : 1567427337001,
-    "stop" : 1567427337028,
-    "duration" : 27
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bcf7d47626e0b029",
-  "name" : "And I display dominant wind speed of selected 2",
-  "time" : {
-    "start" : 1567379650471,
-    "stop" : 1567379650503,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2fe412cfe9f1cc88",
-  "name" : "And I display the aggregate rainfall of selected 2",
-  "time" : {
-    "start" : 1567379345811,
-    "stop" : 1567379345854,
-    "duration" : 43
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d1504d1961287712",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427288787,
-    "stop" : 1567427291921,
-    "duration" : 3134
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "147818718a9c9fd1",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567379573719,
-    "stop" : 1567379582457,
-    "duration" : 8738
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "57fcb9c18d998d4c",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567379558096,
-    "stop" : 1567379566941,
-    "duration" : 8845
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "32c1fc5fac8afba9",
-  "name" : "And I display the current climate of selected 5",
-  "time" : {
-    "start" : 1567379634987,
-    "stop" : 1567379635012,
-    "duration" : 25
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b438e4966b652033",
-  "name" : "Then I display the aggregate rainfall of selected 4",
-  "time" : {
-    "start" : 1567379619646,
-    "stop" : 1567379619683,
-    "duration" : 37
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8b4764e0c4e134da",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427436044,
-    "stop" : 1567427440700,
-    "duration" : 4656
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1c81be84dc67f090",
-  "name" : "And I display min and max temperature of selected 3",
-  "time" : {
-    "start" : 1567379604178,
-    "stop" : 1567379604241,
-    "duration" : 63
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c653746461e711ce",
-  "name" : "And I click on a 1 to check hourly forecast",
-  "time" : {
-    "start" : 1567379582475,
-    "stop" : 1567379582619,
-    "duration" : 144
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "da4906ebfb240bd5",
-  "name" : "Then I display min and max temperature of selected 5",
-  "time" : {
-    "start" : 1567427501502,
-    "stop" : 1567427501562,
-    "duration" : 60
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "74fd78449556ced1",
-  "name" : "And I get value",
-  "time" : {
-    "start" : 1567373788546,
-    "stop" : 1567373788579,
-    "duration" : 33
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2854eeb450fc048",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427378708,
-    "stop" : 1567427383394,
-    "duration" : 4686
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "befb717d5cae1c65",
-  "name" : "And I display min and max temperature of selected 2",
-  "time" : {
-    "start" : 1567379650408,
-    "stop" : 1567379650471,
-    "duration" : 63
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "16190365167a19ab",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427157666,
-    "stop" : 1567427162361,
-    "duration" : 4695
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bd97070f6c7dce45",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427485397,
-    "stop" : 1567427490042,
-    "duration" : 4645
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "efde3a197d63121e",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427337324,
-    "stop" : 1567427341945,
-    "duration" : 4621
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5da57531b901c288",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567410971012,
-    "stop" : 1567410976195,
-    "duration" : 5183
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c5759ecb01a6dcf3",
-  "name" : "And I click on a 2 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567411016100,
-    "stop" : 1567411026253,
-    "duration" : 10153
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "80a2b8a959ef9fe3",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567410952575,
-    "stop" : 1567410957784,
-    "duration" : 5209
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e380431daa8778cb",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427468954,
-    "stop" : 1567427473704,
-    "duration" : 4750
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6ed3469ea9f878c8",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427452424,
-    "stop" : 1567427457110,
-    "duration" : 4686
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ac6426f57744e79a",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427218541,
-    "stop" : 1567427218856,
-    "duration" : 315
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "990179985719ca81",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427407955,
-    "stop" : 1567427411084,
-    "duration" : 3129
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4519926851e6600a",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427509742,
-    "stop" : 1567427510032,
-    "duration" : 290
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e1422fa53eb3d1b2",
-  "name" : "And I display dominant wind speed of selected 5",
-  "time" : {
-    "start" : 1567427402911,
-    "stop" : 1567427402945,
-    "duration" : 34
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "10657650696162ec",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427255574,
-    "stop" : 1567427260239,
-    "duration" : 4665
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7ddf171c9d567bd7",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567376703171,
-    "stop" : 1567376703855,
-    "duration" : 684
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4a6e608791d7d836",
-  "name" : "And I click on a 1 to check hourly forecast",
-  "time" : {
-    "start" : 1567427473720,
-    "stop" : 1567427476856,
-    "duration" : 3136
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d487ca4e81a20ad8",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427493554,
-    "stop" : 1567427498332,
-    "duration" : 4778
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3027008120808021",
-  "name" : "And I enter aberdeen name",
-  "time" : {
-    "start" : 1567379269080,
-    "stop" : 1567379277794,
-    "duration" : 8714
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d8f73a884d1f8719",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427223542,
-    "stop" : 1567427223559,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ca3e34f45b40938e",
-  "name" : "Then I display the aggregate rainfall of selected 1",
-  "time" : {
-    "start" : 1567379588846,
-    "stop" : 1567379588881,
-    "duration" : 35
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "964d15360ff3593e",
-  "name" : "Then I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427177481,
-    "stop" : 1567427177498,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2a33b28d55caf122",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427407938,
-    "stop" : 1567427407955,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6122b67dbb7eaae3",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567410986266,
-    "stop" : 1567410990969,
-    "duration" : 4703
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f4a44c78cb415110",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427506545,
-    "stop" : 1567427509679,
-    "duration" : 3134
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1f9ef89a29ea2727",
-  "name" : "Then I display the aggregate rainfall of selected 2",
-  "time" : {
-    "start" : 1567379650504,
-    "stop" : 1567379650542,
-    "duration" : 38
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "61b4c2bd628fa361",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567427391528,
-    "stop" : 1567427394660,
-    "duration" : 3132
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "59d71977278e9d69",
-  "name" : "Then I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427215387,
-    "stop" : 1567427218529,
-    "duration" : 3142
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d76318e52f74f998",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567379644143,
-    "stop" : 1567379644270,
-    "duration" : 127
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef45c70166ab7860",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427402949,
-    "stop" : 1567427402950,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2644c9f4ffe03c8",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427481904,
-    "stop" : 1567427485045,
-    "duration" : 3141
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4437e11fcf0c4da1",
-  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
-  "time" : {
-    "start" : 1567427514826,
-    "stop" : 1567427514852,
-    "duration" : 26
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a4d8acb92d0844cc",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567427274466,
-    "stop" : 1567427277597,
-    "duration" : 3131
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5f886513b936bfe2",
-  "name" : "And I click on a 3 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567379598044,
-    "stop" : 1567379604152,
-    "duration" : 6108
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9a19fb140e02b112",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427353717,
-    "stop" : 1567427354010,
-    "duration" : 293
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "64979865ede5afa1",
-  "name" : "And I click on a 4 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567410976195,
-    "stop" : 1567410985761,
-    "duration" : 9566
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cf6eea72bb28fc5e",
-  "name" : "And I click on a 5 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567379628875,
-    "stop" : 1567379634987,
-    "duration" : 6112
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "797e09f549d5e922",
-  "name" : "And I display the current climate of selected 2",
-  "time" : {
-    "start" : 1567379650385,
-    "stop" : 1567379650407,
-    "duration" : 22
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1c225d407e2e6b33",
-  "name" : "And I display dominant wind speed of selected 4",
-  "time" : {
-    "start" : 1567427394661,
-    "stop" : 1567427394694,
-    "duration" : 33
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a5f88271c91c98c",
-  "name" : "Then I display the aggregate rainfall of selected 3",
-  "time" : {
-    "start" : 1567427435727,
-    "stop" : 1567427435757,
-    "duration" : 30
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "292345fa6bcc4cf1",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427403243,
-    "stop" : 1567427407938,
-    "duration" : 4695
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "128933cad69d9a44",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427172446,
-    "stop" : 1567427172754,
-    "duration" : 308
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ed1fc62655d6003e",
-  "name" : "Then I display the aggregate rainfall of selected 3",
-  "time" : {
-    "start" : 1567410966033,
-    "stop" : 1567410966069,
-    "duration" : 36
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3ad98e202671a66",
-  "name" : "Then I display the aggregate rainfall of selected 1",
-  "time" : {
-    "start" : 1567427427584,
-    "stop" : 1567427427615,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b1a6dd03d716e173",
-  "name" : "Then I display the aggregate rainfall of selected 2",
-  "time" : {
-    "start" : 1567411026378,
-    "stop" : 1567411026414,
-    "duration" : 36
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5056986d1a69babf",
-  "name" : "Then I click on a 5 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567427291922,
-    "stop" : 1567427298007,
-    "duration" : 6085
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "291aacab2f81638f",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567379589206,
-    "stop" : 1567379597879,
-    "duration" : 8673
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9f4d1709de4b21eb",
-  "name" : "And I display min and max temperature of selected 4",
-  "time" : {
-    "start" : 1567379619550,
-    "stop" : 1567379619612,
-    "duration" : 62
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a7b08226779f6396",
-  "name" : "Then I display the current climate of selected 2",
-  "time" : {
-    "start" : 1567427361867,
-    "stop" : 1567427361892,
-    "duration" : 25
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f300a6626fc71892",
-  "name" : "Then I display the aggregate rainfall of selected 4",
-  "time" : {
-    "start" : 1567427443862,
-    "stop" : 1567427443894,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f283b4197c28e6c1",
-  "name" : "And I display min and max temperature of selected 4",
-  "time" : {
-    "start" : 1567410985782,
-    "stop" : 1567410985855,
-    "duration" : 73
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "20e0b76c7d66ffaf",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427452138,
-    "stop" : 1567427452424,
-    "duration" : 286
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d4bd7700b3dee4e",
-  "name" : "And I enter edinburgh name",
-  "time" : {
-    "start" : 1567376703855,
-    "stop" : 1567376712737,
-    "duration" : 8882
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "28768df8452e3c82",
-  "name" : "And I display dominant wind speed of selected 2",
-  "time" : {
-    "start" : 1567411026348,
-    "stop" : 1567411026378,
-    "duration" : 30
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "16bf395d6f25b092",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567411005934,
-    "stop" : 1567411005935,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8948b2c6b2801fee",
-  "name" : "And I display dominant wind speed of selected 2",
-  "time" : {
-    "start" : 1567427411084,
-    "stop" : 1567427411115,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bb4a8f1beb280482",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567410947756,
-    "stop" : 1567410952545,
-    "duration" : 4789
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a1d9e25c387ed5ee",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427302992,
-    "stop" : 1567427306132,
-    "duration" : 3140
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "644078c1a1c8c7f2",
-  "name" : "And I enter glasgow name",
-  "time" : {
-    "start" : 1567379330774,
-    "stop" : 1567379339424,
-    "duration" : 8650
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "38764888742a6157",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567410930787,
-    "stop" : 1567410935639,
-    "duration" : 4852
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ff3f515b2771681",
-  "name" : "Then I display the aggregate rainfall of selected 5",
-  "time" : {
-    "start" : 1567427452101,
-    "stop" : 1567427452133,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eda52918ef5a7d20",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427477209,
-    "stop" : 1567427481888,
-    "duration" : 4679
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a447c0c1e4baf7d8",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427320786,
-    "stop" : 1567427325628,
-    "duration" : 4842
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7be285ec39424764",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427501858,
-    "stop" : 1567427506528,
-    "duration" : 4670
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "84c5a2caf6d5ff18",
-  "name" : "And I enter invalidcity name",
-  "time" : {
-    "start" : 1567376719426,
-    "stop" : 1567376728134,
-    "duration" : 8708
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e04fb2d4d3ebbdf4",
-  "name" : "And I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427333864,
-    "stop" : 1567427337001,
-    "duration" : 3137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "50fc2f6567e92945",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427167667,
-    "stop" : 1567427172423,
-    "duration" : 4756
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bee8020697cf6332",
-  "name" : "Then I click on a 2 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567427306132,
-    "stop" : 1567427312214,
-    "duration" : 6082
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b6296dd6e4439109",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427202454,
-    "stop" : 1567427207146,
-    "duration" : 4692
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e236082a1eceb0d2",
-  "name" : "And I display dominant wind speed of selected 4",
-  "time" : {
-    "start" : 1567379619612,
-    "stop" : 1567379619646,
-    "duration" : 34
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ae8dceb535ec14e5",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567427298017,
-    "stop" : 1567427298289,
-    "duration" : 272
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7b13bc441c13bd81",
-  "name" : "And I display dominant wind speed of selected 3",
-  "time" : {
-    "start" : 1567427386548,
-    "stop" : 1567427386579,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "97243bc5484f1c4d",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427283989,
-    "stop" : 1567427288770,
-    "duration" : 4781
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f2d7c5b26a9b8ad5",
-  "name" : "And I click on a 2 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567379644270,
-    "stop" : 1567379650385,
-    "duration" : 6115
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aca6316e385dd1de",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567427399777,
-    "stop" : 1567427402911,
-    "duration" : 3134
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c86f38bd096b449e",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567379650554,
-    "stop" : 1567379650555,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ce296724f9a0d643",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427411407,
-    "stop" : 1567427416197,
-    "duration" : 4790
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "183591d755550b25",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427210610,
-    "stop" : 1567427215370,
-    "duration" : 4760
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "14b9b421d4765ef8",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427353716,
-    "stop" : 1567427353716,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ad7e542ef01a659a",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567379644124,
-    "stop" : 1567379644143,
-    "duration" : 19
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "489ee3b5ad3bc1a7",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567411005935,
-    "stop" : 1567411006262,
-    "duration" : 327
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7864f367d230e69",
-  "name" : "And I click on a 4 to check hourly forecast",
-  "time" : {
-    "start" : 1567379613242,
-    "stop" : 1567379613383,
-    "duration" : 141
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e5e38bcfa19bbb19",
-  "name" : "And I click on a 4 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567379613383,
-    "stop" : 1567379619526,
-    "duration" : 6143
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18a96adc9fe55649",
-  "name" : "And I display min and max temperature of selected 1",
-  "time" : {
-    "start" : 1567379588754,
-    "stop" : 1567379588814,
-    "duration" : 60
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7dd6a19f5b32c4b6",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427172446,
-    "stop" : 1567427172446,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c35958eff0787467",
-  "name" : "Then I click on a 3 to check hourly forecast",
-  "time" : {
-    "start" : 1567427199016,
-    "stop" : 1567427202162,
-    "duration" : 3146
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b0c86a3fe7b8d515",
-  "name" : "When I enter dundee name",
-  "time" : {
-    "start" : 1567427194309,
-    "stop" : 1567427198997,
-    "duration" : 4688
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "221226342e152aac",
-  "name" : "And I enter perth name",
-  "time" : {
-    "start" : 1567379299969,
-    "stop" : 1567379308587,
-    "duration" : 8618
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "34d823db523b2567",
-  "name" : "And I enter invalidcity name",
-  "time" : {
-    "start" : 1567379346134,
-    "stop" : 1567379354846,
-    "duration" : 8712
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b964304eedcad426",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567411010932,
-    "stop" : 1567411016100,
-    "duration" : 5168
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee2e3dce03124d2c",
-  "name" : "And I click on a 1 to check hourly forecast",
-  "time" : {
-    "start" : 1567427246066,
-    "stop" : 1567427249202,
-    "duration" : 3136
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "54c65363c9c38b4b",
-  "name" : "And I display min and max temperature of selected 5",
-  "time" : {
-    "start" : 1567376719017,
-    "stop" : 1567376719079,
-    "duration" : 62
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "57d6420a9b7ce53c",
-  "name" : "Then I display min and max temperature of selected 2",
-  "time" : {
-    "start" : 1567427509679,
-    "stop" : 1567427509736,
-    "duration" : 57
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7bac54f951c0d524",
-  "name" : "Then I display the current climate of selected 4",
-  "time" : {
-    "start" : 1567427345110,
-    "stop" : 1567427345134,
-    "duration" : 24
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fde1fad93e782426",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427186063,
-    "stop" : 1567427190874,
-    "duration" : 4811
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c992fdbccbe09d22",
-  "name" : "And I display min and max temperature of selected 5",
-  "time" : {
-    "start" : 1567379635012,
-    "stop" : 1567379635087,
-    "duration" : 75
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7b2437c18d3d19cf",
-  "name" : "And I click on a 5 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567376712899,
-    "stop" : 1567376719017,
-    "duration" : 6118
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2d6568a67d0340bd",
-  "name" : "And I click on a 5 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567410996184,
-    "stop" : 1567411005762,
-    "duration" : 9578
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c7e433e171fb14a0",
-  "name" : "And I verify five days weather is displayed",
-  "time" : {
-    "start" : 1567427358724,
-    "stop" : 1567427358741,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d18920dacfe247ee",
-  "name" : "Then I display the aggregate rainfall of selected 4",
-  "time" : {
-    "start" : 1567410985889,
-    "stop" : 1567410985923,
-    "duration" : 34
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "14c4f7bd4558c001",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427370447,
-    "stop" : 1567427375235,
-    "duration" : 4788
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ec3eb3af686665db",
+  "uid" : "badde2154c0b188d",
   "name" : "And I display dominant wind speed of selected 1",
   "time" : {
     "start" : 1567410947378,
@@ -1669,7 +9,47 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a99591b1feba48c7",
+  "uid" : "dc0010c0cc896752",
+  "name" : "And I click on a 4 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567379613383,
+    "stop" : 1567379619526,
+    "duration" : 6143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80a71631693eeff0",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443991226,
+    "stop" : 1567443991226,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c07d902979dfc958",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567443991380,
+    "stop" : 1567443991402,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b43df3a44d254a",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443990879,
+    "stop" : 1567443990879,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "740d0d733fc55d64",
   "name" : "And I display the current climate of selected 3",
   "time" : {
     "start" : 1567410965900,
@@ -1679,137 +59,27 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4c33c2d0f7242e4",
-  "name" : "Then I display the aggregate rainfall of selected 5",
+  "uid" : "dd3b011878839ea2",
+  "name" : "And I click on a 3 to check hourly forecast",
   "time" : {
-    "start" : 1567411005884,
-    "stop" : 1567411005921,
-    "duration" : 37
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3a2b134dbc0428dd",
-  "name" : "When I enter aberdeen name",
-  "time" : {
-    "start" : 1567427152542,
-    "stop" : 1567427157294,
-    "duration" : 4752
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "98b4db3947697bd2",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567376719130,
-    "stop" : 1567376719131,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8cc8c750997c76ce",
-  "name" : "And I display the current climate of selected 1",
-  "time" : {
-    "start" : 1567379588729,
-    "stop" : 1567379588754,
-    "duration" : 25
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "33dffce92242d6c1",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567379635175,
-    "stop" : 1567379635175,
+    "start" : 1567443991151,
+    "stop" : 1567443991151,
     "duration" : 0
   },
-  "status" : "passed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "63cd3e4d7ecd022",
-  "name" : "And I verify blank value for city display error Error retrieving the forecast",
-  "time" : {
-    "start" : 1567379354846,
-    "stop" : 1567379354877,
-    "duration" : 31
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "65555686c97981df",
+  "uid" : "f1e5272da4ebc662",
   "name" : "When I enter edinburgh name",
   "time" : {
-    "start" : 1567427362176,
-    "stop" : 1567427366964,
-    "duration" : 4788
+    "start" : 1567444042844,
+    "stop" : 1567444047589,
+    "duration" : 4745
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4148e2104aaeb53e",
-  "name" : "And I enter stirling name",
-  "time" : {
-    "start" : 1567379315334,
-    "stop" : 1567379324045,
-    "duration" : 8711
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e906586eb7d71a17",
-  "name" : "And I click on a 1 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567379582619,
-    "stop" : 1567379588729,
-    "duration" : 6110
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1f81c74472d5e7f0",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427269789,
-    "stop" : 1567427274449,
-    "duration" : 4660
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "52c5013d5aab8737",
-  "name" : "When I enter invalidcity name",
-  "time" : {
-    "start" : 1567379650830,
-    "stop" : 1567379659530,
-    "duration" : 8700
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "90a4f199f3f37e82",
-  "name" : "And I click on a 2 to check hourly forecast",
-  "time" : {
-    "start" : 1567427358741,
-    "stop" : 1567427361866,
-    "duration" : 3125
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1ada1d70a309141e",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567379620019,
-    "stop" : 1567379628720,
-    "duration" : 8701
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f308bc9bc955adb",
+  "uid" : "7f7cc6d7c6867898",
   "name" : "And I display min and max temperature of selected 5",
   "time" : {
     "start" : 1567411005783,
@@ -1819,297 +89,47 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2022d806a06a2fca",
-  "name" : "And I click on a 1 to hide the wethere forecast",
+  "uid" : "981b71ca34f497f8",
+  "name" : "And I verify five days weather is displayed",
   "time" : {
-    "start" : 1567410944217,
-    "stop" : 1567410947293,
-    "duration" : 3076
+    "start" : 1567443991079,
+    "stop" : 1567443991079,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b19638314594b093",
+  "name" : "And I enter edinburgh name",
+  "time" : {
+    "start" : 1567376703855,
+    "stop" : 1567376712737,
+    "duration" : 8882
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "79dd1e94b1597f0c",
-  "name" : "And I click on a 3 to hide the wethere forecast",
-  "time" : {
-    "start" : 1567410957784,
-    "stop" : 1567410965900,
-    "duration" : 8116
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e15d99ad6d21c969",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427312494,
-    "stop" : 1567427317298,
-    "duration" : 4804
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a205aa41cc02de8e",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567379604601,
-    "stop" : 1567379613221,
-    "duration" : 8620
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b873ff573d54c924",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427218537,
-    "stop" : 1567427218539,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9bce150bf7b630ca",
-  "name" : "And I click on a 1 to check hourly forecast",
-  "time" : {
-    "start" : 1567410944091,
-    "stop" : 1567410944217,
-    "duration" : 126
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d1a1d38ac59d0a9e",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427501567,
-    "stop" : 1567427501568,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a21032ea8d1cf7df",
-  "name" : "And I display dominant wind speed of selected 4",
-  "time" : {
-    "start" : 1567410985855,
-    "stop" : 1567410985888,
-    "duration" : 33
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "20b28c979853e28a",
-  "name" : "And I click on a 1 to check hourly forecast",
-  "time" : {
-    "start" : 1567427375253,
-    "stop" : 1567427378384,
-    "duration" : 3131
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "424bdafeaec0a425",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427226976,
-    "stop" : 1567427231784,
-    "duration" : 4808
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8bd3cd4253f4183d",
-  "name" : "And I display dominant wind speed of selected 1",
-  "time" : {
-    "start" : 1567379588814,
-    "stop" : 1567379588846,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b28051493ff0bff0",
-  "name" : "And I display the aggregate rainfall of selected 3",
-  "time" : {
-    "start" : 1567379299634,
-    "stop" : 1567379299675,
-    "duration" : 41
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8cc0fb092cc0ef6f",
-  "name" : "And I display dominant wind speed of selected 5",
-  "time" : {
-    "start" : 1567379635087,
-    "stop" : 1567379635126,
-    "duration" : 39
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "61f7fe9ce4df7a6f",
+  "uid" : "d607fb2dee2b59e6",
   "name" : "And I click on a 4 to check hourly forecast",
   "time" : {
-    "start" : 1567427341963,
-    "stop" : 1567427345110,
-    "duration" : 3147
+    "start" : 1567410971012,
+    "stop" : 1567410976195,
+    "duration" : 5183
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6e264453a13784e2",
-  "name" : "Given I open the site \"/\"",
+  "uid" : "648a83b7f6a420f1",
+  "name" : "Then I click on a 3 to hide the wethere forecast",
   "time" : {
-    "start" : 1567427509742,
-    "stop" : 1567427509742,
+    "start" : 1567443990687,
+    "stop" : 1567443990687,
     "duration" : 0
   },
-  "status" : "passed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "1cf1a0e3609c2d9c",
-  "name" : "Then I display the current climate of selected 1",
-  "time" : {
-    "start" : 1567427328783,
-    "stop" : 1567427328807,
-    "duration" : 24
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cb7368b450a3f1b",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567411006263,
-    "stop" : 1567411010914,
-    "duration" : 4651
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "80a6f7d4a0caf420",
-  "name" : "And I display min and max temperature of selected 3",
-  "time" : {
-    "start" : 1567410965923,
-    "stop" : 1567410966001,
-    "duration" : 78
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "44cc58c6fe69a6ab",
-  "name" : "And I display the current climate of selected 5",
-  "time" : {
-    "start" : 1567411005762,
-    "stop" : 1567411005783,
-    "duration" : 21
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a8b8b2cb640b7a5a",
-  "name" : "And I click on a 5 to check hourly forecast",
-  "time" : {
-    "start" : 1567410990988,
-    "stop" : 1567410996184,
-    "duration" : 5196
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a49b73c5155e21e0",
-  "name" : "Given I open the site \"/\"",
-  "time" : {
-    "start" : 1567427452138,
-    "stop" : 1567427452138,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7fc71bf3bf821123",
-  "name" : "When I enter perth name",
-  "time" : {
-    "start" : 1567427386871,
-    "stop" : 1567427391510,
-    "duration" : 4639
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c6476698c3ce4cb3",
-  "name" : "Hook",
-  "time" : {
-    "start" : 1567379635176,
-    "stop" : 1567379635467,
-    "duration" : 291
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e5eefbfa0e7d1a67",
-  "name" : "Then I display min and max temperature of selected 3",
-  "time" : {
-    "start" : 1567427485046,
-    "stop" : 1567427485104,
-    "duration" : 58
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "df88e3cbc11bf0e1",
-  "name" : "When I enter invalidcity name",
-  "time" : {
-    "start" : 1567427510032,
-    "stop" : 1567427514826,
-    "duration" : 4794
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ad7bdca0a3476efe",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427345439,
-    "stop" : 1567427350528,
-    "duration" : 5089
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "92e065ac1a428e6c",
-  "name" : "Then I display the aggregate rainfall of selected 1",
-  "time" : {
-    "start" : 1567410947415,
-    "stop" : 1567410947450,
-    "duration" : 35
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "be531295d51abf62",
-  "name" : "And I display the current climate of selected 1",
-  "time" : {
-    "start" : 1567410947293,
-    "stop" : 1567410947317,
-    "duration" : 24
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e01375a8582869a8",
-  "name" : "When I enter stirling name",
-  "time" : {
-    "start" : 1567427394995,
-    "stop" : 1567427399760,
-    "duration" : 4765
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "205249fe195ff0ca",
+  "uid" : "2c1b4a010258c63c",
   "name" : "When I enter glasgow name",
   "time" : {
     "start" : 1567427172755,
@@ -2119,137 +139,597 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ee0d1ca3ba65df91",
-  "name" : "Then I click on a 4 to check hourly forecast",
+  "uid" : "8ca227f5f323175f",
+  "name" : "Given I open the site \"/\"",
   "time" : {
-    "start" : 1567427207165,
-    "stop" : 1567427210309,
-    "duration" : 3144
+    "start" : 1567445176539,
+    "stop" : 1567445176540,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6b8d31d3ba6bdf8",
-  "name" : "When I enter edinburgh name",
-  "time" : {
-    "start" : 1567427177799,
-    "stop" : 1567427182626,
-    "duration" : 4827
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "548bad599760d606",
-  "name" : "When I enter glasgow name",
-  "time" : {
-    "start" : 1567427218857,
-    "stop" : 1567427223542,
-    "duration" : 4685
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f839cdb4424e9227",
+  "uid" : "e794f4ab8dc9f8e8",
   "name" : "When I enter dundee name",
   "time" : {
-    "start" : 1567427329126,
-    "stop" : 1567427333848,
-    "duration" : 4722
+    "start" : 1567379589206,
+    "stop" : 1567379597879,
+    "duration" : 8673
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "180f032f256fb885",
-  "name" : "And I click on a 3 to check hourly forecast",
+  "uid" : "4f345db5003fb9f7",
+  "name" : "And I click on a 4 to check hourly forecast",
   "time" : {
-    "start" : 1567379597900,
-    "stop" : 1567379598044,
-    "duration" : 144
+    "start" : 1567443991329,
+    "stop" : 1567443991329,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a7e2ff942dc0c971",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991377,
+    "stop" : 1567443991377,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f214b955c376b918",
+  "name" : "And I enter dundee name",
+  "time" : {
+    "start" : 1567379284538,
+    "stop" : 1567379293213,
+    "duration" : 8675
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8daf2a585e00437e",
-  "name" : "Then I click on a 1 to check hourly forecast",
+  "uid" : "31694f1158c5d5b1",
+  "name" : "And I click on a 1 to check hourly forecast",
   "time" : {
-    "start" : 1567427190892,
-    "stop" : 1567427194027,
-    "duration" : 3135
+    "start" : 1567443990660,
+    "stop" : 1567443990660,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f15d5525e767b34b",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567443991054,
+    "stop" : 1567443991055,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "63ee0ad29e3b9ac3",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443991029,
+    "stop" : 1567443991029,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "742a0c5c0f390848",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443991078,
+    "stop" : 1567443991079,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2f078d86123b2d6e",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567443991380,
+    "stop" : 1567443991380,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5be515c9147c0c57",
-  "name" : "And I click on a 5 to check hourly forecast",
+  "uid" : "514a0eb74834c77d",
+  "name" : "Then I display the aggregate rainfall of selected 1",
   "time" : {
-    "start" : 1567379628745,
-    "stop" : 1567379628875,
-    "duration" : 130
+    "start" : 1567379588846,
+    "stop" : 1567379588881,
+    "duration" : 35
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1049084134f88f4b",
-  "name" : "When I enter aberdeen name",
+  "uid" : "39783f5c137b1183",
+  "name" : "And I display min and max temperature of selected 5",
   "time" : {
-    "start" : 1567427241286,
-    "stop" : 1567427246048,
-    "duration" : 4762
+    "start" : 1567379635012,
+    "stop" : 1567379635087,
+    "duration" : 75
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "249cf3a956c80893",
-  "name" : "Hook",
+  "uid" : "d17f3614fce0e49e",
+  "name" : "When I enter stirling name",
   "time" : {
-    "start" : 1567379650555,
-    "stop" : 1567379650830,
-    "duration" : 275
+    "start" : 1567443991201,
+    "stop" : 1567443991202,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6e7f17b5c8fa39b",
+  "name" : "Then I display min and max temperature of selected 2",
+  "time" : {
+    "start" : 1567443991377,
+    "stop" : 1567443991378,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "155280275036a590",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443990556,
+    "stop" : 1567443990556,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5a923c91f0f02b96",
+  "name" : "And I enter perth name",
+  "time" : {
+    "start" : 1567379299969,
+    "stop" : 1567379308587,
+    "duration" : 8618
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c366b97d0f24260f",
-  "name" : "And I display the current climate of selected 3",
+  "uid" : "b0f4ef77b5d77513",
+  "name" : "When I enter stirling name",
   "time" : {
-    "start" : 1567379604152,
-    "stop" : 1567379604178,
+    "start" : 1567427167667,
+    "stop" : 1567427172423,
+    "duration" : 4756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "353ac67a089a40c1",
+  "name" : "Then I display the aggregate rainfall of selected 2",
+  "time" : {
+    "start" : 1567379650504,
+    "stop" : 1567379650542,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e59787f673704f6",
+  "name" : "And I display dominant wind speed of selected 2",
+  "time" : {
+    "start" : 1567411026348,
+    "stop" : 1567411026378,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af948b1ec5165d3b",
+  "name" : "And I display min and max temperature of selected 1",
+  "time" : {
+    "start" : 1567379588754,
+    "stop" : 1567379588814,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ddcdfba09dfaf1c",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567445685589,
+    "stop" : 1567445685615,
     "duration" : 26
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e875c284313c55d7",
+  "uid" : "f49f2eedb4a772c0",
+  "name" : "And I display min and max temperature of selected 2",
+  "time" : {
+    "start" : 1567411026275,
+    "stop" : 1567411026347,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e361ca4b56b1fb",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567444037600,
+    "stop" : 1567444042507,
+    "duration" : 4907
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ed5bf96ac3dbcf",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567427157666,
+    "stop" : 1567427162361,
+    "duration" : 4695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3c568dd9889351f",
+  "name" : "Then I display min and max temperature of selected 4",
+  "time" : {
+    "start" : 1567443991329,
+    "stop" : 1567443991329,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ce000cc01b9f3a",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567445182196,
+    "stop" : 1567445182221,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91a6d3d6dc78d95f",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567445922898,
+    "stop" : 1567445927766,
+    "duration" : 4868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5eeaa8fa8d97b0d",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443991304,
+    "stop" : 1567443991304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9caab8d96fc753ed",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990853,
+    "stop" : 1567443990853,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f03c9faf79a4fdb1",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567410939350,
+    "stop" : 1567410944071,
+    "duration" : 4721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a2c9b12685c20ef",
+  "name" : "Then I display the aggregate rainfall of selected 3",
+  "time" : {
+    "start" : 1567379604276,
+    "stop" : 1567379604309,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df6b549b070e6bf4",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567411010932,
+    "stop" : 1567411016100,
+    "duration" : 5168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8d50e6e34b17af0",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567443990954,
+    "stop" : 1567443990954,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "526934b0935a18fb",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567410996184,
+    "stop" : 1567411005762,
+    "duration" : 9578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbafffcd577f6e4d",
   "name" : "Hook",
   "time" : {
-    "start" : 1567427501568,
-    "stop" : 1567427501858,
-    "duration" : 290
+    "start" : 1567376703171,
+    "stop" : 1567376703855,
+    "duration" : 684
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "387482b4f0aee641",
-  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "uid" : "e3e671577aca1a8a",
+  "name" : "And I click on a 2 to check hourly forecast",
   "time" : {
-    "start" : 1567379659530,
-    "stop" : 1567379659561,
-    "duration" : 31
+    "start" : 1567443991079,
+    "stop" : 1567443991079,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d56d6c5b652e40c",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567427162700,
+    "stop" : 1567427167339,
+    "duration" : 4639
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f3126d8dfbda5443",
-  "name" : "And I display the aggregate rainfall of selected 4",
+  "uid" : "3325867e8c1aac7b",
+  "name" : "Then I display min and max temperature of selected 5",
   "time" : {
-    "start" : 1567379314998,
-    "stop" : 1567379315034,
+    "start" : 1567445185348,
+    "stop" : 1567445185418,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca67a5336d5ad0c5",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443991151,
+    "stop" : 1567443991151,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "affac9299cee017f",
+  "name" : "And I display the current climate of selected 4",
+  "time" : {
+    "start" : 1567379619526,
+    "stop" : 1567379619550,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39fa21e3eb8bb0a8",
+  "name" : "Then I display the aggregate rainfall of selected 3",
+  "time" : {
+    "start" : 1567410966033,
+    "stop" : 1567410966069,
     "duration" : 36
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b4422ca84fd8099e",
+  "uid" : "7da711001a3b1ccd",
+  "name" : "Then I display the aggregate rainfall of selected 2",
+  "time" : {
+    "start" : 1567411026378,
+    "stop" : 1567411026414,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aa6026714b5a2c8",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991004,
+    "stop" : 1567443991004,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "20bca80b5141345a",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567376712771,
+    "stop" : 1567376712899,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "638255d7c1c83e80",
+  "name" : "And I display dominant wind speed of selected 5",
+  "time" : {
+    "start" : 1567379635087,
+    "stop" : 1567379635126,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1d34029092d10b4",
+  "name" : "Then I click on a 1 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567443990661,
+    "stop" : 1567443990661,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e1abec4fcb0b0d71",
+  "name" : "And I enter stirling name",
+  "time" : {
+    "start" : 1567379315334,
+    "stop" : 1567379324045,
+    "duration" : 8711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc0f5b7ff6b31875",
+  "name" : "Then I display min and max temperature of selected 3",
+  "time" : {
+    "start" : 1567443991305,
+    "stop" : 1567443991305,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4396ea8e2a10aab0",
+  "name" : "And I display min and max temperature of selected 4",
+  "time" : {
+    "start" : 1567410985782,
+    "stop" : 1567410985855,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97c00401b9359c3a",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991055,
+    "stop" : 1567443991055,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "684a138652c4db50",
+  "name" : "And I click on a 2 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567379644270,
+    "stop" : 1567379650385,
+    "duration" : 6115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3457230f7aa695f6",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567443990634,
+    "stop" : 1567443990634,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "56200ce518d95df7",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567444042542,
+    "stop" : 1567444042844,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0c095978c89e313",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443991377,
+    "stop" : 1567443991377,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "249083f3762cca37",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567443990745,
+    "stop" : 1567443990745,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2bcb6d720fef1d60",
+  "name" : "And I enter aberdeen name",
+  "time" : {
+    "start" : 1567379269080,
+    "stop" : 1567379277794,
+    "duration" : 8714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71b08243ff0a5b4d",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567379620019,
+    "stop" : 1567379628720,
+    "duration" : 8701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "837b6c09c2d5c981",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567410986266,
+    "stop" : 1567410990969,
+    "duration" : 4703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15fb51da7e43645b",
+  "name" : "Then I display min and max temperature of selected 1",
+  "time" : {
+    "start" : 1567443991274,
+    "stop" : 1567443991275,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4c78d252faa08b89",
   "name" : "And I display dominant wind speed of selected 3",
   "time" : {
     "start" : 1567379604241,
@@ -2259,43 +739,1683 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9c2ca4321a93a338",
+  "uid" : "5b3d64ee976f46c1",
   "name" : "When I enter stirling name",
   "time" : {
-    "start" : 1567427444189,
-    "stop" : 1567427448948,
-    "duration" : 4759
+    "start" : 1567443990581,
+    "stop" : 1567443990581,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7b93e9f13c36bcf",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567445922077,
+    "stop" : 1567445922898,
+    "duration" : 821
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1ab16ee1d1c2c662",
+  "uid" : "47f4462f2d8d4176",
+  "name" : "Then I display the aggregate rainfall of selected 4",
+  "time" : {
+    "start" : 1567410985889,
+    "stop" : 1567410985923,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a1d398f2977f7fb",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "time" : {
+    "start" : 1567379635126,
+    "stop" : 1567379635162,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62c7c74d4ba2f791",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567376703170,
+    "stop" : 1567376703171,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33c4cf996f8d58d8",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567445679917,
+    "stop" : 1567445679919,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bb64e3b6b810787",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567445685615,
+    "stop" : 1567445688741,
+    "duration" : 3126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d7357d88bf4d6f6",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567443991058,
+    "stop" : 1567443991078,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "49539b105f40f300",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567379635467,
+    "stop" : 1567379644123,
+    "duration" : 8656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7da6baad2d082bb",
+  "name" : "Then I display the aggregate rainfall of selected 3",
+  "time" : {
+    "start" : 1567443991151,
+    "stop" : 1567443991152,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6e73bd55953ecf31",
+  "name" : "And I display dominant wind speed of selected 5",
+  "time" : {
+    "start" : 1567443991055,
+    "stop" : 1567443991055,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c3a52cb564df3b41",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567379650555,
+    "stop" : 1567379650830,
+    "duration" : 275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53c7c42cfc7ed00d",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567443990904,
+    "stop" : 1567443990904,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cf01d1f10f8edf0b",
+  "name" : "And I display the current climate of selected 4",
+  "time" : {
+    "start" : 1567410985761,
+    "stop" : 1567410985782,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b29f8a96f612211",
+  "name" : "And I display the current climate of selected 5",
+  "time" : {
+    "start" : 1567411005762,
+    "stop" : 1567411005783,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "268025c8574f44e1",
   "name" : "And I click on a 1 to check hourly forecast",
   "time" : {
-    "start" : 1567427325646,
-    "stop" : 1567427328783,
-    "duration" : 3137
+    "start" : 1567443991274,
+    "stop" : 1567443991274,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "816251d786e1f096",
+  "name" : "Then I display the current climate of selected 3",
+  "time" : {
+    "start" : 1567443990853,
+    "stop" : 1567443990853,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1135389ef0fa1e81",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567376719131,
+    "stop" : 1567376719426,
+    "duration" : 295
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b6bc754b75b9a93e",
+  "uid" : "c953b66173ca2fe6",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567444042542,
+    "stop" : 1567444042542,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdac9d061c605b7",
+  "name" : "When I enter stirling name",
+  "time" : {
+    "start" : 1567443991352,
+    "stop" : 1567443991352,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2decad69d610a8b8",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567379613242,
+    "stop" : 1567379613383,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c130317b57347e92",
+  "name" : "And I display dominant wind speed of selected 5",
+  "time" : {
+    "start" : 1567376719079,
+    "stop" : 1567376719112,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a276709a868f1cdc",
+  "name" : "And I display the current climate of selected 1",
+  "time" : {
+    "start" : 1567379588729,
+    "stop" : 1567379588754,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf38c52d13b3531d",
+  "name" : "Then I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567444047611,
+    "stop" : 1567444050738,
+    "duration" : 3127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e1c4eb9f206e0f9",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567376719130,
+    "stop" : 1567376719131,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd7b3459b07903d9",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567411010914,
+    "stop" : 1567411010932,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41af89c33b0276fa",
+  "name" : "When I enter invalidcity name",
+  "time" : {
+    "start" : 1567379650830,
+    "stop" : 1567379659530,
+    "duration" : 8700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3da08fd1b23bfd27",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991304,
+    "stop" : 1567443991304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ee991ea88ca35c3a",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567376712737,
+    "stop" : 1567376712771,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89775ec88926110c",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990745,
+    "stop" : 1567443990745,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cb349d329e822149",
+  "name" : "And I display dominant wind speed of selected 4",
+  "time" : {
+    "start" : 1567443991029,
+    "stop" : 1567443991030,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "73086afda5225c9a",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "time" : {
+    "start" : 1567376728135,
+    "stop" : 1567376728167,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b005c6c4aeb68758",
+  "name" : "And I display the aggregate rainfall of selected 2",
+  "time" : {
+    "start" : 1567379345811,
+    "stop" : 1567379345854,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd5efafbf7852214",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567444036850,
+    "stop" : 1567444037600,
+    "duration" : 750
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a74529bce7712fc",
+  "name" : "And I display the current climate of selected 2",
+  "time" : {
+    "start" : 1567411026254,
+    "stop" : 1567411026275,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d25ac2df007a82a8",
+  "name" : "And I display the current climate of selected 2",
+  "time" : {
+    "start" : 1567379650385,
+    "stop" : 1567379650407,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba8c3a71dc3e8f70",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567427152542,
+    "stop" : 1567427157294,
+    "duration" : 4752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a998f3e3a39723f",
+  "name" : "Then I display the aggregate rainfall of selected 1",
+  "time" : {
+    "start" : 1567443991127,
+    "stop" : 1567443991127,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4c9cb551f0811e1c",
+  "name" : "Then I click on a 4 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567443990716,
+    "stop" : 1567443990716,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "777159163a0e1b44",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567379635176,
+    "stop" : 1567379635467,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7bf1fe6d8881e1b",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567443991205,
+    "stop" : 1567443991205,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "952ce40b53b456f3",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990773,
+    "stop" : 1567443990773,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "850350a43497a7cc",
   "name" : "And I click on a 1 to check hourly forecast",
   "time" : {
-    "start" : 1567427424454,
-    "stop" : 1567427427583,
-    "duration" : 3129
+    "start" : 1567443990827,
+    "stop" : 1567443990827,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "16ec1c868a01b2bc",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443991004,
+    "stop" : 1567443991004,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e9f1f0eb25867d86",
+  "name" : "Then I display the aggregate rainfall of selected 1",
+  "time" : {
+    "start" : 1567410947415,
+    "stop" : 1567410947450,
+    "duration" : 35
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d4dabdbd4d4f0d05",
-  "name" : "Then I display min and max temperature of selected 1",
+  "uid" : "d76579286e289ea1",
+  "name" : "And I display min and max temperature of selected 4",
   "time" : {
-    "start" : 1567427476857,
-    "stop" : 1567427476916,
-    "duration" : 59
+    "start" : 1567379619550,
+    "stop" : 1567379619612,
+    "duration" : 62
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c155eaebfbf9ae4",
+  "name" : "And I display the current climate of selected 1",
+  "time" : {
+    "start" : 1567410947293,
+    "stop" : 1567410947317,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed4cd751cc161f5f",
+  "name" : "And I display dominant wind speed of selected 1",
+  "time" : {
+    "start" : 1567443990980,
+    "stop" : 1567443990980,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "33991c220f846aef",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443991126,
+    "stop" : 1567443991126,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "53d74e40b017ef8c",
+  "name" : "Then I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567444042507,
+    "stop" : 1567444042533,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d19d8b5f0ac91244",
+  "name" : "And I display dominant wind speed of selected 2",
+  "time" : {
+    "start" : 1567379650471,
+    "stop" : 1567379650503,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1966f2cdb100e07a",
+  "name" : "Then I display the current climate of selected 2",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990931,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b1f4a7b82e8ca234",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567379635175,
+    "stop" : 1567379635175,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7072184979cc61b",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567410966385,
+    "stop" : 1567410970993,
+    "duration" : 4608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9692f393dc7bd2c3",
+  "name" : "And I click on a 1 to check hourly forecast",
+  "time" : {
+    "start" : 1567379582475,
+    "stop" : 1567379582619,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ffc6164fe82ff35",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567410947756,
+    "stop" : 1567410952545,
+    "duration" : 4789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70182b7f5455ec32",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443990715,
+    "stop" : 1567443990715,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "dd2ce43ccd89c6b0",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567443990799,
+    "stop" : 1567443990799,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e47346f5bcec177d",
+  "name" : "And I display the aggregate rainfall of selected 5",
+  "time" : {
+    "start" : 1567379330450,
+    "stop" : 1567379330481,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0c5382fc85b1d49",
+  "name" : "And I display dominant wind speed of selected 3",
+  "time" : {
+    "start" : 1567443991005,
+    "stop" : 1567443991005,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "52b0a083c68a5be1",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567443990750,
+    "stop" : 1567443990750,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "845613b67beea847",
+  "name" : "Then I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990608,
+    "stop" : 1567443990608,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "21b7f12fff6785b7",
+  "name" : "And I display the current climate of selected 3",
+  "time" : {
+    "start" : 1567379604152,
+    "stop" : 1567379604178,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c85dd0c943cd4e80",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567379644124,
+    "stop" : 1567379644143,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a96d9f75b648200a",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991202,
+    "stop" : 1567443991202,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "187f51bae02336c5",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443991177,
+    "stop" : 1567443991177,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a85b911b5b84d843",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991227,
+    "stop" : 1567443991227,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d3a9b4cd689b3a48",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990930,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7625c6df89ffa1ca",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567379628875,
+    "stop" : 1567379634987,
+    "duration" : 6112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cb0e2dde1c1d590",
+  "name" : "And I display min and max temperature of selected 2",
+  "time" : {
+    "start" : 1567379650408,
+    "stop" : 1567379650471,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c18a9d354155535d",
+  "name" : "And I click on a 2 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567411016100,
+    "stop" : 1567411026253,
+    "duration" : 10153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4781bc0d4968311a",
+  "name" : "Then I display the aggregate rainfall of selected 2",
+  "time" : {
+    "start" : 1567443991227,
+    "stop" : 1567443991227,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "adaa2dc57cb93578",
+  "name" : "Then I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990526,
+    "stop" : 1567443990526,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c29494af3ea4e47a",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443990826,
+    "stop" : 1567443990827,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b1d8179c0cdcdc3c",
+  "name" : "And I click on a 1 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990980,
+    "stop" : 1567443990980,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e8c80e7ab381f620",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443990772,
+    "stop" : 1567443990772,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "158b90038a2fbc9b",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567445922075,
+    "stop" : 1567445922076,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "371d25f7a50fd0ed",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567443991057,
+    "stop" : 1567443991058,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "547d6ca0416da4a9",
+  "name" : "When I enter invalidcity name",
+  "time" : {
+    "start" : 1567443991403,
+    "stop" : 1567443991403,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c54256911ad95839",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567411006263,
+    "stop" : 1567411010914,
+    "duration" : 4651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30dc22ce091d61f1",
+  "name" : "And I display the aggregate rainfall of selected 4",
+  "time" : {
+    "start" : 1567379314998,
+    "stop" : 1567379315034,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6223d81ac9499d2b",
+  "name" : "And I click on a 4 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567410976195,
+    "stop" : 1567410985761,
+    "duration" : 9566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cea39d7b7b997b03",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443990687,
+    "stop" : 1567443990687,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "db79e195e75c36df",
+  "name" : "Then I display the current climate of selected 4",
+  "time" : {
+    "start" : 1567443990880,
+    "stop" : 1567443990880,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "42ec6910f803055c",
+  "name" : "And I click on a 1 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567410944217,
+    "stop" : 1567410947293,
+    "duration" : 3076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae3b8fc1bc7a5702",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567410930787,
+    "stop" : 1567410935639,
+    "duration" : 4852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e7e95079cb93604",
+  "name" : "Then I display the current climate of selected 1",
+  "time" : {
+    "start" : 1567443990827,
+    "stop" : 1567443990828,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e953ec1e06b02fe3",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "time" : {
+    "start" : 1567445688741,
+    "stop" : 1567445688775,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5dc14150e685b",
+  "name" : "And I display dominant wind speed of selected 1",
+  "time" : {
+    "start" : 1567379588814,
+    "stop" : 1567379588846,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3865a4d720c376ee",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567376712899,
+    "stop" : 1567376719017,
+    "duration" : 6118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5a23d0e4f204bcd",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567445927790,
+    "stop" : 1567445930922,
+    "duration" : 3132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ab5124279e7059c",
+  "name" : "Then I display the aggregate rainfall of selected 4",
+  "time" : {
+    "start" : 1567443991177,
+    "stop" : 1567443991177,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b39a4ed25671e88",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567410990988,
+    "stop" : 1567410996184,
+    "duration" : 5196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77e4aec9a2f8e558",
+  "name" : "And I display min and max temperature of selected 5",
+  "time" : {
+    "start" : 1567376719017,
+    "stop" : 1567376719079,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dda3d9710607a773",
+  "name" : "Then I click on a 1 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990496,
+    "stop" : 1567443990496,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6c64c51bc84e055d",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567445679920,
+    "stop" : 1567445680711,
+    "duration" : 791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc44b4d35dad152b",
+  "name" : "And I display dominant wind speed of selected 4",
+  "time" : {
+    "start" : 1567379619612,
+    "stop" : 1567379619646,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5644744f34345d7a",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "time" : {
+    "start" : 1567411005884,
+    "stop" : 1567411005921,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abba22d40daae472",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443991274,
+    "stop" : 1567443991274,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "69eecb5d2f797a56",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567444047589,
+    "stop" : 1567444047611,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3eef64e8d7b1565",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991177,
+    "stop" : 1567443991177,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "52e71bf4b4bf916d",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567445680712,
+    "stop" : 1567445685589,
+    "duration" : 4877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c981753175c239a4",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567445182221,
+    "stop" : 1567445185348,
+    "duration" : 3127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d07db4992aac748",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567443990908,
+    "stop" : 1567443990908,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac97345e831c2afa",
+  "name" : "And I get value",
+  "time" : {
+    "start" : 1567373788546,
+    "stop" : 1567373788579,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8367ad203ffdb70e",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567379597900,
+    "stop" : 1567379598044,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5173c3a44120e305",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443990979,
+    "stop" : 1567443990979,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ec6841964a560bb1",
+  "name" : "And I click on a 3 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567379598044,
+    "stop" : 1567379604152,
+    "duration" : 6108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f56d65a38c0a4477",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567379628745,
+    "stop" : 1567379628875,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfbbffe7d9a88c87",
+  "name" : "And I display dominant wind speed of selected 2",
+  "time" : {
+    "start" : 1567443991079,
+    "stop" : 1567443991079,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "589d5a94f8fceadf",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567379558096,
+    "stop" : 1567379566941,
+    "duration" : 8845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "873c00a7f9337edf",
+  "name" : "And I enter edinburgh name",
+  "time" : {
+    "start" : 1567379253414,
+    "stop" : 1567379262306,
+    "duration" : 8892
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4edd3e43e86e9562",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443990852,
+    "stop" : 1567443990853,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a965716f31985852",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443990660,
+    "stop" : 1567443990660,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d0d8486af90d1503",
+  "name" : "Then I display min and max temperature of selected 5",
+  "time" : {
+    "start" : 1567445930922,
+    "stop" : 1567445930986,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c15e42a1984f269b",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "time" : {
+    "start" : 1567443991202,
+    "stop" : 1567443991202,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e65050041fe2da3f",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567379573719,
+    "stop" : 1567379582457,
+    "duration" : 8738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0ecf92552f0c715",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567379650554,
+    "stop" : 1567379650555,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fafd552db9812ca",
+  "name" : "And I display dominant wind speed of selected 4",
+  "time" : {
+    "start" : 1567410985855,
+    "stop" : 1567410985888,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e94f52081af80b85",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "time" : {
+    "start" : 1567379354846,
+    "stop" : 1567379354877,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d99df6dec8bbacdc",
+  "name" : "And I display min and max temperature of selected 3",
+  "time" : {
+    "start" : 1567379604178,
+    "stop" : 1567379604241,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b07289890f27d1b",
+  "name" : "Then I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990556,
+    "stop" : 1567443990556,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f013d0858f0f5f0b",
+  "name" : "And I display the current climate of selected 5",
+  "time" : {
+    "start" : 1567379634987,
+    "stop" : 1567379635012,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b02132f7ecb7a78",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567445177336,
+    "stop" : 1567445182196,
+    "duration" : 4860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d80614cceeee3408",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567411005935,
+    "stop" : 1567411006262,
+    "duration" : 327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1c7bf6e40b156ee",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990930,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ea6d3d9bf09749",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990930,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "896ff2fef88339ab",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990715,
+    "stop" : 1567443990715,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "330803383c36b291",
+  "name" : "When I enter aberdeen name",
+  "time" : {
+    "start" : 1567443990496,
+    "stop" : 1567443990496,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "993e9a2c1b86ef3",
+  "name" : "And I enter glasgow name",
+  "time" : {
+    "start" : 1567379330774,
+    "stop" : 1567379339424,
+    "duration" : 8650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6432c6250903d704",
+  "name" : "When I enter edinburgh name",
+  "time" : {
+    "start" : 1567443991103,
+    "stop" : 1567443991103,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ee5cf413e37e28a",
+  "name" : "And I display the aggregate rainfall of selected 1",
+  "time" : {
+    "start" : 1567379284182,
+    "stop" : 1567379284219,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4b3906021c35144",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567445927766,
+    "stop" : 1567445927789,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b5a7a6d6183218e",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567379604601,
+    "stop" : 1567379613221,
+    "duration" : 8620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4addf8193870ff6",
+  "name" : "And I display min and max temperature of selected 1",
+  "time" : {
+    "start" : 1567410947317,
+    "stop" : 1567410947378,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "679c34567955bb80",
+  "name" : "And I click on a 1 to check hourly forecast",
+  "time" : {
+    "start" : 1567410944091,
+    "stop" : 1567410944217,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e03e53f26e0065c4",
+  "name" : "When I enter glasgow name",
+  "time" : {
+    "start" : 1567443990608,
+    "stop" : 1567443990608,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e4d2126b3ba74ae9",
+  "name" : "And I display dominant wind speed of selected 5",
+  "time" : {
+    "start" : 1567411005847,
+    "stop" : 1567411005884,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f02b183770dc1c60",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567443990772,
+    "stop" : 1567443990773,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "138c994d8b4bda2f",
+  "name" : "When I enter perth name",
+  "time" : {
+    "start" : 1567443991329,
+    "stop" : 1567443991329,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "59f27c2ac145f524",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "time" : {
+    "start" : 1567379644143,
+    "stop" : 1567379644270,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8bcf00fe2ca30fb",
+  "name" : "And I display min and max temperature of selected 3",
+  "time" : {
+    "start" : 1567410965923,
+    "stop" : 1567410966001,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ce5b62e001fa185",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990687,
+    "stop" : 1567443990687,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "230aee0e35ade924",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567443990908,
+    "stop" : 1567443990930,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "650a173a1d4a9964",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567445176541,
+    "stop" : 1567445177336,
+    "duration" : 795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "334d0c9983bf3657",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567443990750,
+    "stop" : 1567443990772,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e882702d1d5f3da5",
+  "name" : "And I enter invalidcity name",
+  "time" : {
+    "start" : 1567379346134,
+    "stop" : 1567379354846,
+    "duration" : 8712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2045a9e7d13c339",
+  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "time" : {
+    "start" : 1567443991403,
+    "stop" : 1567443991403,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "352aac1cdb318785",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990904,
+    "stop" : 1567443990904,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b9cfa416d6bdd76f",
+  "name" : "And I display dominant wind speed of selected 3",
+  "time" : {
+    "start" : 1567410966002,
+    "stop" : 1567410966033,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "894c3351d8224ce5",
+  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "time" : {
+    "start" : 1567379659530,
+    "stop" : 1567379659561,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cdf83f8fc096f7a",
+  "name" : "And I enter invalidcity name",
+  "time" : {
+    "start" : 1567376719426,
+    "stop" : 1567376728134,
+    "duration" : 8708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b16968b75db54cc",
+  "name" : "Then I click on a 5 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567443990745,
+    "stop" : 1567443990745,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "893d48663543a94e",
+  "name" : "Then I click on a 2 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567443990773,
+    "stop" : 1567443990773,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "891935e41633896a",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567444036847,
+    "stop" : 1567444036849,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5765823207007af6",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "time" : {
+    "start" : 1567410952575,
+    "stop" : 1567410957784,
+    "duration" : 5209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b45295b12005e63",
+  "name" : "And I click on a 1 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567379582619,
+    "stop" : 1567379588729,
+    "duration" : 6110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5e237d505df171e",
+  "name" : "And I verify five days weather is displayed",
+  "time" : {
+    "start" : 1567443991226,
+    "stop" : 1567443991227,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd5d754564ed682",
+  "name" : "And I click on a 1 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991127,
+    "stop" : 1567443991127,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "21d00ee433176a4d",
+  "name" : "Then I display the current climate of selected 5",
+  "time" : {
+    "start" : 1567443990904,
+    "stop" : 1567443990904,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fd5f01bf45ea39f",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1567443991205,
+    "stop" : 1567443991226,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db78de04eb6ab0b1",
+  "name" : "Then I display the aggregate rainfall of selected 4",
+  "time" : {
+    "start" : 1567379619646,
+    "stop" : 1567379619683,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "510abfb9ed103f71",
+  "name" : "And I click on a 3 to hide the wethere forecast",
+  "time" : {
+    "start" : 1567410957784,
+    "stop" : 1567410965900,
+    "duration" : 8116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2ace1e781fd707c",
+  "name" : "Given I open the site \"/\"",
+  "time" : {
+    "start" : 1567411005934,
+    "stop" : 1567411005935,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2a9f0bafd6749b6",
+  "name" : "And I display the aggregate rainfall of selected 3",
+  "time" : {
+    "start" : 1567379299634,
+    "stop" : 1567379299675,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d59e65a6c6dc4b",
+  "name" : "When I enter dundee name",
+  "time" : {
+    "start" : 1567443990526,
+    "stop" : 1567443990526,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ae314afdd5a46077",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567443990879,
+    "stop" : 1567443990880,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "831c487c4210697b",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "time" : {
+    "start" : 1567443991029,
+    "stop" : 1567443991029,
+    "duration" : 0
+  },
+  "status" : "skipped",
   "severity" : "normal"
 } ]

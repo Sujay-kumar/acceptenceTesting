@@ -1,0 +1,92 @@
+{
+  "uid" : "33c3c1ea684d73e",
+  "name" : "Then I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast.Then I verify five days weather is displayed",
+  "historyId" : "3017c41554d1319d75cf274530b19e76",
+  "time" : {
+    "start" : 1567427048894,
+    "stop" : 1567427048911,
+    "duration" : 17
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567427048895,
+        "stop" : 1567427048903,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "954c9b0d8a8b995b",
+        "name" : "Request",
+        "source" : "954c9b0d8a8b995b.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "efae9de32f5f7980",
+        "name" : "Response",
+        "source" : "efae9de32f5f7980.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33c3c1ea684d73e.json",
+  "parameterValues" : [ "chrome" ]
+}

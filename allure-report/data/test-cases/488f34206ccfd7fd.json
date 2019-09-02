@@ -1,0 +1,92 @@
+{
+  "uid" : "488f34206ccfd7fd",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I verify five days weather is displayed",
+  "historyId" : "afe12acda58d5900bf20193886352523",
+  "time" : {
+    "start" : 1567113650364,
+    "stop" : 1567113650390,
+    "duration" : 26
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567113650365,
+        "stop" : 1567113650379,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c81d50d4aa4c2e7a",
+        "name" : "Request",
+        "source" : "c81d50d4aa4c2e7a.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "476c6a6818bbda98",
+        "name" : "Response",
+        "source" : "476c6a6818bbda98.json",
+        "type" : "application/json",
+        "size" : 242
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "488f34206ccfd7fd.json",
+  "parameterValues" : [ "chrome" ]
+}

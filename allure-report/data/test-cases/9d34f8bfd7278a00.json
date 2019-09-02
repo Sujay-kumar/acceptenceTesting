@@ -1,0 +1,55 @@
+{
+  "uid" : "9d34f8bfd7278a00",
+  "name" : "Then I click on a 2 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 2 to check hourly forecast",
+  "historyId" : "f83f2196af5a9ad6b2c7266c2e947328",
+  "time" : {
+    "start" : 1567443734530,
+    "stop" : 1567443734530,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 2 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d34f8bfd7278a00.json",
+  "parameterValues" : [ "chrome" ]
+}

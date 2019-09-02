@@ -1,0 +1,97 @@
+{
+  "uid" : "6e73bd55953ecf31",
+  "name" : "And I display dominant wind speed of selected 5",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.And I display dominant wind speed of selected 5",
+  "historyId" : "d326949f1673066e9c81cb2fcdebce42",
+  "time" : {
+    "start" : 1567443991055,
+    "stop" : 1567443991055,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display dominant wind speed of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b07aba3e8d3dd925",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443990954,
+        "stop" : 1567443990954,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "835e507a35624043",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734988,
+        "stop" : 1567443734988,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e8857e4fb2c2a4ab",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734887,
+        "stop" : 1567443734887,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "41b1869752322826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427402911,
+        "stop" : 1567427402945,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "7d506e3aac4b610",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427370110,
+        "stop" : 1567427370143,
+        "duration" : 33
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e73bd55953ecf31.json",
+  "parameterValues" : [ "chrome" ]
+}

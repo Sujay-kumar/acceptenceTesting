@@ -1,0 +1,73 @@
+{
+  "uid" : "c3eef64e8d7b1565",
+  "name" : "And I click on a 4 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.And I click on a 4 to check hourly forecast",
+  "historyId" : "714a73b482c4614ea992dfb09504fe6a",
+  "time" : {
+    "start" : 1567443991177,
+    "stop" : 1567443991177,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 4 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7c096101b7e0c25e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735131,
+        "stop" : 1567443735131,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c633c8d68b23440",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427440717,
+        "stop" : 1567427443862,
+        "duration" : 3145
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3eef64e8d7b1565.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,73 @@
+{
+  "uid" : "cb349d329e822149",
+  "name" : "And I display dominant wind speed of selected 4",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.And I display dominant wind speed of selected 4",
+  "historyId" : "7ba672720cf42b559c7670de3c61745d",
+  "time" : {
+    "start" : 1567443991029,
+    "stop" : 1567443991030,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display dominant wind speed of selected 4"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "602a3c3f4e98d71d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734964,
+        "stop" : 1567443734964,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "99a3143b850f4bbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427394661,
+        "stop" : 1567427394694,
+        "duration" : 33
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb349d329e822149.json",
+  "parameterValues" : [ "chrome" ]
+}

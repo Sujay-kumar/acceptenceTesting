@@ -1,0 +1,73 @@
+{
+  "uid" : "d3a9b4cd689b3a48",
+  "name" : "When I enter glasgow name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.When I enter glasgow name",
+  "historyId" : "465a7bd770a49242af13e24c4dbb7901",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990930,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter glasgow name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e3350a99e977c9f3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734860,
+        "stop" : 1567443734861,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b56322b79763051f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427354010,
+        "stop" : 1567427358724,
+        "duration" : 4714
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3a9b4cd689b3a48.json",
+  "parameterValues" : [ "chrome" ]
+}

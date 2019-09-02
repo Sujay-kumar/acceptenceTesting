@@ -1,0 +1,89 @@
+{
+  "uid" : "330803383c36b291",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter aberdeen name",
+  "historyId" : "6585a93cf0e6201f95635fc524a2fb73",
+  "time" : {
+    "start" : 1567443990496,
+    "stop" : 1567443990496,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b63809e8aa89dbd1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734421,
+        "stop" : 1567443734421,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "25f7f4b1c38857c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567442986196,
+        "stop" : 1567442990925,
+        "duration" : 4729
+      }
+    }, {
+      "uid" : "800a6867fa62ba03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427186063,
+        "stop" : 1567427190874,
+        "duration" : 4811
+      }
+    }, {
+      "uid" : "986dfcea1e44955e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427054513,
+        "stop" : 1567427059309,
+        "duration" : 4796
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "330803383c36b291.json",
+  "parameterValues" : [ "chrome" ]
+}

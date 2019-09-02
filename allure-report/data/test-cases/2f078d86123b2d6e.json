@@ -1,0 +1,97 @@
+{
+  "uid" : "2f078d86123b2d6e",
+  "name" : "Given I open the site \"/\"",
+  "fullName" : "To test the weather forecast application.: Error scenarios.Given I open the site \"/\"",
+  "historyId" : "55f435a3db210e6037276ee375c2f663",
+  "time" : {
+    "start" : 1567443991380,
+    "stop" : 1567443991380,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the site \"/\""
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa3608bf65d89d5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567443735341,
+        "stop" : 1567443735341,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4a01a738d317728a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427509742,
+        "stop" : 1567427509742,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d9bea4431616d069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567411026426,
+        "stop" : 1567411026427,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9740799008a84b27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410757668,
+        "stop" : 1567410757669,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ebef22aca48683e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380391408,
+        "stop" : 1567380391409,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f078d86123b2d6e.json",
+  "parameterValues" : [ "chrome" ]
+}

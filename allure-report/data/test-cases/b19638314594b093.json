@@ -1,0 +1,293 @@
+{
+  "uid" : "b19638314594b093",
+  "name" : "And I enter edinburgh name",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I enter edinburgh name",
+  "historyId" : "b9d62857c11c05eae285d1f655e33a57",
+  "time" : {
+    "start" : 1567376703855,
+    "stop" : 1567376712737,
+    "duration" : 8882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567376703857,
+        "stop" : 1567376703874,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e8283ae823396a79",
+        "name" : "Request",
+        "source" : "e8283ae823396a79.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "a746973c066e1996",
+        "name" : "Response",
+        "source" : "a746973c066e1996.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8211978290980562-1/clear",
+      "time" : {
+        "start" : 1567376703879,
+        "stop" : 1567376703911,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8211978290980562-1/clear",
+      "time" : {
+        "start" : 1567376703911,
+        "stop" : 1567376703926,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8211978290980562-1/value",
+      "time" : {
+        "start" : 1567376703930,
+        "stop" : 1567376704486,
+        "duration" : 556
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dc77d1fb2919d8f9",
+        "name" : "Request",
+        "source" : "dc77d1fb2919d8f9.json",
+        "type" : "application/json",
+        "size" : 100
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8211978290980562-1/clear",
+      "time" : {
+        "start" : 1567376708490,
+        "stop" : 1567376708523,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.8211978290980562-1/value",
+      "time" : {
+        "start" : 1567376708523,
+        "stop" : 1567376708735,
+        "duration" : 212
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "456bfead027bde35",
+        "name" : "Request",
+        "source" : "456bfead027bde35.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e678787c6136a09b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376621340,
+        "stop" : 1567376630194,
+        "duration" : 8854
+      }
+    }, {
+      "uid" : "11a747e5f8c12fbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567376443432,
+        "stop" : 1567376452309,
+        "duration" : 8877
+      }
+    }, {
+      "uid" : "d2150861dd15c604",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567375175976,
+        "stop" : 1567375184860,
+        "duration" : 8884
+      }
+    }, {
+      "uid" : "2b51804b9b105ce5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567329991550,
+        "stop" : 1567330000638,
+        "duration" : 9088
+      }
+    }, {
+      "uid" : "4c82c1763ac1c41d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567149011067,
+        "stop" : 1567149015899,
+        "duration" : 4832
+      }
+    }, {
+      "uid" : "b4aed7f03f2278d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567148936819,
+        "stop" : 1567148941648,
+        "duration" : 4829
+      }
+    }, {
+      "uid" : "e97fbb9ba684a4eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567115575472,
+        "stop" : 1567115584369,
+        "duration" : 8897
+      }
+    }, {
+      "uid" : "311576ccc6757aba",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115552234,
+        "stop" : 1567115552234,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b053ea0f32d0863e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567115480401,
+        "stop" : 1567115480402,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6e431fb6b94940a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113753531,
+        "stop" : 1567113762397,
+        "duration" : 8866
+      }
+    }, {
+      "uid" : "9f588ff2ab22f9a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113710950,
+        "stop" : 1567113719824,
+        "duration" : 8874
+      }
+    }, {
+      "uid" : "55cfad446e4e7841",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567113641505,
+        "stop" : 1567113650364,
+        "duration" : 8859
+      }
+    }, {
+      "uid" : "7ad8f0ba028039e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567112977289,
+        "stop" : 1567112986195,
+        "duration" : 8906
+      }
+    }, {
+      "uid" : "f587e08dfc68cf0b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567112915368,
+        "stop" : 1567112915368,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b19638314594b093.json",
+  "parameterValues" : [ "chrome" ]
+}

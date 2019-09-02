@@ -1,0 +1,244 @@
+{
+  "uid" : "230aee0e35ade924",
+  "name" : "Hook",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.Hook",
+  "historyId" : "c4d1284fbf0a41ed4d13971486036a51",
+  "time" : {
+    "start" : 1567443990908,
+    "stop" : 1567443990930,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+  "statusTrace" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+    "statusTrace" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1567443990909,
+        "stop" : 1567443990930,
+        "duration" : 21
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fc8502dd0157bc60",
+        "name" : "Request",
+        "source" : "fc8502dd0157bc60.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f94cbd942616938d",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443990883,
+        "stop" : 1567443990904,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "465a865d8a17cc0b",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443990857,
+        "stop" : 1567443990879,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "f01d091786f35635",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443990831,
+        "stop" : 1567443990852,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "2f3660e2efa2e4a7",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443990805,
+        "stop" : 1567443990826,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "a7b726b3cb70153",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443990778,
+        "stop" : 1567443990799,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "2174348fd7cda285",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734838,
+        "stop" : 1567443734860,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "ce891ca6d3749b99",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734812,
+        "stop" : 1567443734833,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "c94167d42727eeb9",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734786,
+        "stop" : 1567443734808,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "44c4528984d217fa",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734757,
+        "stop" : 1567443734781,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "1968e334167162c6",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734727,
+        "stop" : 1567443734752,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "e444c2c13ecae66c",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+      "time" : {
+        "start" : 1567443734702,
+        "stop" : 1567443734723,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "29b422fb62ede567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427353717,
+        "stop" : 1567427354010,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "bf201dcbebdfea9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427345139,
+        "stop" : 1567427345439,
+        "duration" : 300
+      }
+    }, {
+      "uid" : "659d3eda9088123c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427337034,
+        "stop" : 1567427337324,
+        "duration" : 290
+      }
+    }, {
+      "uid" : "dd531f2fc389b0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427328815,
+        "stop" : 1567427329126,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "c7f8332815babe18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427320483,
+        "stop" : 1567427320786,
+        "duration" : 303
+      }
+    }, {
+      "uid" : "78aa3c7dd3de9029",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427312221,
+        "stop" : 1567427312494,
+        "duration" : 273
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "230aee0e35ade924.json",
+  "parameterValues" : [ "chrome" ]
+}

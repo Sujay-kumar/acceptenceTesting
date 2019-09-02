@@ -1,0 +1,215 @@
+{
+  "uid" : "c981753175c239a4",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.And I click on a 5 to check hourly forecast",
+  "historyId" : "b2bdff20c499fcef6de787063a32ff38",
+  "time" : {
+    "start" : 1567445182221,
+    "stop" : 1567445185348,
+    "duration" : 3127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445182221,
+        "stop" : 1567445182235,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "62d9ece59cf681d1",
+        "name" : "Request",
+        "source" : "62d9ece59cf681d1.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "ad02f52d42244ac",
+        "name" : "Response",
+        "source" : "ad02f52d42244ac.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-6/click",
+      "time" : {
+        "start" : 1567445182236,
+        "stop" : 1567445182320,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445182320,
+        "stop" : 1567445182334,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "973e0647cef5afd7",
+        "name" : "Request",
+        "source" : "973e0647cef5afd7.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "72dbd9f0eaaf747e",
+        "name" : "Response",
+        "source" : "72dbd9f0eaaf747e.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.138715146868708-7/displayed",
+      "time" : {
+        "start" : 1567445182335,
+        "stop" : 1567445182347,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4aa80a6009be3af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444981211,
+        "stop" : 1567444984355,
+        "duration" : 3144
+      }
+    }, {
+      "uid" : "3433f49789aa5bbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444444080,
+        "stop" : 1567444447204,
+        "duration" : 3124
+      }
+    }, {
+      "uid" : "2b98a2fd53285fb7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991353,
+        "stop" : 1567443991353,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "80139734faf09309",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991250,
+        "stop" : 1567443991250,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "39c080788c7c230a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735314,
+        "stop" : 1567443735314,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1e26cf14e70bb513",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735217,
+        "stop" : 1567443735217,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b26c1b9c3c0f9034",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427498350,
+        "stop" : 1567427501502,
+        "duration" : 3152
+      }
+    }, {
+      "uid" : "165961cc15f54f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427465487,
+        "stop" : 1567427468611,
+        "duration" : 3124
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c981753175c239a4.json",
+  "parameterValues" : [ "chrome" ]
+}

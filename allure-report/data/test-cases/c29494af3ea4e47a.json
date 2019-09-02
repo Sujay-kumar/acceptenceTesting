@@ -1,0 +1,73 @@
+{
+  "uid" : "c29494af3ea4e47a",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.When I enter aberdeen name",
+  "historyId" : "66008df7f1f404d48300b53c6a9e9ff3",
+  "time" : {
+    "start" : 1567443990826,
+    "stop" : 1567443990827,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ddf4b369e5f1abe3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734752,
+        "stop" : 1567443734752,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ccf1aefecd4530de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427320786,
+        "stop" : 1567427325628,
+        "duration" : 4842
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c29494af3ea4e47a.json",
+  "parameterValues" : [ "chrome" ]
+}

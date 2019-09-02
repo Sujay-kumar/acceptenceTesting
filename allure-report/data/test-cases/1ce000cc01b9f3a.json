@@ -1,0 +1,254 @@
+{
+  "uid" : "1ce000cc01b9f3a",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.And I verify five days weather is displayed",
+  "historyId" : "9239a8bd47308d038dbcadfcef89a041",
+  "time" : {
+    "start" : 1567445182196,
+    "stop" : 1567445182221,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567445182197,
+        "stop" : 1567445182211,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b0297fe2b6780979",
+        "name" : "Request",
+        "source" : "b0297fe2b6780979.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "65e54f1b8e46509f",
+        "name" : "Response",
+        "source" : "65e54f1b8e46509f.json",
+        "type" : "application/json",
+        "size" : 232
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "18a7ba19ec01573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444981181,
+        "stop" : 1567444981211,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "7f4777a5b2d15965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444444053,
+        "stop" : 1567444444080,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "4ef9a7a9ddd7c59e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991377,
+        "stop" : 1567443991377,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "730255d31be64415",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991352,
+        "stop" : 1567443991353,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2250d716cadcb7b4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991329,
+        "stop" : 1567443991329,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "49e9d989c73e4f4f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991304,
+        "stop" : 1567443991304,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "752d7a9a97147021",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991274,
+        "stop" : 1567443991274,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "264186dd71ecff6d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991250,
+        "stop" : 1567443991250,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f36c73e7f024b30a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735338,
+        "stop" : 1567443735338,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "effb9b60a7471ac9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735314,
+        "stop" : 1567443735314,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c12b6e0431b6d7c0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735290,
+        "stop" : 1567443735290,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "694b3cb0720de10a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735266,
+        "stop" : 1567443735266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "52536a4ba5be8747",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735241,
+        "stop" : 1567443735241,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "21cbed82c736eebe",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735217,
+        "stop" : 1567443735217,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6c5dd3e57b8015c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427506528,
+        "stop" : 1567427506544,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "95d13d68a553b9f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427498332,
+        "stop" : 1567427498349,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "ce829e39bf07fc6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427490042,
+        "stop" : 1567427490060,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "be13d6e3966a0b45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427481888,
+        "stop" : 1567427481904,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "1f64b2d077f6d568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427473704,
+        "stop" : 1567427473720,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "21bf91eb11f36604",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427465470,
+        "stop" : 1567427465487,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ce000cc01b9f3a.json",
+  "parameterValues" : [ "chrome" ]
+}

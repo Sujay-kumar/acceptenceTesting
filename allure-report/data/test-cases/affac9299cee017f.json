@@ -1,0 +1,123 @@
+{
+  "uid" : "affac9299cee017f",
+  "name" : "And I display the current climate of selected 4",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I display the current climate of selected 4",
+  "historyId" : "960d98f1c7c905a76b6cf52be863e254",
+  "time" : {
+    "start" : 1567379619526,
+    "stop" : 1567379619550,
+    "duration" : 24
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379619526,
+        "stop" : 1567379619540,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c22dd0e7ebab10d7",
+        "name" : "Request",
+        "source" : "c22dd0e7ebab10d7.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "c42303082ac1eab3",
+        "name" : "Response",
+        "source" : "c42303082ac1eab3.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.4123257695458964-9/attribute/aria-label",
+      "time" : {
+        "start" : 1567379619542,
+        "stop" : 1567379619549,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c76f1408e81af7f9",
+        "name" : "Response",
+        "source" : "c76f1408e81af7f9.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display the current climate of selected 4"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2dd87f698dc85db0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379314879,
+        "stop" : 1567379314904,
+        "duration" : 25
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "affac9299cee017f.json",
+  "parameterValues" : [ "chrome" ]
+}

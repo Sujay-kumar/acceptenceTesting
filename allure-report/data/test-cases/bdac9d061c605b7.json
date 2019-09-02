@@ -1,0 +1,73 @@
+{
+  "uid" : "bdac9d061c605b7",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter stirling name",
+  "historyId" : "36a88dba8126e17973700d8bbfea50f5",
+  "time" : {
+    "start" : 1567443991352,
+    "stop" : 1567443991352,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2fdd636ae6106293",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735314,
+        "stop" : 1567443735314,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a60e21b3c83906af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427493554,
+        "stop" : 1567427498332,
+        "duration" : 4778
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdac9d061c605b7.json",
+  "parameterValues" : [ "chrome" ]
+}

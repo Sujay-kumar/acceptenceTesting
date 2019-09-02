@@ -1,0 +1,73 @@
+{
+  "uid" : "f7da6baad2d082bb",
+  "name" : "Then I display the aggregate rainfall of selected 3",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.Then I display the aggregate rainfall of selected 3",
+  "historyId" : "75bd9b005b053a6718890723afa89b61",
+  "time" : {
+    "start" : 1567443991151,
+    "stop" : 1567443991152,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the aggregate rainfall of selected 3"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c28c7be5806014a2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735100,
+        "stop" : 1567443735100,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7fc96fe3362cafcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427435727,
+        "stop" : 1567427435757,
+        "duration" : 30
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7da6baad2d082bb.json",
+  "parameterValues" : [ "chrome" ]
+}

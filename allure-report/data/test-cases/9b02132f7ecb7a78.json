@@ -1,0 +1,221 @@
+{
+  "uid" : "9b02132f7ecb7a78",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter edinburgh name",
+  "historyId" : "a3e4478aa99c2e2c08661ccee4c0922",
+  "time" : {
+    "start" : 1567445177336,
+    "stop" : 1567445182196,
+    "duration" : 4860
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445177338,
+        "stop" : 1567445177355,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "12cac3ce28c35921",
+        "name" : "Request",
+        "source" : "12cac3ce28c35921.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "3344899c04721813",
+        "name" : "Response",
+        "source" : "3344899c04721813.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-1/clear",
+      "time" : {
+        "start" : 1567445177359,
+        "stop" : 1567445177386,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-1/clear",
+      "time" : {
+        "start" : 1567445177386,
+        "stop" : 1567445177398,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-1/value",
+      "time" : {
+        "start" : 1567445177401,
+        "stop" : 1567445177972,
+        "duration" : 571
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "52ab6517d9f50288",
+        "name" : "Request",
+        "source" : "52ab6517d9f50288.json",
+        "type" : "application/json",
+        "size" : 100
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-1/clear",
+      "time" : {
+        "start" : 1567445181973,
+        "stop" : 1567445181990,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.138715146868708-1/value",
+      "time" : {
+        "start" : 1567445181990,
+        "stop" : 1567445182196,
+        "duration" : 206
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "57431b6dde969a2b",
+        "name" : "Request",
+        "source" : "57431b6dde969a2b.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa0ca25e6fd497ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444976325,
+        "stop" : 1567444981181,
+        "duration" : 4856
+      }
+    }, {
+      "uid" : "2b2a424f7d71f56f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444439081,
+        "stop" : 1567444444053,
+        "duration" : 4972
+      }
+    }, {
+      "uid" : "748d549237e03f03",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991250,
+        "stop" : 1567443991250,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fcd1890aa151a1a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735217,
+        "stop" : 1567443735217,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b7411142880f9d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427460584,
+        "stop" : 1567427465470,
+        "duration" : 4886
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b02132f7ecb7a78.json",
+  "parameterValues" : [ "chrome" ]
+}

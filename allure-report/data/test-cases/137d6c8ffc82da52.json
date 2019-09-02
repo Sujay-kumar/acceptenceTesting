@@ -1,0 +1,161 @@
+{
+  "uid" : "137d6c8ffc82da52",
+  "name" : "And I display min and max temperature of selected 5",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I display min and max temperature of selected 5",
+  "historyId" : "2f31a4b06f1b68fc70e54cd76aadd8ef",
+  "time" : {
+    "start" : 1567378195560,
+    "stop" : 1567378195618,
+    "duration" : 58
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567378195560,
+        "stop" : 1567378195572,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "677afebf98ebd114",
+        "name" : "Request",
+        "source" : "677afebf98ebd114.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "f2a2eb952c43c853",
+        "name" : "Response",
+        "source" : "f2a2eb952c43c853.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.2114339112619621-8/text",
+      "time" : {
+        "start" : 1567378195573,
+        "stop" : 1567378195584,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "319917cd33d8b5f4",
+        "name" : "Response",
+        "source" : "319917cd33d8b5f4.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567378195584,
+        "stop" : 1567378195599,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4ebaf0befb1f0f1d",
+        "name" : "Request",
+        "source" : "4ebaf0befb1f0f1d.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "1d4ba507cf1964f1",
+        "name" : "Response",
+        "source" : "1d4ba507cf1964f1.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.2114339112619621-10/text",
+      "time" : {
+        "start" : 1567378195600,
+        "stop" : 1567378195618,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bebc0f0d3096cd95",
+        "name" : "Response",
+        "source" : "bebc0f0d3096cd95.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display min and max temperature of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "137d6c8ffc82da52.json",
+  "parameterValues" : [ "chrome" ]
+}

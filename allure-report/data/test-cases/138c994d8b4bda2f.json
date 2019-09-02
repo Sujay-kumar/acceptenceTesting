@@ -1,0 +1,73 @@
+{
+  "uid" : "138c994d8b4bda2f",
+  "name" : "When I enter perth name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter perth name",
+  "historyId" : "c041cacf823a57d15d509f6f97e56f9a",
+  "time" : {
+    "start" : 1567443991329,
+    "stop" : 1567443991329,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter perth name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "695eb847766f33e0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735290,
+        "stop" : 1567443735290,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "63b8e4cd051e17b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427485397,
+        "stop" : 1567427490042,
+        "duration" : 4645
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "138c994d8b4bda2f.json",
+  "parameterValues" : [ "chrome" ]
+}

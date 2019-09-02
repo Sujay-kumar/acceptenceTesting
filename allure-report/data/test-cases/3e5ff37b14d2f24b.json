@@ -1,0 +1,155 @@
+{
+  "uid" : "3e5ff37b14d2f24b",
+  "name" : "And I click on a 1 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.And I click on a 1 to check hourly forecast",
+  "historyId" : "df6588ca60e6890e6ed38ae5adc28d23",
+  "time" : {
+    "start" : 1567427325646,
+    "stop" : 1567427328783,
+    "duration" : 3137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427325646,
+        "stop" : 1567427325660,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e048494d272ad0a3",
+        "name" : "Request",
+        "source" : "e048494d272ad0a3.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "d4c4eac912b9587",
+        "name" : "Response",
+        "source" : "d4c4eac912b9587.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.7443055037176889-2/click",
+      "time" : {
+        "start" : 1567427325661,
+        "stop" : 1567427325754,
+        "duration" : 93
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427325754,
+        "stop" : 1567427325765,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "be8b879a8328fdfd",
+        "name" : "Request",
+        "source" : "be8b879a8328fdfd.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "f151297f59eaddb5",
+        "name" : "Response",
+        "source" : "f151297f59eaddb5.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.7443055037176889-7/displayed",
+      "time" : {
+        "start" : 1567427325768,
+        "stop" : 1567427325782,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dd02c1eae85ecec8",
+        "name" : "Response",
+        "source" : "dd02c1eae85ecec8.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 1 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e5ff37b14d2f24b.json",
+  "parameterValues" : [ "chrome" ]
+}

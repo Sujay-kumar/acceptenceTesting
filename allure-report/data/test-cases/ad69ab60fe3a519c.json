@@ -1,0 +1,107 @@
+{
+  "uid" : "ad69ab60fe3a519c",
+  "name" : "Then I click on a 4 to hide the wethere forecast",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.Then I click on a 4 to hide the wethere forecast",
+  "historyId" : "cc742046d394cccb6affb3c53db3f627",
+  "time" : {
+    "start" : 1567427277597,
+    "stop" : 1567427283684,
+    "duration" : 6087
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427280598,
+        "stop" : 1567427280610,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "40b5f3aa80c67a2d",
+        "name" : "Request",
+        "source" : "40b5f3aa80c67a2d.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "96d8a8f86ccf315c",
+        "name" : "Response",
+        "source" : "96d8a8f86ccf315c.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.606248581424375-5/click",
+      "time" : {
+        "start" : 1567427280613,
+        "stop" : 1567427280679,
+        "duration" : 66
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 4 to hide the wethere forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad69ab60fe3a519c.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,73 @@
+{
+  "uid" : "abba22d40daae472",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter aberdeen name",
+  "historyId" : "dcac85f7aa520ee397d8c03e6a343fb2",
+  "time" : {
+    "start" : 1567443991274,
+    "stop" : 1567443991274,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "72eb8f97711e0be5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735241,
+        "stop" : 1567443735241,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5605fbf2af0f4d8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427468954,
+        "stop" : 1567427473704,
+        "duration" : 4750
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abba22d40daae472.json",
+  "parameterValues" : [ "chrome" ]
+}

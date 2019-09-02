@@ -1,0 +1,149 @@
+{
+  "uid" : "1eca95538b9dae59",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I click on a 5 to check hourly forecast",
+  "historyId" : "19dd56f95af3871d589f8b5300de20b1",
+  "time" : {
+    "start" : 1567379262343,
+    "stop" : 1567379262491,
+    "duration" : 148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379262343,
+        "stop" : 1567379262358,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b9c1031cd6545685",
+        "name" : "Request",
+        "source" : "b9c1031cd6545685.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "dff9651d7d7c9e6f",
+        "name" : "Response",
+        "source" : "dff9651d7d7c9e6f.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.953483938692689-6/click",
+      "time" : {
+        "start" : 1567379262361,
+        "stop" : 1567379262463,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379262463,
+        "stop" : 1567379262477,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e8b0942bf9cb3bfc",
+        "name" : "Request",
+        "source" : "e8b0942bf9cb3bfc.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "ddb588fa1d3d1834",
+        "name" : "Response",
+        "source" : "ddb588fa1d3d1834.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.953483938692689-7/displayed",
+      "time" : {
+        "start" : 1567379262478,
+        "stop" : 1567379262490,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1eca95538b9dae59.json",
+  "parameterValues" : [ "chrome" ]
+}

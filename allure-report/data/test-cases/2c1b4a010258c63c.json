@@ -1,0 +1,189 @@
+{
+  "uid" : "2c1b4a010258c63c",
+  "name" : "When I enter glasgow name",
+  "fullName" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast.When I enter glasgow name",
+  "historyId" : "ec46c03fe2268e1f29f6f54f99e3ee7b",
+  "time" : {
+    "start" : 1567427172755,
+    "stop" : 1567427177481,
+    "duration" : 4726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427172755,
+        "stop" : 1567427172766,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ba1c6b32a2ebcbb0",
+        "name" : "Request",
+        "source" : "ba1c6b32a2ebcbb0.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "830407b08d4d4bff",
+        "name" : "Response",
+        "source" : "830407b08d4d4bff.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.24284356180790811-1/clear",
+      "time" : {
+        "start" : 1567427172768,
+        "stop" : 1567427172792,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.24284356180790811-1/clear",
+      "time" : {
+        "start" : 1567427172792,
+        "stop" : 1567427172805,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.24284356180790811-1/value",
+      "time" : {
+        "start" : 1567427172805,
+        "stop" : 1567427173245,
+        "duration" : 440
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8fd35d5b832f6810",
+        "name" : "Request",
+        "source" : "8fd35d5b832f6810.json",
+        "type" : "application/json",
+        "size" : 82
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.24284356180790811-1/clear",
+      "time" : {
+        "start" : 1567427177251,
+        "stop" : 1567427177282,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.24284356180790811-1/value",
+      "time" : {
+        "start" : 1567427177282,
+        "stop" : 1567427177481,
+        "duration" : 199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "109a616391fbbee8",
+        "name" : "Request",
+        "source" : "109a616391fbbee8.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter glasgow name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Enter city name,to get 5 day weather forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d2284e2a52975e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427044138,
+        "stop" : 1567427048894,
+        "duration" : 4756
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c1b4a010258c63c.json",
+  "parameterValues" : [ "chrome" ]
+}

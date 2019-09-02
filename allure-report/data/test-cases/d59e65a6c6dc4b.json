@@ -1,0 +1,81 @@
+{
+  "uid" : "d59e65a6c6dc4b",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.When I enter dundee name",
+  "historyId" : "1a24a526d519ddf28ca78587ff124eec",
+  "time" : {
+    "start" : 1567443990526,
+    "stop" : 1567443990526,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "59d973c00771ebe0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734449,
+        "stop" : 1567443734449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b001638212f0c6f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427194309,
+        "stop" : 1567427198997,
+        "duration" : 4688
+      }
+    }, {
+      "uid" : "6e8a600dd654fb2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427059750,
+        "stop" : 1567427064477,
+        "duration" : 4727
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d59e65a6c6dc4b.json",
+  "parameterValues" : [ "chrome" ]
+}

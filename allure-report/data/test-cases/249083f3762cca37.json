@@ -1,0 +1,73 @@
+{
+  "uid" : "249083f3762cca37",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter stirling name",
+  "historyId" : "28edb47a6d4d232339e73e6a5f15a579",
+  "time" : {
+    "start" : 1567443990745,
+    "stop" : 1567443990745,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c737972f62e25fe",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734669,
+        "stop" : 1567443734669,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "61c7ce77960b8507",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427283989,
+        "stop" : 1567427288770,
+        "duration" : 4781
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "249083f3762cca37.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,155 @@
+{
+  "uid" : "ee34525680dbdb31",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I click on a 5 to hide the wethere forecast",
+  "historyId" : "85e5bb7b030b0473a5ad1950d135698f",
+  "time" : {
+    "start" : 1567375185030,
+    "stop" : 1567375191152,
+    "duration" : 6122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567375188036,
+        "stop" : 1567375188050,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "67e21d46fe42874d",
+        "name" : "Request",
+        "source" : "67e21d46fe42874d.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "1b0e5b80e204ec48",
+        "name" : "Response",
+        "source" : "1b0e5b80e204ec48.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.7832897106679604-6/click",
+      "time" : {
+        "start" : 1567375188051,
+        "stop" : 1567375188112,
+        "duration" : 61
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567375191116,
+        "stop" : 1567375191133,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ca8337f13392aa91",
+        "name" : "Request",
+        "source" : "ca8337f13392aa91.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "4c14b413c34173a5",
+        "name" : "Response",
+        "source" : "4c14b413c34173a5.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.7832897106679604-8/text",
+      "time" : {
+        "start" : 1567375191136,
+        "stop" : 1567375191152,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e61ec203f686457a",
+        "name" : "Response",
+        "source" : "e61ec203f686457a.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to hide the wethere forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee34525680dbdb31.json",
+  "parameterValues" : [ "chrome" ]
+}

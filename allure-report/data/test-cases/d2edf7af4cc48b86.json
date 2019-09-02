@@ -1,0 +1,55 @@
+{
+  "uid" : "d2edf7af4cc48b86",
+  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "To test the weather forecast application.: Error scenarios.Then I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "1869aa29f23720c1e3396a42748aad32",
+  "time" : {
+    "start" : 1567443735367,
+    "stop" : 1567443735367,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2edf7af4cc48b86.json",
+  "parameterValues" : [ "chrome" ]
+}

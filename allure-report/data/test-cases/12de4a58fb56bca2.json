@@ -1,0 +1,55 @@
+{
+  "uid" : "12de4a58fb56bca2",
+  "name" : "Then I display min and max temperature of selected 1",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.Then I display min and max temperature of selected 1",
+  "historyId" : "90cbdd2a3e335c91ce1f4615858f4523",
+  "time" : {
+    "start" : 1567443735242,
+    "stop" : 1567443735242,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display min and max temperature of selected 1"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12de4a58fb56bca2.json",
+  "parameterValues" : [ "chrome" ]
+}

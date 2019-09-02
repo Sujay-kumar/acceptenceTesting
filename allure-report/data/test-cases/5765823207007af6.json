@@ -1,0 +1,167 @@
+{
+  "uid" : "5765823207007af6",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same..And I click on a 3 to check hourly forecast",
+  "historyId" : "68d07dfd65b9433fe41b756052b1904e",
+  "time" : {
+    "start" : 1567410952575,
+    "stop" : 1567410957784,
+    "duration" : 5209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567410952576,
+        "stop" : 1567410952601,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "409d4a4076722815",
+        "name" : "Request",
+        "source" : "409d4a4076722815.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "3f3a137278406b47",
+        "name" : "Response",
+        "source" : "3f3a137278406b47.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-4/click",
+      "time" : {
+        "start" : 1567410952604,
+        "stop" : 1567410957757,
+        "duration" : 5153
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567410957757,
+        "stop" : 1567410957767,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3068dfe23c106b6b",
+        "name" : "Request",
+        "source" : "3068dfe23c106b6b.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "a0581ee5386f2fde",
+        "name" : "Response",
+        "source" : "a0581ee5386f2fde.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.28340577645788656-7/displayed",
+      "time" : {
+        "start" : 1567410957770,
+        "stop" : 1567410957784,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "39f2cf139153928d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410705025,
+        "stop" : 1567410705164,
+        "duration" : 139
+      }
+    }, {
+      "uid" : "4825b146bf078d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380338927,
+        "stop" : 1567380339065,
+        "duration" : 138
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5765823207007af6.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,230 @@
+{
+  "uid" : "fd7b3459b07903d9",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same..And I verify five days weather is displayed",
+  "historyId" : "65c2c85a3f9c9feec1ca292ff9916ed0",
+  "time" : {
+    "start" : 1567411010914,
+    "stop" : 1567411010932,
+    "duration" : 18
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567411010914,
+        "stop" : 1567411010926,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a6930b5a6e856827",
+        "name" : "Request",
+        "source" : "a6930b5a6e856827.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "292ea025d87ba48f",
+        "name" : "Response",
+        "source" : "292ea025d87ba48f.json",
+        "type" : "application/json",
+        "size" : 232
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a44139f07f567ebf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410990969,
+        "stop" : 1567410990988,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "c60a69a91525ab78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410970993,
+        "stop" : 1567410971012,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "12cf1831013e1d12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410952545,
+        "stop" : 1567410952575,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "20573474ffafacde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410944071,
+        "stop" : 1567410944091,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "52c733469ddcad94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410935639,
+        "stop" : 1567410935665,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "760484b325fb1bce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410751231,
+        "stop" : 1567410751253,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "29ac4f899e97c8a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410735836,
+        "stop" : 1567410735856,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "75fcb80d61f9f518",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410720340,
+        "stop" : 1567410720358,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "10c86dfe104ef484",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410705003,
+        "stop" : 1567410705025,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "c19ef4dcbbdf0aeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410689648,
+        "stop" : 1567410689669,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "2db2628629a03023",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410674155,
+        "stop" : 1567410674190,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "9265edbafe52db7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380384992,
+        "stop" : 1567380385015,
+        "duration" : 23
+      }
+    }, {
+      "uid" : "f27a0e1b8eb8e283",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380369675,
+        "stop" : 1567380369694,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "2c173e44a0621c1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380354233,
+        "stop" : 1567380354254,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "d10846fc09d9896f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380338903,
+        "stop" : 1567380338927,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "fa0f28d258d1f4df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380323509,
+        "stop" : 1567380323529,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "21928edd7158e22e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380308034,
+        "stop" : 1567380308064,
+        "duration" : 30
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd7b3459b07903d9.json",
+  "parameterValues" : [ "chrome" ]
+}

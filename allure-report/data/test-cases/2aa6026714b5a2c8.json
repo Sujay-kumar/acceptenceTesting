@@ -1,0 +1,73 @@
+{
+  "uid" : "2aa6026714b5a2c8",
+  "name" : "And I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.And I click on a 3 to check hourly forecast",
+  "historyId" : "9a1f310a308baecde9c675bfac9cf9fe",
+  "time" : {
+    "start" : 1567443991004,
+    "stop" : 1567443991004,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "181ff0beb596eec7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734937,
+        "stop" : 1567443734937,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bdff125c6a01fab1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427383410,
+        "stop" : 1567427386547,
+        "duration" : 3137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2aa6026714b5a2c8.json",
+  "parameterValues" : [ "chrome" ]
+}

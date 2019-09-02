@@ -1,0 +1,73 @@
+{
+  "uid" : "d17f3614fce0e49e",
+  "name" : "When I enter stirling name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.When I enter stirling name",
+  "historyId" : "d6d6550ec9622df2a1afc16e865088e2",
+  "time" : {
+    "start" : 1567443991201,
+    "stop" : 1567443991202,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter stirling name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30e3209d8ab29a80",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735163,
+        "stop" : 1567443735163,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f578749571aaa696",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427444189,
+        "stop" : 1567427448948,
+        "duration" : 4759
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d17f3614fce0e49e.json",
+  "parameterValues" : [ "chrome" ]
+}

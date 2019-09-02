@@ -1,0 +1,73 @@
+{
+  "uid" : "b5eeaa8fa8d97b0d",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.When I enter dundee name",
+  "historyId" : "5bb736dd3cffbc1cfce852f2724cd8b",
+  "time" : {
+    "start" : 1567443991304,
+    "stop" : 1567443991304,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "11c5756c54eb6c52",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735266,
+        "stop" : 1567443735266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "38856883227f2fd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427477209,
+        "stop" : 1567427481888,
+        "duration" : 4679
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5eeaa8fa8d97b0d.json",
+  "parameterValues" : [ "chrome" ]
+}

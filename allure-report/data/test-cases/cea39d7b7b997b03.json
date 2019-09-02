@@ -1,0 +1,73 @@
+{
+  "uid" : "cea39d7b7b997b03",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter dundee name",
+  "historyId" : "8c480c1b2300edbf473e7a895fe03e60",
+  "time" : {
+    "start" : 1567443990687,
+    "stop" : 1567443990687,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "973087176014aae9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734612,
+        "stop" : 1567443734612,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d43152e26a89a208",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427255574,
+        "stop" : 1567427260239,
+        "duration" : 4665
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cea39d7b7b997b03.json",
+  "parameterValues" : [ "chrome" ]
+}

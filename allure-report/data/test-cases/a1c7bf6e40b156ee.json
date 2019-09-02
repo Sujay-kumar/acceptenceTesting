@@ -1,0 +1,73 @@
+{
+  "uid" : "a1c7bf6e40b156ee",
+  "name" : "And I click on a 2 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.And I click on a 2 to check hourly forecast",
+  "historyId" : "bf842a9767883f62cf4849a2bf889c16",
+  "time" : {
+    "start" : 1567443990930,
+    "stop" : 1567443990930,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 2 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df1b7c15851b64e9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734861,
+        "stop" : 1567443734861,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4835905dd4893af6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427358741,
+        "stop" : 1567427361866,
+        "duration" : 3125
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1c7bf6e40b156ee.json",
+  "parameterValues" : [ "chrome" ]
+}

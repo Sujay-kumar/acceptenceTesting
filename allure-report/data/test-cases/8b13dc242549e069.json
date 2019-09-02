@@ -1,0 +1,91 @@
+{
+  "uid" : "8b13dc242549e069",
+  "name" : "Hook",
+  "fullName" : "To test the weather forecast application.: Error scenarios.Hook",
+  "historyId" : "e452e59a2ac6bf64e67628dd2f5728ea",
+  "time" : {
+    "start" : 1567443735341,
+    "stop" : 1567443735366,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+  "statusTrace" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)",
+    "statusTrace" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1567443735341,
+        "stop" : 1567443735366,
+        "duration" : 25
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: no such window: window was already closed\n                  (Session info: chrome=76.0.3809.132)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64)\n                    at endReadableNT (_stream_readable.js:1094:12)\n                    at World.<anonymous> (/Users/sujaykumardb/Desktop/acceptance-testing/src/features/step_definitions/action.steps.js:8:13)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ebe3129d8a20f221",
+        "name" : "Request",
+        "source" : "ebe3129d8a20f221.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b13dc242549e069.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,81 @@
+{
+  "uid" : "adaa2dc57cb93578",
+  "name" : "Then I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 3 to check hourly forecast",
+  "historyId" : "32fedcd9af6a55ca5da7e43a4aa0dd1",
+  "time" : {
+    "start" : 1567443990526,
+    "stop" : 1567443990526,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31e8c19666c77ab6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734449,
+        "stop" : 1567443734449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dc92cb5a5162556",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427199016,
+        "stop" : 1567427202162,
+        "duration" : 3146
+      }
+    }, {
+      "uid" : "d40a88cc1b73524b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427064494,
+        "stop" : 1567427064633,
+        "duration" : 139
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adaa2dc57cb93578.json",
+  "parameterValues" : [ "chrome" ]
+}

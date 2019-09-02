@@ -1,0 +1,73 @@
+{
+  "uid" : "3457230f7aa695f6",
+  "name" : "When I enter edinburgh name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter edinburgh name",
+  "historyId" : "5b60bd18990ce56efe9f1aad060249d2",
+  "time" : {
+    "start" : 1567443990634,
+    "stop" : 1567443990634,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter edinburgh name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "719d587d7d209fec",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734556,
+        "stop" : 1567443734556,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8e444c5b748802f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427226976,
+        "stop" : 1567427231784,
+        "duration" : 4808
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3457230f7aa695f6.json",
+  "parameterValues" : [ "chrome" ]
+}

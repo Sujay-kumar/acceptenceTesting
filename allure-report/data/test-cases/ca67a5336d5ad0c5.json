@@ -1,0 +1,73 @@
+{
+  "uid" : "ca67a5336d5ad0c5",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Display Aggregate rainfall of specific day.When I enter dundee name",
+  "historyId" : "5893c11c3610ec1d23fefea77f7390f9",
+  "time" : {
+    "start" : 1567443991151,
+    "stop" : 1567443991151,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Aggregate rainfall of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "542dca9c34b2d52d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735099,
+        "stop" : 1567443735100,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d91ef27bd558684",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427427898,
+        "stop" : 1567427432575,
+        "duration" : 4677
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca67a5336d5ad0c5.json",
+  "parameterValues" : [ "chrome" ]
+}

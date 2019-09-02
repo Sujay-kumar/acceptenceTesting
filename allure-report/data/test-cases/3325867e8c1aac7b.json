@@ -1,0 +1,227 @@
+{
+  "uid" : "3325867e8c1aac7b",
+  "name" : "Then I display min and max temperature of selected 5",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.Then I display min and max temperature of selected 5",
+  "historyId" : "183ce7514a50dd23ebdb6155a6fdd74b",
+  "time" : {
+    "start" : 1567445185348,
+    "stop" : 1567445185418,
+    "duration" : 70
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445185349,
+        "stop" : 1567445185367,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "52f6e876e6b649ed",
+        "name" : "Request",
+        "source" : "52f6e876e6b649ed.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "4964db3752bd3415",
+        "name" : "Response",
+        "source" : "4964db3752bd3415.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.138715146868708-8/text",
+      "time" : {
+        "start" : 1567445185368,
+        "stop" : 1567445185385,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9644d75e069969b9",
+        "name" : "Response",
+        "source" : "9644d75e069969b9.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567445185385,
+        "stop" : 1567445185400,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4a95b015c29ccb60",
+        "name" : "Request",
+        "source" : "4a95b015c29ccb60.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "7c2895ff1ec913b8",
+        "name" : "Response",
+        "source" : "7c2895ff1ec913b8.json",
+        "type" : "application/json",
+        "size" : 38
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.138715146868708-9/text",
+      "time" : {
+        "start" : 1567445185402,
+        "stop" : 1567445185418,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "612501b3265b6449",
+        "name" : "Response",
+        "source" : "612501b3265b6449.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display min and max temperature of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e409e6a8348b24db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444984355,
+        "stop" : 1567444984423,
+        "duration" : 68
+      }
+    }, {
+      "uid" : "e55cfbd08128af0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567444447204,
+        "stop" : 1567444447269,
+        "duration" : 65
+      }
+    }, {
+      "uid" : "471661effe903485",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991353,
+        "stop" : 1567443991353,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "719d15ec76f02219",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443991251,
+        "stop" : 1567443991251,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dda7fd0974314937",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735314,
+        "stop" : 1567443735314,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34a0293ea43f3ee9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735217,
+        "stop" : 1567443735217,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "487d637d99686d2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427501502,
+        "stop" : 1567427501562,
+        "duration" : 60
+      }
+    }, {
+      "uid" : "8020d0b190f83c54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427468612,
+        "stop" : 1567427468672,
+        "duration" : 60
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3325867e8c1aac7b.json",
+  "parameterValues" : [ "chrome" ]
+}

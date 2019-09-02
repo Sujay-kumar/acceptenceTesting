@@ -1,0 +1,97 @@
+{
+  "uid" : "b2045a9e7d13c339",
+  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "To test the weather forecast application.: Error scenarios.Then I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "1869aa29f23720c1e3396a42748aad32",
+  "time" : {
+    "start" : 1567443991403,
+    "stop" : 1567443991403,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2edf7af4cc48b86",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443735367,
+        "stop" : 1567443735367,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8bdcb934cf458b21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427514826,
+        "stop" : 1567427514852,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "fde89754f70249ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567411031461,
+        "stop" : 1567411031488,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "a9e4f773e49315b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410766633,
+        "stop" : 1567410766664,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "24bc60fae43d53d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380400399,
+        "stop" : 1567380400428,
+        "duration" : 29
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2045a9e7d13c339.json",
+  "parameterValues" : [ "chrome" ]
+}

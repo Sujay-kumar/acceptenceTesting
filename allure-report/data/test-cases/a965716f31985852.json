@@ -1,0 +1,73 @@
+{
+  "uid" : "a965716f31985852",
+  "name" : "When I enter aberdeen name",
+  "fullName" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast.When I enter aberdeen name",
+  "historyId" : "f948498d228847255452235229757355",
+  "time" : {
+    "start" : 1567443990660,
+    "stop" : 1567443990660,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter aberdeen name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day again to hide 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c1a8959c4f968e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734584,
+        "stop" : 1567443734584,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "57fc448c53b2436b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427241286,
+        "stop" : 1567427246048,
+        "duration" : 4762
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a965716f31985852.json",
+  "parameterValues" : [ "chrome" ]
+}

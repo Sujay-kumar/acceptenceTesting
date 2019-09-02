@@ -1,0 +1,73 @@
+{
+  "uid" : "4edd3e43e86e9562",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day.When I enter dundee name",
+  "historyId" : "56fb0fc1cbfcb83ca077b3c491f985fa",
+  "time" : {
+    "start" : 1567443990852,
+    "stop" : 1567443990853,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) condition of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6e8743cee2968e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567443734781,
+        "stop" : 1567443734781,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "84f866be823857de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427329126,
+        "stop" : 1567427333848,
+        "duration" : 4722
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4edd3e43e86e9562.json",
+  "parameterValues" : [ "chrome" ]
+}

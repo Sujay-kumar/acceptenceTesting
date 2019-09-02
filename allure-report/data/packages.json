@@ -5,7 +5,7 @@
     "name" : "Test the page title: Error scenarios",
     "children" : [ {
       "name" : "And I get value",
-      "uid" : "74fd78449556ced1",
+      "uid" : "ac97345e831c2afa",
       "parentUid" : "d836edefa4cb9c99680153ad7da0d1ce",
       "status" : "passed",
       "time" : {
@@ -17,7 +17,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Given I open the site \"/\"",
-      "uid" : "98b4db3947697bd2",
+      "uid" : "2e1c4eb9f206e0f9",
       "parentUid" : "d836edefa4cb9c99680153ad7da0d1ce",
       "status" : "passed",
       "time" : {
@@ -29,7 +29,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "77cfa8edc6e6d5d2",
+      "uid" : "1135389ef0fa1e81",
       "parentUid" : "d836edefa4cb9c99680153ad7da0d1ce",
       "status" : "passed",
       "time" : {
@@ -41,7 +41,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I enter invalidcity name",
-      "uid" : "84c5a2caf6d5ff18",
+      "uid" : "7cdf83f8fc096f7a",
       "parentUid" : "d836edefa4cb9c99680153ad7da0d1ce",
       "status" : "passed",
       "time" : {
@@ -53,7 +53,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I verify blank value for city display error Error retrieving the forecast",
-      "uid" : "4693f53c03a46e50",
+      "uid" : "73086afda5225c9a",
       "parentUid" : "d836edefa4cb9c99680153ad7da0d1ce",
       "status" : "passed",
       "time" : {
@@ -69,7 +69,7 @@
     "name" : "Test the page title: Check weather forecast for specific city",
     "children" : [ {
       "name" : "Given I open the site \"/\"",
-      "uid" : "20e04393c42dd5a0",
+      "uid" : "62c7c74d4ba2f791",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -81,7 +81,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "7ddf171c9d567bd7",
+      "uid" : "cbafffcd577f6e4d",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -93,7 +93,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I enter edinburgh name",
-      "uid" : "1d4bd7700b3dee4e",
+      "uid" : "b19638314594b093",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -105,7 +105,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I verify five days weather is displayed",
-      "uid" : "cbaf0597e1696260",
+      "uid" : "ee991ea88ca35c3a",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -117,7 +117,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I click on a 5 to check hourly forecast",
-      "uid" : "495e765bdc28fa81",
+      "uid" : "20bca80b5141345a",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -129,7 +129,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I click on a 5 to hide the wethere forecast",
-      "uid" : "7b2437c18d3d19cf",
+      "uid" : "3865a4d720c376ee",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -141,7 +141,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I display min and max temperature of selected 5",
-      "uid" : "54c65363c9c38b4b",
+      "uid" : "77e4aec9a2f8e558",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -153,7 +153,7 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "And I display dominant wind speed of selected 5",
-      "uid" : "689244ecabbf3267",
+      "uid" : "c130317b57347e92",
       "parentUid" : "ccc6bd4d5c9684c13749da32edf59a81",
       "status" : "passed",
       "time" : {
@@ -171,7 +171,7 @@
       "name" : ": Check weather forecast for specific city",
       "children" : [ {
         "name" : "And I enter edinburgh name",
-        "uid" : "303d3945079e30de",
+        "uid" : "873c00a7f9337edf",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -183,7 +183,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I enter aberdeen name",
-        "uid" : "3027008120808021",
+        "uid" : "2bcb6d720fef1d60",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -195,7 +195,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the aggregate rainfall of selected 1",
-        "uid" : "5792ce61b1da3494",
+        "uid" : "1ee5cf413e37e28a",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -207,7 +207,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I enter dundee name",
-        "uid" : "aa5b997ff1f352fa",
+        "uid" : "f214b955c376b918",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -219,7 +219,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the aggregate rainfall of selected 3",
-        "uid" : "b28051493ff0bff0",
+        "uid" : "a2a9f0bafd6749b6",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -231,7 +231,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I enter perth name",
-        "uid" : "221226342e152aac",
+        "uid" : "5a923c91f0f02b96",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -243,7 +243,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the aggregate rainfall of selected 4",
-        "uid" : "f3126d8dfbda5443",
+        "uid" : "30dc22ce091d61f1",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -255,7 +255,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I enter stirling name",
-        "uid" : "4148e2104aaeb53e",
+        "uid" : "e1abec4fcb0b0d71",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -267,7 +267,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the aggregate rainfall of selected 5",
-        "uid" : "3ea455c113c83ba7",
+        "uid" : "e47346f5bcec177d",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -279,7 +279,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I enter glasgow name",
-        "uid" : "644078c1a1c8c7f2",
+        "uid" : "993e9a2c1b86ef3",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -291,7 +291,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the aggregate rainfall of selected 2",
-        "uid" : "2fe412cfe9f1cc88",
+        "uid" : "b005c6c4aeb68758",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -303,7 +303,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter edinburgh name",
-        "uid" : "57fcb9c18d998d4c",
+        "uid" : "589d5a94f8fceadf",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -315,7 +315,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "147818718a9c9fd1",
+        "uid" : "e65050041fe2da3f",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -327,7 +327,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "c653746461e711ce",
+        "uid" : "9692f393dc7bd2c3",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -339,7 +339,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to hide the wethere forecast",
-        "uid" : "e906586eb7d71a17",
+        "uid" : "8b45295b12005e63",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -351,7 +351,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 1",
-        "uid" : "8cc8c750997c76ce",
+        "uid" : "a276709a868f1cdc",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -363,7 +363,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 1",
-        "uid" : "18a96adc9fe55649",
+        "uid" : "af948b1ec5165d3b",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -375,7 +375,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 1",
-        "uid" : "8bd3cd4253f4183d",
+        "uid" : "d5dc14150e685b",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -387,7 +387,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 1",
-        "uid" : "ca3e34f45b40938e",
+        "uid" : "514a0eb74834c77d",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -399,7 +399,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter dundee name",
-        "uid" : "291aacab2f81638f",
+        "uid" : "e794f4ab8dc9f8e8",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -411,7 +411,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "180f032f256fb885",
+        "uid" : "8367ad203ffdb70e",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -423,7 +423,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to hide the wethere forecast",
-        "uid" : "5f886513b936bfe2",
+        "uid" : "ec6841964a560bb1",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -435,7 +435,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 3",
-        "uid" : "c366b97d0f24260f",
+        "uid" : "21b7f12fff6785b7",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -447,7 +447,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 3",
-        "uid" : "1c81be84dc67f090",
+        "uid" : "d99df6dec8bbacdc",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -459,7 +459,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 3",
-        "uid" : "b4422ca84fd8099e",
+        "uid" : "4c78d252faa08b89",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -471,7 +471,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 3",
-        "uid" : "7b413828d4565438",
+        "uid" : "5a2c9b12685c20ef",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -483,7 +483,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "a205aa41cc02de8e",
+        "uid" : "2b5a7a6d6183218e",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -495,7 +495,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "d7864f367d230e69",
+        "uid" : "2decad69d610a8b8",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -507,7 +507,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to hide the wethere forecast",
-        "uid" : "e5e38bcfa19bbb19",
+        "uid" : "dc0010c0cc896752",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -519,7 +519,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 4",
-        "uid" : "e2307a93b495e12a",
+        "uid" : "affac9299cee017f",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -531,7 +531,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 4",
-        "uid" : "9f4d1709de4b21eb",
+        "uid" : "d76579286e289ea1",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -543,7 +543,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 4",
-        "uid" : "e236082a1eceb0d2",
+        "uid" : "dc44b4d35dad152b",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -555,7 +555,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 4",
-        "uid" : "b438e4966b652033",
+        "uid" : "db78de04eb6ab0b1",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -567,7 +567,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "1ada1d70a309141e",
+        "uid" : "71b08243ff0a5b4d",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -579,7 +579,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "5be515c9147c0c57",
+        "uid" : "f56d65a38c0a4477",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -591,7 +591,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to hide the wethere forecast",
-        "uid" : "cf6eea72bb28fc5e",
+        "uid" : "7625c6df89ffa1ca",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -603,7 +603,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 5",
-        "uid" : "32c1fc5fac8afba9",
+        "uid" : "f013d0858f0f5f0b",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -615,7 +615,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 5",
-        "uid" : "c992fdbccbe09d22",
+        "uid" : "39783f5c137b1183",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -627,7 +627,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 5",
-        "uid" : "8cc0fb092cc0ef6f",
+        "uid" : "638255d7c1c83e80",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -639,7 +639,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 5",
-        "uid" : "d9e0e9026690a0e4",
+        "uid" : "9a1d398f2977f7fb",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -651,7 +651,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "33dffce92242d6c1",
+        "uid" : "b1f4a7b82e8ca234",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -663,7 +663,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "c6476698c3ce4cb3",
+        "uid" : "777159163a0e1b44",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -675,7 +675,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter glasgow name",
-        "uid" : "21725e5ed55ce9c6",
+        "uid" : "49539b105f40f300",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -687,7 +687,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "ad7e542ef01a659a",
+        "uid" : "c85dd0c943cd4e80",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -699,7 +699,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "d76318e52f74f998",
+        "uid" : "59f27c2ac145f524",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -711,7 +711,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to hide the wethere forecast",
-        "uid" : "f2d7c5b26a9b8ad5",
+        "uid" : "684a138652c4db50",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -723,7 +723,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 2",
-        "uid" : "797e09f549d5e922",
+        "uid" : "d25ac2df007a82a8",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -735,7 +735,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 2",
-        "uid" : "befb717d5cae1c65",
+        "uid" : "8cb0e2dde1c1d590",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -747,7 +747,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 2",
-        "uid" : "bcf7d47626e0b029",
+        "uid" : "d19d8b5f0ac91244",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -759,7 +759,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 2",
-        "uid" : "1f9ef89a29ea2727",
+        "uid" : "353ac67a089a40c1",
         "parentUid" : "7f1ec7c3fe59d1ae753dbee0bf19aff8",
         "status" : "passed",
         "time" : {
@@ -775,7 +775,7 @@
       "name" : ": Error scenarios",
       "children" : [ {
         "name" : "And I enter invalidcity name",
-        "uid" : "34d823db523b2567",
+        "uid" : "e882702d1d5f3da5",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -787,7 +787,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify blank value for city display error Error retrieving the forecast",
-        "uid" : "63cd3e4d7ecd022",
+        "uid" : "e94f52081af80b85",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -799,7 +799,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "c86f38bd096b449e",
+        "uid" : "b0ecf92552f0c715",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -811,7 +811,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "249cf3a956c80893",
+        "uid" : "c3a52cb564df3b41",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -823,7 +823,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter invalidcity name",
-        "uid" : "52c5013d5aab8737",
+        "uid" : "41af89c33b0276fa",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -835,7 +835,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I verify blank value for city display error Error retrieving the forecast",
-        "uid" : "387482b4f0aee641",
+        "uid" : "894c3351d8224ce5",
         "parentUid" : "11259589236721df038d50162922ae59",
         "status" : "passed",
         "time" : {
@@ -855,7 +855,7 @@
       "name" : ": Check weather forecast for specific city and summarize the same",
       "children" : [ {
         "name" : "When I enter edinburgh name",
-        "uid" : "38764888742a6157",
+        "uid" : "ae3b8fc1bc7a5702",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -867,7 +867,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "557c8af602d4f0c4",
+        "uid" : "f03c9faf79a4fdb1",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -879,7 +879,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "9bce150bf7b630ca",
+        "uid" : "679c34567955bb80",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -891,7 +891,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to hide the wethere forecast",
-        "uid" : "2022d806a06a2fca",
+        "uid" : "42ec6910f803055c",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -903,7 +903,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 1",
-        "uid" : "be531295d51abf62",
+        "uid" : "8c155eaebfbf9ae4",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -915,7 +915,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 1",
-        "uid" : "c87f66337caad8df",
+        "uid" : "f4addf8193870ff6",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -927,7 +927,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 1",
-        "uid" : "ec3eb3af686665db",
+        "uid" : "badde2154c0b188d",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -939,7 +939,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 1",
-        "uid" : "92e065ac1a428e6c",
+        "uid" : "e9f1f0eb25867d86",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -951,7 +951,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter dundee name",
-        "uid" : "bb4a8f1beb280482",
+        "uid" : "5ffc6164fe82ff35",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -963,7 +963,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "80a2b8a959ef9fe3",
+        "uid" : "5765823207007af6",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -975,7 +975,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to hide the wethere forecast",
-        "uid" : "79dd1e94b1597f0c",
+        "uid" : "510abfb9ed103f71",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -987,7 +987,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 3",
-        "uid" : "a99591b1feba48c7",
+        "uid" : "740d0d733fc55d64",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -999,7 +999,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 3",
-        "uid" : "80a6f7d4a0caf420",
+        "uid" : "a8bcf00fe2ca30fb",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1011,7 +1011,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 3",
-        "uid" : "85a78dd89f276913",
+        "uid" : "b9cfa416d6bdd76f",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1023,7 +1023,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 3",
-        "uid" : "ed1fc62655d6003e",
+        "uid" : "39fa21e3eb8bb0a8",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1035,7 +1035,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "d666b878f9f392a6",
+        "uid" : "e7072184979cc61b",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1047,7 +1047,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "5da57531b901c288",
+        "uid" : "d607fb2dee2b59e6",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1059,7 +1059,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to hide the wethere forecast",
-        "uid" : "64979865ede5afa1",
+        "uid" : "6223d81ac9499d2b",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1071,7 +1071,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 4",
-        "uid" : "fc6440b7f7cb4910",
+        "uid" : "cf01d1f10f8edf0b",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1083,7 +1083,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 4",
-        "uid" : "f283b4197c28e6c1",
+        "uid" : "4396ea8e2a10aab0",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1095,7 +1095,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 4",
-        "uid" : "a21032ea8d1cf7df",
+        "uid" : "fafd552db9812ca",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1107,7 +1107,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 4",
-        "uid" : "d18920dacfe247ee",
+        "uid" : "47f4462f2d8d4176",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1119,7 +1119,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "6122b67dbb7eaae3",
+        "uid" : "837b6c09c2d5c981",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1131,7 +1131,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "a8b8b2cb640b7a5a",
+        "uid" : "b39a4ed25671e88",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1143,7 +1143,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to hide the wethere forecast",
-        "uid" : "2d6568a67d0340bd",
+        "uid" : "526934b0935a18fb",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1155,7 +1155,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 5",
-        "uid" : "44cc58c6fe69a6ab",
+        "uid" : "4b29f8a96f612211",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1167,7 +1167,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 5",
-        "uid" : "2f308bc9bc955adb",
+        "uid" : "7f7cc6d7c6867898",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1179,7 +1179,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 5",
-        "uid" : "5abd7adc3aea8373",
+        "uid" : "e4d2126b3ba74ae9",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1191,7 +1191,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 5",
-        "uid" : "4c33c2d0f7242e4",
+        "uid" : "5644744f34345d7a",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1203,7 +1203,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "16bf395d6f25b092",
+        "uid" : "b2ace1e781fd707c",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1215,7 +1215,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "489ee3b5ad3bc1a7",
+        "uid" : "d80614cceeee3408",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1227,7 +1227,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter glasgow name",
-        "uid" : "cb7368b450a3f1b",
+        "uid" : "c54256911ad95839",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1239,7 +1239,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "2f53e21555e70096",
+        "uid" : "fd7b3459b07903d9",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1251,7 +1251,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "b964304eedcad426",
+        "uid" : "df6b549b070e6bf4",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1263,7 +1263,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to hide the wethere forecast",
-        "uid" : "c5759ecb01a6dcf3",
+        "uid" : "c18a9d354155535d",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1275,7 +1275,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display the current climate of selected 2",
-        "uid" : "1bf63bafae534835",
+        "uid" : "3a74529bce7712fc",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1287,7 +1287,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display min and max temperature of selected 2",
-        "uid" : "790b7e6059c3e695",
+        "uid" : "f49f2eedb4a772c0",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1299,7 +1299,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 2",
-        "uid" : "28768df8452e3c82",
+        "uid" : "3e59787f673704f6",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1311,7 +1311,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 2",
-        "uid" : "b1a6dd03d716e173",
+        "uid" : "7da711001a3b1ccd",
         "parentUid" : "9d4d57d955c5453a423e18904a472949",
         "status" : "passed",
         "time" : {
@@ -1326,20 +1326,8 @@
     }, {
       "name" : ": Enter city name,to get 5 day weather forecast",
       "children" : [ {
-        "name" : "When I enter edinburgh name",
-        "uid" : "bbdc6bc4d35daa71",
-        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427147229,
-          "stop" : 1567427152183,
-          "duration" : 4954
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "3a2b134dbc0428dd",
+        "uid" : "ba8c3a71dc3e8f70",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
@@ -1351,7 +1339,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter dundee name",
-        "uid" : "16190365167a19ab",
+        "uid" : "38ed5bf96ac3dbcf",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
@@ -1363,7 +1351,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "bfae24c2d16b4a9b",
+        "uid" : "d56d6c5b652e40c",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
@@ -1375,7 +1363,7 @@
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "50fc2f6567e92945",
+        "uid" : "b0f4ef77b5d77513",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
@@ -1386,32 +1374,8 @@
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Hook",
-        "uid" : "128933cad69d9a44",
-        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427172446,
-          "stop" : 1567427172754,
-          "duration" : 308
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Given I open the site \"/\"",
-        "uid" : "7dd6a19f5b32c4b6",
-        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427172446,
-          "stop" : 1567427172446,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
         "name" : "When I enter glasgow name",
-        "uid" : "205249fe195ff0ca",
+        "uid" : "2c1b4a010258c63c",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
@@ -1422,14 +1386,50 @@
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Then I verify five days weather is displayed",
-        "uid" : "964d15360ff3593e",
+        "name" : "Given I open the site \"/\"",
+        "uid" : "891935e41633896a",
         "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427177481,
-          "stop" : 1567427177498,
-          "duration" : 17
+          "start" : 1567444036847,
+          "stop" : 1567444036849,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Hook",
+        "uid" : "cd5efafbf7852214",
+        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444036850,
+          "stop" : 1567444037600,
+          "duration" : 750
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter edinburgh name",
+        "uid" : "c6e361ca4b56b1fb",
+        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444037600,
+          "stop" : 1567444042507,
+          "duration" : 4907
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I verify five days weather is displayed",
+        "uid" : "53d74e40b017ef8c",
+        "parentUid" : "60be19f2c3837be8a0e4a88adfb2ebbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444042507,
+          "stop" : 1567444042533,
+          "duration" : 26
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -1438,169 +1438,169 @@
     }, {
       "name" : ": Select day to get 3 hourly forecast",
       "children" : [ {
-        "name" : "When I enter edinburgh name",
-        "uid" : "6b8d31d3ba6bdf8",
+        "name" : "Then I click on a 1 to check hourly forecast",
+        "uid" : "dda3d9710607a773",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427177799,
-          "stop" : 1567427182626,
-          "duration" : 4827
+          "start" : 1567443990496,
+          "stop" : 1567443990496,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "fde1fad93e782426",
+        "uid" : "330803383c36b291",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427186063,
-          "stop" : 1567427190874,
-          "duration" : 4811
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I click on a 1 to check hourly forecast",
-        "uid" : "8daf2a585e00437e",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427190892,
-          "stop" : 1567427194027,
-          "duration" : 3135
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter dundee name",
-        "uid" : "b0c86a3fe7b8d515",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427194309,
-          "stop" : 1567427198997,
-          "duration" : 4688
+          "start" : 1567443990496,
+          "stop" : 1567443990496,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 3 to check hourly forecast",
-        "uid" : "c35958eff0787467",
+        "uid" : "adaa2dc57cb93578",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427199016,
-          "stop" : 1567427202162,
-          "duration" : 3146
+          "start" : 1567443990526,
+          "stop" : 1567443990526,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter dundee name",
+        "uid" : "d59e65a6c6dc4b",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990526,
+          "stop" : 1567443990526,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "b6296dd6e4439109",
+        "uid" : "155280275036a590",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427202454,
-          "stop" : 1567427207146,
-          "duration" : 4692
+          "start" : 1567443990556,
+          "stop" : 1567443990556,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 4 to check hourly forecast",
-        "uid" : "ee0d1ca3ba65df91",
+        "uid" : "9b07289890f27d1b",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427207165,
-          "stop" : 1567427210309,
-          "duration" : 3144
+          "start" : 1567443990556,
+          "stop" : 1567443990556,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "183591d755550b25",
+        "uid" : "5b3d64ee976f46c1",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427210610,
-          "stop" : 1567427215370,
-          "duration" : 4760
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I click on a 5 to check hourly forecast",
-        "uid" : "59d71977278e9d69",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427215387,
-          "stop" : 1567427218529,
-          "duration" : 3142
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Given I open the site \"/\"",
-        "uid" : "b873ff573d54c924",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427218537,
-          "stop" : 1567427218539,
-          "duration" : 2
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Hook",
-        "uid" : "ac6426f57744e79a",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427218541,
-          "stop" : 1567427218856,
-          "duration" : 315
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter glasgow name",
-        "uid" : "548bad599760d606",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427218857,
-          "stop" : 1567427223542,
-          "duration" : 4685
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I verify five days weather is displayed",
-        "uid" : "d8f73a884d1f8719",
-        "parentUid" : "85532495e51ff37f4a66f5017123698f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427223542,
-          "stop" : 1567427223559,
-          "duration" : 17
+          "start" : 1567443990581,
+          "stop" : 1567443990581,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 2 to check hourly forecast",
-        "uid" : "65f8f3b2e7a142c7",
+        "uid" : "845613b67beea847",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990608,
+          "stop" : 1567443990608,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter glasgow name",
+        "uid" : "e03e53f26e0065c4",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990608,
+          "stop" : 1567443990608,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Hook",
+        "uid" : "56200ce518d95df7",
         "parentUid" : "85532495e51ff37f4a66f5017123698f",
         "status" : "passed",
         "time" : {
-          "start" : 1567427223559,
-          "stop" : 1567427226686,
+          "start" : 1567444042542,
+          "stop" : 1567444042844,
+          "duration" : 302
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Given I open the site \"/\"",
+        "uid" : "c953b66173ca2fe6",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444042542,
+          "stop" : 1567444042542,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter edinburgh name",
+        "uid" : "f1e5272da4ebc662",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444042844,
+          "stop" : 1567444047589,
+          "duration" : 4745
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I verify five days weather is displayed",
+        "uid" : "69eecb5d2f797a56",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444047589,
+          "stop" : 1567444047611,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I click on a 5 to check hourly forecast",
+        "uid" : "cf38c52d13b3531d",
+        "parentUid" : "85532495e51ff37f4a66f5017123698f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567444047611,
+          "stop" : 1567444050738,
           "duration" : 3127
         },
         "flaky" : false,
@@ -1611,229 +1611,229 @@
       "name" : ": Select day again to hide 3 hourly forecast",
       "children" : [ {
         "name" : "When I enter edinburgh name",
-        "uid" : "424bdafeaec0a425",
+        "uid" : "3457230f7aa695f6",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427226976,
-          "stop" : 1567427231784,
-          "duration" : 4808
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter aberdeen name",
-        "uid" : "1049084134f88f4b",
-        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427241286,
-          "stop" : 1567427246048,
-          "duration" : 4762
+          "start" : 1567443990634,
+          "stop" : 1567443990634,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "ee2e3dce03124d2c",
+        "uid" : "31694f1158c5d5b1",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427246066,
-          "stop" : 1567427249202,
-          "duration" : 3136
+          "start" : 1567443990660,
+          "stop" : 1567443990660,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter aberdeen name",
+        "uid" : "a965716f31985852",
+        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990660,
+          "stop" : 1567443990660,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 1 to hide the wethere forecast",
-        "uid" : "e507cf1fe54eda72",
+        "uid" : "b1d34029092d10b4",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427249202,
-          "stop" : 1567427255289,
-          "duration" : 6087
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter dundee name",
-        "uid" : "10657650696162ec",
-        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427255574,
-          "stop" : 1567427260239,
-          "duration" : 4665
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "b22f4eeac0bfeaf3",
-        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427260256,
-          "stop" : 1567427263395,
-          "duration" : 3139
+          "start" : 1567443990661,
+          "stop" : 1567443990661,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 3 to hide the wethere forecast",
-        "uid" : "c1e2b82a17ae7096",
+        "uid" : "648a83b7f6a420f1",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427263395,
-          "stop" : 1567427269502,
-          "duration" : 6107
+          "start" : 1567443990687,
+          "stop" : 1567443990687,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter dundee name",
+        "uid" : "cea39d7b7b997b03",
+        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990687,
+          "stop" : 1567443990687,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 3 to check hourly forecast",
+        "uid" : "2ce5b62e001fa185",
+        "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990687,
+          "stop" : 1567443990687,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "1f81c74472d5e7f0",
+        "uid" : "70182b7f5455ec32",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427269789,
-          "stop" : 1567427274449,
-          "duration" : 4660
+          "start" : 1567443990715,
+          "stop" : 1567443990715,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "a4d8acb92d0844cc",
+        "uid" : "896ff2fef88339ab",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427274466,
-          "stop" : 1567427277597,
-          "duration" : 3131
+          "start" : 1567443990715,
+          "stop" : 1567443990715,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 4 to hide the wethere forecast",
-        "uid" : "ce99d68d489a6b46",
+        "uid" : "4c9cb551f0811e1c",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427277597,
-          "stop" : 1567427283684,
-          "duration" : 6087
+          "start" : 1567443990716,
+          "stop" : 1567443990716,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "97243bc5484f1c4d",
+        "uid" : "249083f3762cca37",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427283989,
-          "stop" : 1567427288770,
-          "duration" : 4781
+          "start" : 1567443990745,
+          "stop" : 1567443990745,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "d1504d1961287712",
+        "uid" : "89775ec88926110c",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427288787,
-          "stop" : 1567427291921,
-          "duration" : 3134
+          "start" : 1567443990745,
+          "stop" : 1567443990745,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 5 to hide the wethere forecast",
-        "uid" : "5056986d1a69babf",
+        "uid" : "6b16968b75db54cc",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427291922,
-          "stop" : 1567427298007,
-          "duration" : 6085
+          "start" : 1567443990745,
+          "stop" : 1567443990745,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "e53a54ccd9d0f699",
+        "uid" : "52b0a083c68a5be1",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
         "status" : "passed",
         "time" : {
-          "start" : 1567427298016,
-          "stop" : 1567427298017,
-          "duration" : 1
+          "start" : 1567443990750,
+          "stop" : 1567443990750,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "ae8dceb535ec14e5",
+        "uid" : "334d0c9983bf3657",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "broken",
         "time" : {
-          "start" : 1567427298017,
-          "stop" : 1567427298289,
-          "duration" : 272
+          "start" : 1567443990750,
+          "stop" : 1567443990772,
+          "duration" : 22
         },
-        "flaky" : false,
+        "flaky" : true,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter glasgow name",
-        "uid" : "620c3634cdae91ec",
+        "uid" : "e8c80e7ab381f620",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427298289,
-          "stop" : 1567427302975,
-          "duration" : 4686
+          "start" : 1567443990772,
+          "stop" : 1567443990772,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "881cef499d9fa1cb",
+        "uid" : "f02b183770dc1c60",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427302975,
-          "stop" : 1567427302992,
-          "duration" : 17
+          "start" : 1567443990772,
+          "stop" : 1567443990773,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "a1d9e25c387ed5ee",
+        "uid" : "952ce40b53b456f3",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427302992,
-          "stop" : 1567427306132,
-          "duration" : 3140
+          "start" : 1567443990773,
+          "stop" : 1567443990773,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I click on a 2 to hide the wethere forecast",
-        "uid" : "bee8020697cf6332",
+        "uid" : "893d48663543a94e",
         "parentUid" : "f61d623a4f8e54ef195beedff9dc6971",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427306132,
-          "stop" : 1567427312214,
-          "duration" : 6082
+          "start" : 1567443990773,
+          "stop" : 1567443990773,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -1843,229 +1843,229 @@
       "name" : ": Display Most dominant (or current) condition of specific day",
       "children" : [ {
         "name" : "When I enter edinburgh name",
-        "uid" : "e15d99ad6d21c969",
+        "uid" : "dd2ce43ccd89c6b0",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427312494,
-          "stop" : 1567427317298,
-          "duration" : 4804
+          "start" : 1567443990799,
+          "stop" : 1567443990799,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "a447c0c1e4baf7d8",
+        "uid" : "c29494af3ea4e47a",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427320786,
-          "stop" : 1567427325628,
-          "duration" : 4842
+          "start" : 1567443990826,
+          "stop" : 1567443990827,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "1ab16ee1d1c2c662",
+        "uid" : "850350a43497a7cc",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427325646,
-          "stop" : 1567427328783,
-          "duration" : 3137
+          "start" : 1567443990827,
+          "stop" : 1567443990827,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the current climate of selected 1",
-        "uid" : "1cf1a0e3609c2d9c",
+        "uid" : "8e7e95079cb93604",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427328783,
-          "stop" : 1567427328807,
-          "duration" : 24
+          "start" : 1567443990827,
+          "stop" : 1567443990828,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter dundee name",
-        "uid" : "f839cdb4424e9227",
+        "uid" : "4edd3e43e86e9562",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427329126,
-          "stop" : 1567427333848,
-          "duration" : 4722
+          "start" : 1567443990852,
+          "stop" : 1567443990853,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "e04fb2d4d3ebbdf4",
+        "uid" : "9caab8d96fc753ed",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427333864,
-          "stop" : 1567427337001,
-          "duration" : 3137
+          "start" : 1567443990853,
+          "stop" : 1567443990853,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the current climate of selected 3",
-        "uid" : "f74d65ebf0ee563b",
+        "uid" : "816251d786e1f096",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427337001,
-          "stop" : 1567427337028,
-          "duration" : 27
+          "start" : 1567443990853,
+          "stop" : 1567443990853,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "efde3a197d63121e",
+        "uid" : "7b43df3a44d254a",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427337324,
-          "stop" : 1567427341945,
-          "duration" : 4621
+          "start" : 1567443990879,
+          "stop" : 1567443990879,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "61f7fe9ce4df7a6f",
+        "uid" : "ae314afdd5a46077",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427341963,
-          "stop" : 1567427345110,
-          "duration" : 3147
+          "start" : 1567443990879,
+          "stop" : 1567443990880,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the current climate of selected 4",
-        "uid" : "7bac54f951c0d524",
+        "uid" : "db79e195e75c36df",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427345110,
-          "stop" : 1567427345134,
-          "duration" : 24
+          "start" : 1567443990880,
+          "stop" : 1567443990880,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "ad7bdca0a3476efe",
+        "uid" : "53c7c42cfc7ed00d",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427345439,
-          "stop" : 1567427350528,
-          "duration" : 5089
+          "start" : 1567443990904,
+          "stop" : 1567443990904,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "94cc24a9780e5619",
+        "uid" : "352aac1cdb318785",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427350547,
-          "stop" : 1567427353684,
-          "duration" : 3137
+          "start" : 1567443990904,
+          "stop" : 1567443990904,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the current climate of selected 5",
-        "uid" : "41b40a91d3a4613d",
+        "uid" : "21d00ee433176a4d",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427353684,
-          "stop" : 1567427353709,
-          "duration" : 25
+          "start" : 1567443990904,
+          "stop" : 1567443990904,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "14b9b421d4765ef8",
+        "uid" : "8d07db4992aac748",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
         "status" : "passed",
         "time" : {
-          "start" : 1567427353716,
-          "stop" : 1567427353716,
+          "start" : 1567443990908,
+          "stop" : 1567443990908,
           "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "9a19fb140e02b112",
+        "uid" : "230aee0e35ade924",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "broken",
         "time" : {
-          "start" : 1567427353717,
-          "stop" : 1567427354010,
-          "duration" : 293
+          "start" : 1567443990908,
+          "stop" : 1567443990930,
+          "duration" : 22
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the current climate of selected 2",
+        "uid" : "1966f2cdb100e07a",
+        "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443990930,
+          "stop" : 1567443990931,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter glasgow name",
-        "uid" : "e757c76768901fd3",
+        "uid" : "d3a9b4cd689b3a48",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427354010,
-          "stop" : 1567427358724,
-          "duration" : 4714
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I verify five days weather is displayed",
-        "uid" : "c7e433e171fb14a0",
-        "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427358724,
-          "stop" : 1567427358741,
-          "duration" : 17
+          "start" : 1567443990930,
+          "stop" : 1567443990930,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "90a4f199f3f37e82",
+        "uid" : "a1c7bf6e40b156ee",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427358741,
-          "stop" : 1567427361866,
-          "duration" : 3125
+          "start" : 1567443990930,
+          "stop" : 1567443990930,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Then I display the current climate of selected 2",
-        "uid" : "a7b08226779f6396",
+        "name" : "And I verify five days weather is displayed",
+        "uid" : "1ea6d3d9bf09749",
         "parentUid" : "0764ce4974b5a1079fb101bb64d644c3",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427361867,
-          "stop" : 1567427361892,
-          "duration" : 25
+          "start" : 1567443990930,
+          "stop" : 1567443990930,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -2075,229 +2075,229 @@
       "name" : ": Display Most dominant (or current) wind speed and direction of specific day",
       "children" : [ {
         "name" : "When I enter edinburgh name",
-        "uid" : "65555686c97981df",
+        "uid" : "c8d50e6e34b17af0",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427362176,
-          "stop" : 1567427366964,
-          "duration" : 4788
+          "start" : 1567443990954,
+          "stop" : 1567443990954,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter aberdeen name",
-        "uid" : "14c4f7bd4558c001",
+        "uid" : "5173c3a44120e305",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427370447,
-          "stop" : 1567427375235,
-          "duration" : 4788
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "20b28c979853e28a",
-        "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427375253,
-          "stop" : 1567427378384,
-          "duration" : 3131
+          "start" : 1567443990979,
+          "stop" : 1567443990979,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 1",
-        "uid" : "99ac83f145a9b47e",
+        "uid" : "ed4cd751cc161f5f",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427378384,
-          "stop" : 1567427378415,
-          "duration" : 31
+          "start" : 1567443990980,
+          "stop" : 1567443990980,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "When I enter dundee name",
-        "uid" : "2854eeb450fc048",
+        "name" : "And I click on a 1 to check hourly forecast",
+        "uid" : "b1d8179c0cdcdc3c",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427378708,
-          "stop" : 1567427383394,
-          "duration" : 4686
+          "start" : 1567443990980,
+          "stop" : 1567443990980,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "c45c65fae885aa66",
+        "uid" : "2aa6026714b5a2c8",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427383410,
-          "stop" : 1567427386547,
-          "duration" : 3137
+          "start" : 1567443991004,
+          "stop" : 1567443991004,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter dundee name",
+        "uid" : "16ec1c868a01b2bc",
+        "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991004,
+          "stop" : 1567443991004,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 3",
-        "uid" : "7b13bc441c13bd81",
+        "uid" : "f0c5382fc85b1d49",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427386548,
-          "stop" : 1567427386579,
-          "duration" : 31
+          "start" : 1567443991005,
+          "stop" : 1567443991005,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter perth name",
-        "uid" : "7fc71bf3bf821123",
+        "uid" : "63ee0ad29e3b9ac3",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427386871,
-          "stop" : 1567427391510,
-          "duration" : 4639
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "61b4c2bd628fa361",
-        "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427391528,
-          "stop" : 1567427394660,
-          "duration" : 3132
+          "start" : 1567443991029,
+          "stop" : 1567443991029,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 4",
-        "uid" : "1c225d407e2e6b33",
+        "uid" : "cb349d329e822149",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427394661,
-          "stop" : 1567427394694,
-          "duration" : 33
+          "start" : 1567443991029,
+          "stop" : 1567443991030,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 4 to check hourly forecast",
+        "uid" : "831c487c4210697b",
+        "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991029,
+          "stop" : 1567443991029,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "e01375a8582869a8",
+        "uid" : "f15d5525e767b34b",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427394995,
-          "stop" : 1567427399760,
-          "duration" : 4765
+          "start" : 1567443991054,
+          "stop" : 1567443991055,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "aca6316e385dd1de",
+        "uid" : "97c00401b9359c3a",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427399777,
-          "stop" : 1567427402911,
-          "duration" : 3134
+          "start" : 1567443991055,
+          "stop" : 1567443991055,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 5",
-        "uid" : "e1422fa53eb3d1b2",
+        "uid" : "6e73bd55953ecf31",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427402911,
-          "stop" : 1567427402945,
-          "duration" : 34
+          "start" : 1567443991055,
+          "stop" : 1567443991055,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "ef45c70166ab7860",
+        "uid" : "371d25f7a50fd0ed",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
         "status" : "passed",
         "time" : {
-          "start" : 1567427402949,
-          "stop" : 1567427402950,
+          "start" : 1567443991057,
+          "stop" : 1567443991058,
           "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "2334e94f421dbe40",
+        "uid" : "3d7357d88bf4d6f6",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "broken",
         "time" : {
-          "start" : 1567427402950,
-          "stop" : 1567427403242,
-          "duration" : 292
+          "start" : 1567443991058,
+          "stop" : 1567443991078,
+          "duration" : 20
         },
-        "flaky" : false,
+        "flaky" : true,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter glasgow name",
-        "uid" : "292345fa6bcc4cf1",
+        "uid" : "742a0c5c0f390848",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427403243,
-          "stop" : 1567427407938,
-          "duration" : 4695
+          "start" : 1567443991078,
+          "stop" : 1567443991079,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "2a33b28d55caf122",
+        "uid" : "981b71ca34f497f8",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427407938,
-          "stop" : 1567427407955,
-          "duration" : 17
+          "start" : 1567443991079,
+          "stop" : 1567443991079,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "990179985719ca81",
+        "uid" : "e3e671577aca1a8a",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427407955,
-          "stop" : 1567427411084,
-          "duration" : 3129
+          "start" : 1567443991079,
+          "stop" : 1567443991079,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I display dominant wind speed of selected 2",
-        "uid" : "8948b2c6b2801fee",
+        "uid" : "bfbbffe7d9a88c87",
         "parentUid" : "b14abac7e72c7e07d255d8cd04e84d97",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427411084,
-          "stop" : 1567427411115,
-          "duration" : 31
+          "start" : 1567443991079,
+          "stop" : 1567443991079,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -2307,229 +2307,229 @@
       "name" : ": Display Aggregate rainfall of specific day",
       "children" : [ {
         "name" : "When I enter edinburgh name",
-        "uid" : "ce296724f9a0d643",
+        "uid" : "6432c6250903d704",
         "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427411407,
-          "stop" : 1567427416197,
-          "duration" : 4790
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter aberdeen name",
-        "uid" : "eed9b0442a792831",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427419669,
-          "stop" : 1567427424437,
-          "duration" : 4768
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "b6bc754b75b9a93e",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427424454,
-          "stop" : 1567427427583,
-          "duration" : 3129
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I display the aggregate rainfall of selected 1",
-        "uid" : "3ad98e202671a66",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427427584,
-          "stop" : 1567427427615,
-          "duration" : 31
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter dundee name",
-        "uid" : "319ab9b7dec73e9",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427427898,
-          "stop" : 1567427432575,
-          "duration" : 4677
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "c0be96632a4f4229",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427432590,
-          "stop" : 1567427435727,
-          "duration" : 3137
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I display the aggregate rainfall of selected 3",
-        "uid" : "a5f88271c91c98c",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427435727,
-          "stop" : 1567427435757,
-          "duration" : 30
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter perth name",
-        "uid" : "8b4764e0c4e134da",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427436044,
-          "stop" : 1567427440700,
-          "duration" : 4656
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "d0ac093dca1a3612",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427440717,
-          "stop" : 1567427443862,
-          "duration" : 3145
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I display the aggregate rainfall of selected 4",
-        "uid" : "f300a6626fc71892",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427443862,
-          "stop" : 1567427443894,
-          "duration" : 32
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter stirling name",
-        "uid" : "9c2ca4321a93a338",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427444189,
-          "stop" : 1567427448948,
-          "duration" : 4759
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "25478c526962fe35",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427448967,
-          "stop" : 1567427452101,
-          "duration" : 3134
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Then I display the aggregate rainfall of selected 5",
-        "uid" : "9ff3f515b2771681",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427452101,
-          "stop" : 1567427452133,
-          "duration" : 32
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Hook",
-        "uid" : "20e0b76c7d66ffaf",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427452138,
-          "stop" : 1567427452424,
-          "duration" : 286
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "Given I open the site \"/\"",
-        "uid" : "a49b73c5155e21e0",
-        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427452138,
-          "stop" : 1567427452138,
+          "start" : 1567443991103,
+          "stop" : 1567443991103,
           "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "When I enter glasgow name",
-        "uid" : "6ed3469ea9f878c8",
+        "name" : "When I enter aberdeen name",
+        "uid" : "33991c220f846aef",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991126,
+          "stop" : 1567443991126,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the aggregate rainfall of selected 1",
+        "uid" : "9a998f3e3a39723f",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991127,
+          "stop" : 1567443991127,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 1 to check hourly forecast",
+        "uid" : "5cd5d754564ed682",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991127,
+          "stop" : 1567443991127,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 3 to check hourly forecast",
+        "uid" : "dd3b011878839ea2",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991151,
+          "stop" : 1567443991151,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter dundee name",
+        "uid" : "ca67a5336d5ad0c5",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991151,
+          "stop" : 1567443991151,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the aggregate rainfall of selected 3",
+        "uid" : "f7da6baad2d082bb",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991151,
+          "stop" : 1567443991152,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter perth name",
+        "uid" : "187f51bae02336c5",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991177,
+          "stop" : 1567443991177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the aggregate rainfall of selected 4",
+        "uid" : "1ab5124279e7059c",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991177,
+          "stop" : 1567443991177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 4 to check hourly forecast",
+        "uid" : "c3eef64e8d7b1565",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991177,
+          "stop" : 1567443991177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter stirling name",
+        "uid" : "d17f3614fce0e49e",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991201,
+          "stop" : 1567443991202,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 5 to check hourly forecast",
+        "uid" : "a96d9f75b648200a",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991202,
+          "stop" : 1567443991202,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the aggregate rainfall of selected 5",
+        "uid" : "c15e42a1984f269b",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991202,
+          "stop" : 1567443991202,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Given I open the site \"/\"",
+        "uid" : "a7bf1fe6d8881e1b",
         "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
         "status" : "passed",
         "time" : {
-          "start" : 1567427452424,
-          "stop" : 1567427457110,
-          "duration" : 4686
+          "start" : 1567443991205,
+          "stop" : 1567443991205,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Hook",
+        "uid" : "fd5f01bf45ea39f",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1567443991205,
+          "stop" : 1567443991226,
+          "duration" : 21
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter glasgow name",
+        "uid" : "80a71631693eeff0",
+        "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991226,
+          "stop" : 1567443991226,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "8172481a0953a83c",
+        "uid" : "b5e237d505df171e",
         "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427457110,
-          "stop" : 1567427457125,
-          "duration" : 15
+          "start" : 1567443991226,
+          "stop" : 1567443991227,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "9e6ac486e19628f5",
+        "uid" : "a85b911b5b84d843",
         "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427457125,
-          "stop" : 1567427460262,
-          "duration" : 3137
+          "start" : 1567443991227,
+          "stop" : 1567443991227,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display the aggregate rainfall of selected 2",
-        "uid" : "e8722c355db57f01",
+        "uid" : "4781bc0d4968311a",
         "parentUid" : "696cbcd6150a46e1173e27daec7cfab0",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427460262,
-          "stop" : 1567427460290,
-          "duration" : 28
+          "start" : 1567443991227,
+          "stop" : 1567443991227,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -2538,230 +2538,230 @@
     }, {
       "name" : ": Display Minimum and maximum temperatures of specific day",
       "children" : [ {
-        "name" : "When I enter edinburgh name",
-        "uid" : "155f5bd3eecd1047",
+        "name" : "Then I display min and max temperature of selected 1",
+        "uid" : "15fb51da7e43645b",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427460584,
-          "stop" : 1567427465470,
-          "duration" : 4886
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter aberdeen name",
-        "uid" : "e380431daa8778cb",
-        "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427468954,
-          "stop" : 1567427473704,
-          "duration" : 4750
+          "start" : 1567443991274,
+          "stop" : 1567443991275,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 1 to check hourly forecast",
-        "uid" : "4a6e608791d7d836",
+        "uid" : "268025c8574f44e1",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427473720,
-          "stop" : 1567427476856,
-          "duration" : 3136
+          "start" : 1567443991274,
+          "stop" : 1567443991274,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Then I display min and max temperature of selected 1",
-        "uid" : "d4dabdbd4d4f0d05",
+        "name" : "When I enter aberdeen name",
+        "uid" : "abba22d40daae472",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427476857,
-          "stop" : 1567427476916,
-          "duration" : 59
+          "start" : 1567443991274,
+          "stop" : 1567443991274,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter dundee name",
-        "uid" : "eda52918ef5a7d20",
+        "uid" : "b5eeaa8fa8d97b0d",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427477209,
-          "stop" : 1567427481888,
-          "duration" : 4679
+          "start" : 1567443991304,
+          "stop" : 1567443991304,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 3 to check hourly forecast",
-        "uid" : "2644c9f4ffe03c8",
+        "uid" : "3da08fd1b23bfd27",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427481904,
-          "stop" : 1567427485045,
-          "duration" : 3141
+          "start" : 1567443991304,
+          "stop" : 1567443991304,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display min and max temperature of selected 3",
-        "uid" : "e5eefbfa0e7d1a67",
+        "uid" : "bc0f5b7ff6b31875",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427485046,
-          "stop" : 1567427485104,
-          "duration" : 58
-        },
-        "flaky" : false,
-        "parameters" : [ "chrome" ]
-      }, {
-        "name" : "When I enter perth name",
-        "uid" : "bd97070f6c7dce45",
-        "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
-        "time" : {
-          "start" : 1567427485397,
-          "stop" : 1567427490042,
-          "duration" : 4645
+          "start" : 1567443991305,
+          "stop" : 1567443991305,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I click on a 4 to check hourly forecast",
-        "uid" : "c2d829cdd6119e32",
+        "uid" : "4f345db5003fb9f7",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427490060,
-          "stop" : 1567427493199,
-          "duration" : 3139
+          "start" : 1567443991329,
+          "stop" : 1567443991329,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I display min and max temperature of selected 4",
-        "uid" : "bdc2affb9c1e8928",
+        "uid" : "e3c568dd9889351f",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427493199,
-          "stop" : 1567427493253,
-          "duration" : 54
+          "start" : 1567443991329,
+          "stop" : 1567443991329,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter perth name",
+        "uid" : "138c994d8b4bda2f",
+        "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991329,
+          "stop" : 1567443991329,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter stirling name",
-        "uid" : "d487ca4e81a20ad8",
+        "uid" : "bdac9d061c605b7",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427493554,
-          "stop" : 1567427498332,
-          "duration" : 4778
+          "start" : 1567443991352,
+          "stop" : 1567443991352,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "And I click on a 5 to check hourly forecast",
-        "uid" : "faf8ebe1e21ee02b",
+        "name" : "And I click on a 2 to check hourly forecast",
+        "uid" : "a7e2ff942dc0c971",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427498350,
-          "stop" : 1567427501502,
-          "duration" : 3152
+          "start" : 1567443991377,
+          "stop" : 1567443991377,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Then I display min and max temperature of selected 5",
-        "uid" : "da4906ebfb240bd5",
+        "name" : "Then I display min and max temperature of selected 2",
+        "uid" : "6e7f17b5c8fa39b",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427501502,
-          "stop" : 1567427501562,
-          "duration" : 60
+          "start" : 1567443991377,
+          "stop" : 1567443991378,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter glasgow name",
+        "uid" : "b0c095978c89e313",
+        "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1567443991377,
+          "stop" : 1567443991377,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "d1a1d38ac59d0a9e",
+        "uid" : "8ca227f5f323175f",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427501567,
-          "stop" : 1567427501568,
+          "start" : 1567445176539,
+          "stop" : 1567445176540,
           "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Hook",
-        "uid" : "e875c284313c55d7",
+        "uid" : "650a173a1d4a9964",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427501568,
-          "stop" : 1567427501858,
-          "duration" : 290
+          "start" : 1567445176541,
+          "stop" : 1567445177336,
+          "duration" : 795
         },
-        "flaky" : false,
+        "flaky" : true,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "When I enter glasgow name",
-        "uid" : "7be285ec39424764",
+        "name" : "When I enter edinburgh name",
+        "uid" : "9b02132f7ecb7a78",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427501858,
-          "stop" : 1567427506528,
-          "duration" : 4670
+          "start" : 1567445177336,
+          "stop" : 1567445182196,
+          "duration" : 4860
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "And I verify five days weather is displayed",
-        "uid" : "73e2ea917c3a7cba",
+        "uid" : "1ce000cc01b9f3a",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427506528,
-          "stop" : 1567427506544,
-          "duration" : 16
+          "start" : 1567445182196,
+          "stop" : 1567445182221,
+          "duration" : 25
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "And I click on a 2 to check hourly forecast",
-        "uid" : "f4a44c78cb415110",
+        "name" : "And I click on a 5 to check hourly forecast",
+        "uid" : "c981753175c239a4",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427506545,
-          "stop" : 1567427509679,
-          "duration" : 3134
+          "start" : 1567445182221,
+          "stop" : 1567445185348,
+          "duration" : 3127
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
-        "name" : "Then I display min and max temperature of selected 2",
-        "uid" : "57d6420a9b7ce53c",
+        "name" : "Then I display min and max temperature of selected 5",
+        "uid" : "3325867e8c1aac7b",
         "parentUid" : "a135d0c1efebef95b2bf4556bebe9cdc",
         "status" : "passed",
         "time" : {
-          "start" : 1567427509679,
-          "stop" : 1567427509736,
-          "duration" : 57
+          "start" : 1567445185348,
+          "stop" : 1567445185418,
+          "duration" : 70
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -2771,54 +2771,206 @@
       "name" : ": Error scenarios",
       "children" : [ {
         "name" : "Hook",
-        "uid" : "4519926851e6600a",
+        "uid" : "c07d902979dfc958",
         "parentUid" : "5c217f68557653090d5576a00396be70",
-        "status" : "passed",
+        "status" : "broken",
         "time" : {
-          "start" : 1567427509742,
-          "stop" : 1567427510032,
-          "duration" : 290
+          "start" : 1567443991380,
+          "stop" : 1567443991402,
+          "duration" : 22
         },
-        "flaky" : false,
+        "flaky" : true,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Given I open the site \"/\"",
-        "uid" : "6e264453a13784e2",
+        "uid" : "2f078d86123b2d6e",
         "parentUid" : "5c217f68557653090d5576a00396be70",
         "status" : "passed",
         "time" : {
-          "start" : 1567427509742,
-          "stop" : 1567427509742,
+          "start" : 1567443991380,
+          "stop" : 1567443991380,
           "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "When I enter invalidcity name",
-        "uid" : "df88e3cbc11bf0e1",
+        "uid" : "547d6ca0416da4a9",
         "parentUid" : "5c217f68557653090d5576a00396be70",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427510032,
-          "stop" : 1567427514826,
-          "duration" : 4794
+          "start" : 1567443991403,
+          "stop" : 1567443991403,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "Then I verify blank value for city display error Error retrieving the forecast",
-        "uid" : "4437e11fcf0c4da1",
+        "uid" : "b2045a9e7d13c339",
         "parentUid" : "5c217f68557653090d5576a00396be70",
-        "status" : "passed",
+        "status" : "skipped",
         "time" : {
-          "start" : 1567427514826,
-          "stop" : 1567427514852,
-          "duration" : 26
+          "start" : 1567443991403,
+          "stop" : 1567443991403,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       } ],
       "uid" : "5c217f68557653090d5576a00396be70"
+    }, {
+      "name" : ": Display Aggregate rainfall of specific day with the values rounded down",
+      "children" : [ {
+        "name" : "Given I open the site \"/\"",
+        "uid" : "33c4cf996f8d58d8",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445679917,
+          "stop" : 1567445679919,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Hook",
+        "uid" : "6c64c51bc84e055d",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445679920,
+          "stop" : 1567445680711,
+          "duration" : 791
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter edinburgh name",
+        "uid" : "52e71bf4b4bf916d",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445680712,
+          "stop" : 1567445685589,
+          "duration" : 4877
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I verify five days weather is displayed",
+        "uid" : "7ddcdfba09dfaf1c",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445685589,
+          "stop" : 1567445685615,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 5 to check hourly forecast",
+        "uid" : "5bb64e3b6b810787",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445685615,
+          "stop" : 1567445688741,
+          "duration" : 3126
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display the aggregate rainfall of selected 5",
+        "uid" : "e953ec1e06b02fe3",
+        "parentUid" : "77e7e66610b8b6842326c278c806debe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445688741,
+          "stop" : 1567445688775,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "77e7e66610b8b6842326c278c806debe"
+    }, {
+      "name" : ": Display Minimum and maximum temperatures of specific day with the values rounded down",
+      "children" : [ {
+        "name" : "Given I open the site \"/\"",
+        "uid" : "158b90038a2fbc9b",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445922075,
+          "stop" : 1567445922076,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Hook",
+        "uid" : "7b93e9f13c36bcf",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445922077,
+          "stop" : 1567445922898,
+          "duration" : 821
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "When I enter edinburgh name",
+        "uid" : "91a6d3d6dc78d95f",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445922898,
+          "stop" : 1567445927766,
+          "duration" : 4868
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I verify five days weather is displayed",
+        "uid" : "b4b3906021c35144",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445927766,
+          "stop" : 1567445927789,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "And I click on a 5 to check hourly forecast",
+        "uid" : "f5a23d0e4f204bcd",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445927790,
+          "stop" : 1567445930922,
+          "duration" : 3132
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "Then I display min and max temperature of selected 5",
+        "uid" : "d0d8486af90d1503",
+        "parentUid" : "4972d14b8e5e6a15715181df3694656d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567445930922,
+          "stop" : 1567445930986,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "4972d14b8e5e6a15715181df3694656d"
     } ],
     "uid" : "d1164ef29bdd1f0c97056c71ef72eaaa"
   } ]
