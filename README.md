@@ -1,4 +1,4 @@
-Includes scenarios to test weather forecast web application for a given location.
+Includes scenarios to test weather forecast web application for specific location.
 
 ### Scenarios -  Acceptance testing for weather forecast application
 
@@ -13,6 +13,9 @@ Which tests the following requirements
   * Aggregate rainfall
   * Minimum and maximum temperatures
 * All values should be rounded down
+
+
+Node version used - v10.15.0
 
 
 You'll need node and npm installed - first off, install the required dependencies:
