@@ -1,0 +1,113 @@
+{
+  "uid" : "ebff606ff55d508e",
+  "name" : "Then I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "To test the weather forecast application.: Error scenarios.Then I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "1869aa29f23720c1e3396a42748aad32",
+  "time" : {
+    "start" : 1567411031461,
+    "stop" : 1567411031488,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567411031461,
+        "stop" : 1567411031473,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f92f4db2a73633c1",
+        "name" : "Request",
+        "source" : "f92f4db2a73633c1.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "bba3ae9e3cbbab6a",
+        "name" : "Response",
+        "source" : "bba3ae9e3cbbab6a.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.5385115054956335-2/text",
+      "time" : {
+        "start" : 1567411031475,
+        "stop" : 1567411031488,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "32ff123db8486dc3",
+        "name" : "Response",
+        "source" : "32ff123db8486dc3.json",
+        "type" : "application/json",
+        "size" : 31
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebff606ff55d508e.json",
+  "parameterValues" : [ "chrome" ]
+}

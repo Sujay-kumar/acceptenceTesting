@@ -1,0 +1,158 @@
+{
+  "uid" : "d8f73a884d1f8719",
+  "name" : "And I verify five days weather is displayed",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.And I verify five days weather is displayed",
+  "historyId" : "caa50353044bd37979d3b0d8e9af7d1",
+  "time" : {
+    "start" : 1567427223542,
+    "stop" : 1567427223559,
+    "duration" : 17
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1567427223543,
+        "stop" : 1567427223551,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8e62f9cbc640a0e2",
+        "name" : "Request",
+        "source" : "8e62f9cbc640a0e2.json",
+        "type" : "application/json",
+        "size" : 83
+      }, {
+        "uid" : "3edd45b33a082cd7",
+        "name" : "Response",
+        "source" : "3edd45b33a082cd7.json",
+        "type" : "application/json",
+        "size" : 237
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify five days weather is displayed"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9302e934230e5eda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427215370,
+        "stop" : 1567427215386,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "cfae0b4599f5cce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427207146,
+        "stop" : 1567427207165,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "c423bd1fad4486ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427198998,
+        "stop" : 1567427199016,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "98312e43ccf11ac7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427190874,
+        "stop" : 1567427190892,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "b1ec7e35094a0f5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427182626,
+        "stop" : 1567427182644,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "95fed55e5b72cee5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427064477,
+        "stop" : 1567427064494,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "4e3ea710cc073d9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427059309,
+        "stop" : 1567427059326,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "f6f5916c5e032b5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427054051,
+        "stop" : 1567427054070,
+        "duration" : 19
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8f73a884d1f8719.json",
+  "parameterValues" : [ "chrome" ]
+}

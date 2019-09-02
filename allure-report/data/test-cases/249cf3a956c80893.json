@@ -1,0 +1,128 @@
+{
+  "uid" : "249cf3a956c80893",
+  "name" : "Hook",
+  "fullName" : "To test the weather application.: Error scenarios.Hook",
+  "historyId" : "64cdb94611fbcd45ad7408797ec2fa68",
+  "time" : {
+    "start" : 1567379650555,
+    "stop" : 1567379650830,
+    "duration" : 275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1567379650555,
+        "stop" : 1567379650830,
+        "duration" : 275
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "861a8910a795a14f",
+        "name" : "Request",
+        "source" : "861a8910a795a14f.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3ce4ec253e363b0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379345864,
+        "stop" : 1567379346133,
+        "duration" : 269
+      }
+    }, {
+      "uid" : "597573868122a0ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378279570,
+        "stop" : 1567378279873,
+        "duration" : 303
+      }
+    }, {
+      "uid" : "f479f66af1ed72c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378195703,
+        "stop" : 1567378196016,
+        "duration" : 313
+      }
+    }, {
+      "uid" : "88e9e990a0f15311",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377561725,
+        "stop" : 1567377562028,
+        "duration" : 303
+      }
+    }, {
+      "uid" : "2b0d96f5abe9be2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377403126,
+        "stop" : 1567377403424,
+        "duration" : 298
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "249cf3a956c80893.json",
+  "parameterValues" : [ "chrome" ]
+}

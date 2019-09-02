@@ -1,0 +1,128 @@
+{
+  "uid" : "2334e94f421dbe40",
+  "name" : "Hook",
+  "fullName" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day.Hook",
+  "historyId" : "f7ada7499394f548254825ca305116cc",
+  "time" : {
+    "start" : 1567427402950,
+    "stop" : 1567427403242,
+    "duration" : 292
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1567427402950,
+        "stop" : 1567427403242,
+        "duration" : 292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3fdee2b750a4e97d",
+        "name" : "Request",
+        "source" : "3fdee2b750a4e97d.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Most dominant (or current) wind speed and direction of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ea95e8d530bfb69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427394699,
+        "stop" : 1567427394995,
+        "duration" : 296
+      }
+    }, {
+      "uid" : "29c4d075bd8fc705",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427386587,
+        "stop" : 1567427386871,
+        "duration" : 284
+      }
+    }, {
+      "uid" : "57ac87d9c88a0ccd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427378421,
+        "stop" : 1567427378708,
+        "duration" : 287
+      }
+    }, {
+      "uid" : "8be8579c50f6e517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427370149,
+        "stop" : 1567427370447,
+        "duration" : 298
+      }
+    }, {
+      "uid" : "bad3148d46c3c559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427361898,
+        "stop" : 1567427362176,
+        "duration" : 278
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2334e94f421dbe40.json",
+  "parameterValues" : [ "chrome" ]
+}

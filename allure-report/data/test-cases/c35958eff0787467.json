@@ -1,0 +1,159 @@
+{
+  "uid" : "c35958eff0787467",
+  "name" : "Then I click on a 3 to check hourly forecast",
+  "fullName" : "To test the weather forecast application.: Select day to get 3 hourly forecast.Then I click on a 3 to check hourly forecast",
+  "historyId" : "32fedcd9af6a55ca5da7e43a4aa0dd1",
+  "time" : {
+    "start" : 1567427199016,
+    "stop" : 1567427202162,
+    "duration" : 3146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427199017,
+        "stop" : 1567427199032,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d4c106b962d6c81b",
+        "name" : "Request",
+        "source" : "d4c106b962d6c81b.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "9a54bdc802f9fb70",
+        "name" : "Response",
+        "source" : "9a54bdc802f9fb70.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.18234202109640996-4/click",
+      "time" : {
+        "start" : 1567427199033,
+        "stop" : 1567427199129,
+        "duration" : 96
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567427199129,
+        "stop" : 1567427199140,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b500da9c4b4542ef",
+        "name" : "Request",
+        "source" : "b500da9c4b4542ef.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "7d3f03a59f91dcbb",
+        "name" : "Response",
+        "source" : "7d3f03a59f91dcbb.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.18234202109640996-7/displayed",
+      "time" : {
+        "start" : 1567427199143,
+        "stop" : 1567427199157,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on a 3 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Select day to get 3 hourly forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55b1b0fbd2a6af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427064494,
+        "stop" : 1567427064633,
+        "duration" : 139
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c35958eff0787467.json",
+  "parameterValues" : [ "chrome" ]
+}

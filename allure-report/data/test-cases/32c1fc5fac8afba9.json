@@ -1,0 +1,171 @@
+{
+  "uid" : "32c1fc5fac8afba9",
+  "name" : "And I display the current climate of selected 5",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.And I display the current climate of selected 5",
+  "historyId" : "f688f1931135c80089d1510387cb5321",
+  "time" : {
+    "start" : 1567379634987,
+    "stop" : 1567379635012,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379634988,
+        "stop" : 1567379635002,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "40594332a8f64574",
+        "name" : "Request",
+        "source" : "40594332a8f64574.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "7b743b4ff547cff2",
+        "name" : "Response",
+        "source" : "7b743b4ff547cff2.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.2629634242578378-9/attribute/aria-label",
+      "time" : {
+        "start" : 1567379635003,
+        "stop" : 1567379635012,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "45d0a8f42de13875",
+        "name" : "Response",
+        "source" : "45d0a8f42de13875.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I display the current climate of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "483e8e060cb3abdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379573230,
+        "stop" : 1567379573255,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "3f1b022d6967127b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330313,
+        "stop" : 1567379330338,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "5857ddaae8b7d804",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379268604,
+        "stop" : 1567379268628,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "c554c06b22a64f79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378279401,
+        "stop" : 1567378279425,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "f14b0e64b2ec2aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378195534,
+        "stop" : 1567378195559,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "9d4c417aacd04e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377561586,
+        "stop" : 1567377561611,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "6a73e751bb1a54eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377402986,
+        "stop" : 1567377403011,
+        "duration" : 25
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32c1fc5fac8afba9.json",
+  "parameterValues" : [ "chrome" ]
+}

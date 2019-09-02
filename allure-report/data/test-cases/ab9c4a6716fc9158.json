@@ -1,0 +1,179 @@
+{
+  "uid" : "ab9c4a6716fc9158",
+  "name" : "And I enter invalidcity name",
+  "fullName" : "To test the weather application.: Error scenarios.And I enter invalidcity name",
+  "historyId" : "81c1f7a362b3cb39dd3cab718358dbb8",
+  "time" : {
+    "start" : 1567378279873,
+    "stop" : 1567378288581,
+    "duration" : 8708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567378279874,
+        "stop" : 1567378279884,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8c5d42457ba7fed0",
+        "name" : "Request",
+        "source" : "8c5d42457ba7fed0.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "1635892a4ed40b8e",
+        "name" : "Response",
+        "source" : "1635892a4ed40b8e.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9921689602064709-1/clear",
+      "time" : {
+        "start" : 1567378279885,
+        "stop" : 1567378279913,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9921689602064709-1/clear",
+      "time" : {
+        "start" : 1567378279913,
+        "stop" : 1567378279925,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9921689602064709-1/value",
+      "time" : {
+        "start" : 1567378279925,
+        "stop" : 1567378280453,
+        "duration" : 528
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "50b673a810031aa6",
+        "name" : "Request",
+        "source" : "50b673a810031aa6.json",
+        "type" : "application/json",
+        "size" : 118
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9921689602064709-1/clear",
+      "time" : {
+        "start" : 1567378284456,
+        "stop" : 1567378284472,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9921689602064709-1/value",
+      "time" : {
+        "start" : 1567378284472,
+        "stop" : 1567378284577,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bd050d2dee2a12af",
+        "name" : "Request",
+        "source" : "bd050d2dee2a12af.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter invalidcity name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab9c4a6716fc9158.json",
+  "parameterValues" : [ "chrome" ]
+}

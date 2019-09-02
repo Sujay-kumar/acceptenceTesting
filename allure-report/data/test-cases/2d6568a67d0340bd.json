@@ -1,0 +1,149 @@
+{
+  "uid" : "2d6568a67d0340bd",
+  "name" : "And I click on a 5 to hide the wethere forecast",
+  "fullName" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same..And I click on a 5 to hide the wethere forecast",
+  "historyId" : "d9dfda51015dd51897b6e6af295645dc",
+  "time" : {
+    "start" : 1567410996184,
+    "stop" : 1567411005762,
+    "duration" : 9578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567410999185,
+        "stop" : 1567410999200,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a966ff42f90fd9a",
+        "name" : "Request",
+        "source" : "7a966ff42f90fd9a.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "5f9cad3043726b82",
+        "name" : "Response",
+        "source" : "5f9cad3043726b82.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.9665024422819701-6/click",
+      "time" : {
+        "start" : 1567410999201,
+        "stop" : 1567411005762,
+        "duration" : 6561
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to hide the wethere forecast"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e795bbb425765b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410935793,
+        "stop" : 1567410938873,
+        "duration" : 3080
+      }
+    }, {
+      "uid" : "8bd8a6f59cea267b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410735985,
+        "stop" : 1567410742096,
+        "duration" : 6111
+      }
+    }, {
+      "uid" : "fd0fbe583eeb6d4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410674330,
+        "stop" : 1567410680451,
+        "duration" : 6121
+      }
+    }, {
+      "uid" : "b5220017328b508e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380369818,
+        "stop" : 1567380375931,
+        "duration" : 6113
+      }
+    }, {
+      "uid" : "49fb2ad53a6ad60d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380308194,
+        "stop" : 1567380314309,
+        "duration" : 6115
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d6568a67d0340bd.json",
+  "parameterValues" : [ "chrome" ]
+}

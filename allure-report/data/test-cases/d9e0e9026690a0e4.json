@@ -1,0 +1,123 @@
+{
+  "uid" : "d9e0e9026690a0e4",
+  "name" : "Then I display the aggregate rainfall of selected 5",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.Then I display the aggregate rainfall of selected 5",
+  "historyId" : "626d5c4c98a14eaaa433150fe6e7affe",
+  "time" : {
+    "start" : 1567379635126,
+    "stop" : 1567379635162,
+    "duration" : 36
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567379635127,
+        "stop" : 1567379635144,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fddc518cd5be95ff",
+        "name" : "Request",
+        "source" : "fddc518cd5be95ff.json",
+        "type" : "application/json",
+        "size" : 65
+      }, {
+        "uid" : "3239fc037e14f8ea",
+        "name" : "Response",
+        "source" : "3239fc037e14f8ea.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.2629634242578378-12/text",
+      "time" : {
+        "start" : 1567379635146,
+        "stop" : 1567379635161,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5e1368b96a7e4c0d",
+        "name" : "Response",
+        "source" : "5e1368b96a7e4c0d.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I display the aggregate rainfall of selected 5"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8242c71322d6565",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379573351,
+        "stop" : 1567379573386,
+        "duration" : 35
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9e0e9026690a0e4.json",
+  "parameterValues" : [ "chrome" ]
+}

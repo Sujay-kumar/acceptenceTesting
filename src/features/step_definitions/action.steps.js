@@ -23,6 +23,7 @@ Given(/^I verify five days weather is displayed$/, function () {
 Given(/^I click on a (.*) to check hourly forecast$/, function (val) {
     let elem = $("//*[@data-test='day-"+val+"']").click();
     let horlyForcast = $("//span[contains(@data-test, 'hour-')]").isDisplayed();
+    browser.pause(3000);
 
 
 });
@@ -30,8 +31,6 @@ Given(/^I click on a (.*) to hide the wethere forecast$/, function (val) {
     browser.pause(3000);
     let elem = $("//*[@data-test='day-"+val+"']").click();
     browser.pause(3000);
-    let maxtemp = $("//*[@data-test='maximum-"+val+"']").getText();
-    console.log(maxtemp);
 });
 Given(/^I enter (.*) name$/, function (city) {
     elem = $('#city');
@@ -39,12 +38,12 @@ Given(/^I enter (.*) name$/, function (city) {
     EnterCiry = elem.setValue(city);
     browser.pause(4000);
     elem.setValue(Webdriver.Key.ENTER);
-    browser.pause(4000);
 });
 
 Given(/^I verify blank value for city display error (.*)$/, function (msg) {
     let getErr = $("//*[@data-test='error']").getText();
     assert.equal(msg,getErr);
+    browser.pause(4000);
 });
 Given(/^I get value$/, function () {
     elem = $("//div[@data-reactroot]/div[1]/div/span[2]");

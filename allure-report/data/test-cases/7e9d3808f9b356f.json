@@ -1,0 +1,149 @@
+{
+  "uid" : "7e9d3808f9b356f",
+  "name" : "And I click on a 5 to check hourly forecast",
+  "fullName" : "Test the page title: Check weather forecast for specific city.And I click on a 5 to check hourly forecast",
+  "historyId" : "a16c9622c3bacdc660c847b70a4dbc72",
+  "time" : {
+    "start" : 1567115584400,
+    "stop" : 1567115584527,
+    "duration" : 127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567115584401,
+        "stop" : 1567115584416,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "902bd8b86b90ad40",
+        "name" : "Request",
+        "source" : "902bd8b86b90ad40.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "5afec9b5027813cc",
+        "name" : "Response",
+        "source" : "5afec9b5027813cc.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.4657508308872178-6/click",
+      "time" : {
+        "start" : 1567115584417,
+        "stop" : 1567115584498,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567115584498,
+        "stop" : 1567115584512,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e5eff0113dcb252d",
+        "name" : "Request",
+        "source" : "e5eff0113dcb252d.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "4bb407f9e0b8a464",
+        "name" : "Response",
+        "source" : "4bb407f9e0b8a464.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.4657508308872178-7/displayed",
+      "time" : {
+        "start" : 1567115584515,
+        "stop" : 1567115584527,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a 5 to check hourly forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e9d3808f9b356f.json",
+  "parameterValues" : [ "chrome" ]
+}

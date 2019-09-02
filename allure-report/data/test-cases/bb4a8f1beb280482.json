@@ -1,0 +1,197 @@
+{
+  "uid" : "bb4a8f1beb280482",
+  "name" : "When I enter dundee name",
+  "fullName" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same..When I enter dundee name",
+  "historyId" : "a5a8ec9c0d7621d68899756a82577bd6",
+  "time" : {
+    "start" : 1567410947756,
+    "stop" : 1567410952545,
+    "duration" : 4789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567410947756,
+        "stop" : 1567410947766,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a90936bd19cb497",
+        "name" : "Request",
+        "source" : "8a90936bd19cb497.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "9092b596b25caa88",
+        "name" : "Response",
+        "source" : "9092b596b25caa88.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-1/clear",
+      "time" : {
+        "start" : 1567410947767,
+        "stop" : 1567410947794,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-1/clear",
+      "time" : {
+        "start" : 1567410947794,
+        "stop" : 1567410947806,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-1/value",
+      "time" : {
+        "start" : 1567410947807,
+        "stop" : 1567410948159,
+        "duration" : 352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3b92127c84f83e8b",
+        "name" : "Request",
+        "source" : "3b92127c84f83e8b.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-1/clear",
+      "time" : {
+        "start" : 1567410952161,
+        "stop" : 1567410952177,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/0.28340577645788656-1/value",
+      "time" : {
+        "start" : 1567410952177,
+        "stop" : 1567410952545,
+        "duration" : 368
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1995969c185bcab5",
+        "name" : "Request",
+        "source" : "1995969c185bcab5.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter dundee name"
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Check weather forecast for specific city and summarize the same."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd37f47d6e44d2b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567410696370,
+        "stop" : 1567410705003,
+        "duration" : 8633
+      }
+    }, {
+      "uid" : "958a0da99755654e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567380330229,
+        "stop" : 1567380338903,
+        "duration" : 8674
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb4a8f1beb280482.json",
+  "parameterValues" : [ "chrome" ]
+}

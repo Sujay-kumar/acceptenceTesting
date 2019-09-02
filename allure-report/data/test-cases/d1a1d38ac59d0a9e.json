@@ -1,0 +1,97 @@
+{
+  "uid" : "d1a1d38ac59d0a9e",
+  "name" : "Given I open the site \"/\"",
+  "fullName" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day.Given I open the site \"/\"",
+  "historyId" : "7f82e3f9999de682d520f721cdd29a48",
+  "time" : {
+    "start" : 1567427501567,
+    "stop" : 1567427501568,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the site \"/\""
+  }, {
+    "name" : "package",
+    "value" : "To test the weather forecast application.: Display Minimum and maximum temperatures of specific day"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b4683a8c3e9c1fbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427493258,
+        "stop" : 1567427493259,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f96d1d851884d969",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427485109,
+        "stop" : 1567427485109,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "470b2c2af2e5f932",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427476921,
+        "stop" : 1567427476921,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3748f88ef5f9ed07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427468679,
+        "stop" : 1567427468679,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "42f7857a0e639a8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567427460294,
+        "stop" : 1567427460294,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1a1d38ac59d0a9e.json",
+  "parameterValues" : [ "chrome" ]
+}

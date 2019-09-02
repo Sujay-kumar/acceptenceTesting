@@ -1,0 +1,611 @@
+{
+  "uid" : "4693f53c03a46e50",
+  "name" : "And I verify blank value for city display error Error retrieving the forecast",
+  "fullName" : "Test the page title: Error scenarios.And I verify blank value for city display error Error retrieving the forecast",
+  "historyId" : "dc2e0533a6abfe5bc8a43c3f4e8456f",
+  "time" : {
+    "start" : 1567376728135,
+    "stop" : 1567376728167,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1567376728135,
+        "stop" : 1567376728150,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bae7521d3c7ab28b",
+        "name" : "Request",
+        "source" : "bae7521d3c7ab28b.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "6dc85d6cd94297e9",
+        "name" : "Response",
+        "source" : "6dc85d6cd94297e9.json",
+        "type" : "application/json",
+        "size" : 40
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0.07724913229306374-2/text",
+      "time" : {
+        "start" : 1567376728152,
+        "stop" : 1567376728167,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "39d3b60332f1cdbc",
+        "name" : "Response",
+        "source" : "39d3b60332f1cdbc.json",
+        "type" : "application/json",
+        "size" : 31
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify blank value for city display error Error retrieving the forecast"
+  }, {
+    "name" : "package",
+    "value" : "Test the page title: Error scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd8436af9548b544",
+      "status" : "broken",
+      "statusDetails" : "getErr.getText is not a function",
+      "time" : {
+        "start" : 1567376645645,
+        "stop" : 1567376645681,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "72795faa583e4de8",
+      "status" : "broken",
+      "statusDetails" : "val is not defined",
+      "time" : {
+        "start" : 1567376467732,
+        "stop" : 1567376467736,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "8fd0e6b28b3fa9d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567339637665,
+        "stop" : 1567339637703,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "a95aa450f8b4114d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567339400116,
+        "stop" : 1567339400159,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "9649840ed71f2b36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567339326583,
+        "stop" : 1567339326627,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "2cea99d80cc1bd4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567339273288,
+        "stop" : 1567339273334,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "a40b9676bb6a91e4",
+      "status" : "broken",
+      "statusDetails" : "city is not defined",
+      "time" : {
+        "start" : 1567330123217,
+        "stop" : 1567330132620,
+        "duration" : 9403
+      }
+    }, {
+      "uid" : "7b19b74091058837",
+      "status" : "broken",
+      "statusDetails" : "city is not defined",
+      "time" : {
+        "start" : 1567329936878,
+        "stop" : 1567329945962,
+        "duration" : 9084
+      }
+    }, {
+      "uid" : "9d80e2adca5df441",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'keys' of undefined",
+      "time" : {
+        "start" : 1567329899888,
+        "stop" : 1567329899951,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "fc16eb70ed97d1b1",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'keys' of undefined",
+      "time" : {
+        "start" : 1567288496152,
+        "stop" : 1567288496203,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "7b4b7b928e0567ed",
+      "status" : "broken",
+      "statusDetails" : "city is not defined",
+      "time" : {
+        "start" : 1567286966220,
+        "stop" : 1567286975306,
+        "duration" : 9086
+      }
+    }, {
+      "uid" : "3f73fcb7a1c5911f",
+      "status" : "broken",
+      "statusDetails" : "city is not defined",
+      "time" : {
+        "start" : 1567286685884,
+        "stop" : 1567286695331,
+        "duration" : 9447
+      }
+    }, {
+      "uid" : "62bb3cc3267ecc9e",
+      "status" : "broken",
+      "statusDetails" : "city is not defined",
+      "time" : {
+        "start" : 1567286632205,
+        "stop" : 1567286641624,
+        "duration" : 9419
+      }
+    }, {
+      "uid" : "b3a47f72c986802f",
+      "status" : "broken",
+      "statusDetails" : "elem is not defined",
+      "time" : {
+        "start" : 1567286604114,
+        "stop" : 1567286604541,
+        "duration" : 427
+      }
+    }, {
+      "uid" : "895ae9afb281422f",
+      "status" : "broken",
+      "statusDetails" : "Malformed type for \"value\" parameter of command sendKeys\n                Expected: string[]\n                Actual: string\n                \n                For more info see https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol#sessionsessionidkeys\n                ",
+      "time" : {
+        "start" : 1567286531078,
+        "stop" : 1567286531137,
+        "duration" : 59
+      }
+    }, {
+      "uid" : "944f36ec6acde691",
+      "status" : "broken",
+      "statusDetails" : "Webdriver.keypress is not a function",
+      "time" : {
+        "start" : 1567285868485,
+        "stop" : 1567285877542,
+        "duration" : 9057
+      }
+    }, {
+      "uid" : "1a85ee22fdc264b3",
+      "status" : "broken",
+      "statusDetails" : "browser.keypress is not a function",
+      "time" : {
+        "start" : 1567285760387,
+        "stop" : 1567285769443,
+        "duration" : 9056
+      }
+    }, {
+      "uid" : "87c8285b64c82387",
+      "status" : "broken",
+      "statusDetails" : "elem.keypress is not a function",
+      "time" : {
+        "start" : 1567285702263,
+        "stop" : 1567285711320,
+        "duration" : 9057
+      }
+    }, {
+      "uid" : "e2aabe0908e56734",
+      "status" : "broken",
+      "statusDetails" : "elem.enter is not a function",
+      "time" : {
+        "start" : 1567285468909,
+        "stop" : 1567285477974,
+        "duration" : 9065
+      }
+    }, {
+      "uid" : "8dd873387b875b93",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567285409987,
+        "stop" : 1567285409988,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fb5abc486b1cf631",
+      "status" : "broken",
+      "statusDetails" : "elem.keypress is not a function",
+      "time" : {
+        "start" : 1567285332407,
+        "stop" : 1567285341480,
+        "duration" : 9073
+      }
+    }, {
+      "uid" : "dd5ce7a92069c3f1",
+      "status" : "broken",
+      "statusDetails" : "elem.keypress is not a function",
+      "time" : {
+        "start" : 1567181141844,
+        "stop" : 1567181150920,
+        "duration" : 9076
+      }
+    }, {
+      "uid" : "ed2c2dccb8e76e55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567180659450,
+        "stop" : 1567180672521,
+        "duration" : 13071
+      }
+    }, {
+      "uid" : "c18825113bc34b09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567180085147,
+        "stop" : 1567180098218,
+        "duration" : 13071
+      }
+    }, {
+      "uid" : "e6afd8046ad634c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567180049678,
+        "stop" : 1567180058734,
+        "duration" : 9056
+      }
+    }, {
+      "uid" : "c775b24208fa8875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567179821889,
+        "stop" : 1567179831321,
+        "duration" : 9432
+      }
+    }, {
+      "uid" : "9e437df1ea21b1ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567179792621,
+        "stop" : 1567179802034,
+        "duration" : 9413
+      }
+    }, {
+      "uid" : "fc03734bd2184150",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567179754860,
+        "stop" : 1567179764264,
+        "duration" : 9404
+      }
+    }, {
+      "uid" : "5946da5b71d11fe1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567179413204,
+        "stop" : 1567179422639,
+        "duration" : 9435
+      }
+    }, {
+      "uid" : "adbe097cdb98fe5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567178554624,
+        "stop" : 1567178564005,
+        "duration" : 9381
+      }
+    }, {
+      "uid" : "90607d383659c3c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567178503864,
+        "stop" : 1567178513499,
+        "duration" : 9635
+      }
+    }, {
+      "uid" : "bee996117ef501d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567178460440,
+        "stop" : 1567178469493,
+        "duration" : 9053
+      }
+    }, {
+      "uid" : "63bc48d89bde8f9c",
+      "status" : "broken",
+      "statusDetails" : "elem.clear is not a function",
+      "time" : {
+        "start" : 1567176971138,
+        "stop" : 1567176971165,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "c67fcbacac987a05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567176906675,
+        "stop" : 1567176916054,
+        "duration" : 9379
+      }
+    }, {
+      "uid" : "d06af42167d11361",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567176756680,
+        "stop" : 1567176766060,
+        "duration" : 9380
+      }
+    }, {
+      "uid" : "f925627e8630763",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567176671819,
+        "stop" : 1567176681259,
+        "duration" : 9440
+      }
+    }, {
+      "uid" : "aef8eacf70a0eea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567176574813,
+        "stop" : 1567176584246,
+        "duration" : 9433
+      }
+    }, {
+      "uid" : "9f607fa92d5915c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567175311462,
+        "stop" : 1567175320867,
+        "duration" : 9405
+      }
+    }, {
+      "uid" : "1df8d2d2746e590d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567175269641,
+        "stop" : 1567175278095,
+        "duration" : 8454
+      }
+    }, {
+      "uid" : "b133a930a88b34d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567175009737,
+        "stop" : 1567175018221,
+        "duration" : 8484
+      }
+    }, {
+      "uid" : "501784b0f692d3e4",
+      "status" : "broken",
+      "statusDetails" : "elem.sendKeyEvent is not a function",
+      "time" : {
+        "start" : 1567163445079,
+        "stop" : 1567163449140,
+        "duration" : 4061
+      }
+    }, {
+      "uid" : "777f0d5344df9bb7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1567163366731,
+        "stop" : 1567163366731,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "975d5b2474b68047",
+      "status" : "broken",
+      "statusDetails" : "browser.sendKeyEvent is not a function",
+      "time" : {
+        "start" : 1567163256478,
+        "stop" : 1567163260534,
+        "duration" : 4056
+      }
+    }, {
+      "uid" : "136bc1fef407f7bc",
+      "status" : "broken",
+      "statusDetails" : "elem.accessKey is not a function",
+      "time" : {
+        "start" : 1567162911173,
+        "stop" : 1567162915234,
+        "duration" : 4061
+      }
+    }, {
+      "uid" : "fecfa7dba6fd7c56",
+      "status" : "broken",
+      "statusDetails" : "Malformed type for \"value\" parameter of command sendKeys\n                Expected: string[]\n                Actual: string\n                \n                For more info see https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol#sessionsessionidkeys\n                ",
+      "time" : {
+        "start" : 1567162866281,
+        "stop" : 1567162870335,
+        "duration" : 4054
+      }
+    }, {
+      "uid" : "b236ad0f1a52e300",
+      "status" : "broken",
+      "statusDetails" : "Malformed type for \"value\" parameter of command sendKeys\n                Expected: string[]\n                Actual: string\n                \n                For more info see https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol#sessionsessionidkeys\n                ",
+      "time" : {
+        "start" : 1567162779744,
+        "stop" : 1567162783797,
+        "duration" : 4053
+      }
+    }, {
+      "uid" : "54628b8bd23ca7bd",
+      "status" : "broken",
+      "statusDetails" : "Malformed type for \"value\" parameter of command sendKeys\n                Expected: string[]\n                Actual: string\n                \n                For more info see https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol#sessionsessionidkeys\n                ",
+      "time" : {
+        "start" : 1567162614435,
+        "stop" : 1567162618499,
+        "duration" : 4064
+      }
+    }, {
+      "uid" : "8953db47027c59a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567161419150,
+        "stop" : 1567161427258,
+        "duration" : 8108
+      }
+    }, {
+      "uid" : "d1e7d8548be235f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567161262793,
+        "stop" : 1567161271225,
+        "duration" : 8432
+      }
+    }, {
+      "uid" : "1f90956aab7ce646",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567161232985,
+        "stop" : 1567161237436,
+        "duration" : 4451
+      }
+    }, {
+      "uid" : "ce2e43ed904e5ea5",
+      "status" : "broken",
+      "statusDetails" : "Errormsg.isDisplayed(...).then is not a function",
+      "time" : {
+        "start" : 1567160042258,
+        "stop" : 1567160046709,
+        "duration" : 4451
+      }
+    }, {
+      "uid" : "9dc36d8bce718668",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"//div[text()='Error retrieving the forecast']\" because element wasn't found",
+      "time" : {
+        "start" : 1567159973293,
+        "stop" : 1567159987700,
+        "duration" : 14407
+      }
+    }, {
+      "uid" : "d676a986ae3de9b7",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of null",
+      "time" : {
+        "start" : 1567159829924,
+        "stop" : 1567159829978,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "e47ead3c6687dbb",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of null",
+      "time" : {
+        "start" : 1567159799447,
+        "stop" : 1567159799498,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "5c95ffa3ebb56ba5",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of null",
+      "time" : {
+        "start" : 1567159737713,
+        "stop" : 1567159737768,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "e9f31d2e82d37c6f",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"//div[text()='Error retrieving the forecast']\" because element wasn't found",
+      "time" : {
+        "start" : 1567159629330,
+        "stop" : 1567159639741,
+        "duration" : 10411
+      }
+    }, {
+      "uid" : "e86836bfd49e1ac9",
+      "status" : "broken",
+      "statusDetails" : "Errormsg.isDisplayed is not a function",
+      "time" : {
+        "start" : 1567149973850,
+        "stop" : 1567149974231,
+        "duration" : 381
+      }
+    }, {
+      "uid" : "f56e9055a23e654e",
+      "status" : "broken",
+      "statusDetails" : "msg.isDisplayed is not a function",
+      "time" : {
+        "start" : 1567149891111,
+        "stop" : 1567149891464,
+        "duration" : 353
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4693f53c03a46e50.json",
+  "parameterValues" : [ "chrome" ]
+}

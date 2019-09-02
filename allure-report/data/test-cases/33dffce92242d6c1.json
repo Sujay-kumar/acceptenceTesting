@@ -1,0 +1,177 @@
+{
+  "uid" : "33dffce92242d6c1",
+  "name" : "Given I open the site \"/\"",
+  "fullName" : "To test the weather application.: Check weather forecast for specific city.Given I open the site \"/\"",
+  "historyId" : "285d6bbecfe6ec5af6d0c50e767e6e22",
+  "time" : {
+    "start" : 1567379635175,
+    "stop" : 1567379635175,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the site \"/\""
+  }, {
+    "name" : "package",
+    "value" : "To test the weather application.: Check weather forecast for specific city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1913bc2106f57426",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379619704,
+        "stop" : 1567379619707,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "fd1134335a18981d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379604328,
+        "stop" : 1567379604329,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9385e2dd7416cc20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379588899,
+        "stop" : 1567379588900,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "aebe38da1eb9bffa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379573407,
+        "stop" : 1567379573407,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ed65672bfb7810cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379557186,
+        "stop" : 1567379557188,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b005dc99d3397f86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379330496,
+        "stop" : 1567379330497,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8709ff6b5a3b25b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379315057,
+        "stop" : 1567379315060,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a540d9fd562f6582",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379299692,
+        "stop" : 1567379299693,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "97112424e8b4b6c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379284236,
+        "stop" : 1567379284236,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b5ab6ce3bbd92385",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379268780,
+        "stop" : 1567379268780,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b8b386c7264a2feb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567379252569,
+        "stop" : 1567379252571,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "7ba64339becb9af0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378262198,
+        "stop" : 1567378262199,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6234fd151528dd77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567378179034,
+        "stop" : 1567378179036,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8692c074a152101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377544258,
+        "stop" : 1567377544260,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "538e1e462f31cf87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567377387152,
+        "stop" : 1567377387154,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33dffce92242d6c1.json",
+  "parameterValues" : [ "chrome" ]
+}
