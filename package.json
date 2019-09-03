@@ -86,7 +86,7 @@
     "test:all": "cross-env NODE_ENV=test mocha --require test/setup.js --recursive --compilers js:babel-register",
     "test:watch": "npm test -- --watch",
     "postinstall": "npm run build",
-    "test": "react-scripts start & ( npx wdio wdio.conf.js --spec ./src/features/e2etests/weatherForecast.feature)"
+    "test": "react-scripts start & ( npx wdio wdio.conf.js )"
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"

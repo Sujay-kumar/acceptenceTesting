@@ -57,6 +57,14 @@ Given(/^I display dominant wind speed of selected (.*)$/, function (val) {
 Given(/^I display the current climate of selected (.*)$/, function (val) {
     let currentWeather = $("//*[@data-test='description-"+val+"']").getAttribute('aria-label');
     console.log("The current weather condition of selected day is:"+currentWeather);
+    const Climate = { Rain: 'Rain', Clear: 'Clear', Clouds: 'Clouds'};
+    if(currentWeather === Climate.Rain){
+        console.log("Current weather condtion is Rain");
+    }else if (currentWeather === Climate.Clear){
+        console.log("Current weather is Clear");
+    }else if (currentWeather === Climate.Clouds) {
+        console.log("Current weather is Clouds");
+    }
 });
 Given(/^I display the aggregate rainfall of selected (.*)$/, function (val) {
     let aggregateRainfall = $("//*[@data-test='rainfall-"+val+"']").getText();
