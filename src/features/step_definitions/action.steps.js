@@ -10,6 +10,7 @@ Given(/^I open the site "\/"$/, function () {
 Given(/^I verify five days weather is displayed$/, function () {
     var results = $$("//div[@data-reactroot]/div/div/span[1]/span[1]");
     let text = results.length;
+    //validation
     if(text===5){
         console.log("****** five days weather is displayed **********" );
     }else {
@@ -47,17 +48,18 @@ Given(/^I get value$/, function () {
 Given(/^I display min and max temperature of selected (.*)$/, function (val) {
     let maxtemp = $("//*[@data-test='maximum-"+val+"']").getText();
     let mintemp = $("//*[@data-test='minimum-"+val+"']").getText();
-    console.log("The maximum temperature of selected day is:"+Math.round(parseInt(maxtemp))+" degrees");
-    console.log("The minimum temperature of selected day is:"+Math.round(parseInt(mintemp))+" degrees");
+    console.log("The maximum temperature of selected day is:"+Math.round(parseInt(maxtemp))+" degrees");  //with value rounded down
+    console.log("The minimum temperature of selected day is:"+Math.round(parseInt(mintemp))+" degrees");  //with value rounded down
 });
 Given(/^I display dominant wind speed of selected (.*)$/, function (val) {
     let windSpeed = $("//*[@data-test='speed-"+val+"']").getText();
-    console.log("The current wind speed of selected day is:"+Math.round(parseInt(windSpeed))+"kph");
+    console.log("The current wind speed of selected day is:"+Math.round(parseInt(windSpeed))+"kph"); //with value rounded down
 });
 Given(/^I display the current climate of selected (.*)$/, function (val) {
     let currentWeather = $("//*[@data-test='description-"+val+"']").getAttribute('aria-label');
     console.log("The current weather condition of selected day is:"+currentWeather);
     const Climate = { Rain: 'Rain', Clear: 'Clear', Clouds: 'Clouds'};
+    //validation
     if(currentWeather === Climate.Rain){
         console.log("Current weather condtion is Rain");
     }else if (currentWeather === Climate.Clear){
@@ -68,5 +70,5 @@ Given(/^I display the current climate of selected (.*)$/, function (val) {
 });
 Given(/^I display the aggregate rainfall of selected (.*)$/, function (val) {
     let aggregateRainfall = $("//*[@data-test='rainfall-"+val+"']").getText();
-    console.log("Aggregate raisfall of selected day:"+Math.round(parseInt(aggregateRainfall))+"mm");
+    console.log("Aggregate raisfall of selected day:"+Math.round(parseInt(aggregateRainfall))+"mm"); //with value rounded down
 });
